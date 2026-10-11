@@ -1,0 +1,16 @@
+{
+  "name": "美甲圖庫知識網",
+  "short_name": "美甲知識",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#f7f5f0",
+  "theme_color": "#c2547d",
+  "lang": "zh-Hant",
+  "icons": [
+    {
+      "src": "assets/images/home-hero.webp",
+      "sizes": "1280x720",
+      "type": "image/webp"
+    }
+  ]
+}

@@ -1,0 +1,970 @@
+{
+ "site": {
+  "name": "美甲圖庫知識網",
+  "name_en": "Nail Art Encyclopedia",
+  "desc": "最齊全的大白話美甲知識庫：從凝膠、水晶到彩繪與款式，認識原理、做法步驟、優缺點與新手雷區，一站搞懂美甲。",
+  "rootUrl": "https://nailart.example.com/",
+  "version": "v1.0.0",
+  "updated": "2026-10-10"
+ },
+ "chapters": [
+  {
+   "id": "basics",
+   "zh": "入門與基礎",
+   "en": "Basics",
+   "desc": "認識指甲結構、衛生消毒與新手工具，美甲師的第一本說明書。",
+   "subs": [
+    {
+     "id": "anatomy",
+     "zh": "認識指甲與甲床",
+     "en": "Nail Anatomy",
+     "desc": "指甲構造、甲型與指緣。"
+    },
+    {
+     "id": "hygiene",
+     "zh": "衛生消毒與器材",
+     "en": "Hygiene & Tools",
+     "desc": "消毒滅菌流程與環境把關。"
+    },
+    {
+     "id": "getstarted",
+     "zh": "美甲師入門",
+     "en": "Getting Started",
+     "desc": "新手工具清單與學習路徑。"
+    }
+   ]
+  },
+  {
+   "id": "gel",
+   "zh": "凝膠美甲",
+   "en": "Gel Nails",
+   "desc": "凝膠的原理、底膠、光療燈與固化，一次講透。",
+   "subs": [
+    {
+     "id": "gel-basic",
+     "zh": "凝膠基礎",
+     "en": "Gel Basics",
+     "desc": "凝膠是什麼、硬膠軟膠、凝膠指甲油。"
+    },
+    {
+     "id": "gel-base",
+     "zh": "底膠與上層",
+     "en": "Base & Top Coat",
+     "desc": "底膠、封層與可剝底膠的功用。"
+    },
+    {
+     "id": "gel-curing",
+     "zh": "光療燈與固化",
+     "en": "Curing & Lamps",
+     "desc": "LED/UV 燈、固化時間與過度固化。"
+    },
+    {
+     "id": "soak-off",
+     "zh": "可剝凝膠",
+     "en": "Soak-off & Peel",
+     "desc": "假性凝膠與可卸凝膠。"
+    }
+   ]
+  },
+  {
+   "id": "acrylic",
+   "zh": "水晶指甲",
+   "en": "Acrylic Nails",
+   "desc": "水晶粉與液體粉的原理、延甲與雕塑。",
+   "subs": [
+    {
+     "id": "acrylic-basic",
+     "zh": "水晶原理",
+     "en": "Acrylic Basics",
+     "desc": "液體＋粉末的聚合原理與取粉成珠。"
+    },
+    {
+     "id": "acrylic-extension",
+     "zh": "水晶延甲",
+     "en": "Acrylic Extension",
+     "desc": "水晶延長、甲片與法式水晶。"
+    },
+    {
+     "id": "acrylic-sculpt",
+     "zh": "水晶雕塑",
+     "en": "Acrylic Sculpting",
+     "desc": "水晶雕花與立體造型。"
+    }
+   ]
+  },
+  {
+   "id": "techniques",
+   "zh": "彩繪技法",
+   "en": "Nail Art Techniques",
+   "desc": "從手繪、漸層暈染到法式，彩繪基本功大全。",
+   "subs": [
+    {
+     "id": "handpaint",
+     "zh": "手繪彩繪",
+     "en": "Hand Painting",
+     "desc": "點點、線條、小花與自由手繪。"
+    },
+    {
+     "id": "gradient-blend",
+     "zh": "漸層與暈染",
+     "en": "Gradient & Blending",
+     "desc": "漸層、暈染與水彩渲染。"
+    },
+    {
+     "id": "texture-marble",
+     "zh": "大理石與紋理",
+     "en": "Texture & Marble",
+     "desc": "大理石紋、爆裂紋與動物紋。"
+    },
+    {
+     "id": "french",
+     "zh": "法式美甲",
+     "en": "French Manicure",
+     "desc": "法式、反向法式與微笑線。"
+    },
+    {
+     "id": "advanced-tech",
+     "zh": "進階技法",
+     "en": "Advanced Techniques",
+     "desc": "貓眼、鏡面、星空、凝膠雕花等。"
+    }
+   ]
+  },
+  {
+   "id": "styles",
+   "zh": "款式風格",
+   "en": "Nail Styles",
+   "desc": "果凍、裸色、婚禮、Y2K……款式字典。",
+   "subs": [
+    {
+     "id": "trends",
+     "zh": "流行款式",
+     "en": "Trending Styles",
+     "desc": "果凍、玻璃紙、珍珠與亮片。"
+    },
+    {
+     "id": "minimal",
+     "zh": "極簡與商務",
+     "en": "Minimal & Office",
+     "desc": "裸色、極簡與通勤款。"
+    },
+    {
+     "id": "occasions",
+     "zh": "場合款式",
+     "en": "Occasions",
+     "desc": "婚禮、派對與節慶款。"
+    },
+    {
+     "id": "personality",
+     "zh": "個性風格",
+     "en": "Personality Styles",
+     "desc": "Y2K、暗黑、復古、日系韓系。"
+    }
+   ]
+  },
+  {
+   "id": "extension",
+   "zh": "延甲與矯正",
+   "en": "Extension & Correction",
+   "desc": "把指甲變長、變美，矯正咬甲與畸形甲。",
+   "subs": [
+    {
+     "id": "extension-tech",
+     "zh": "延甲技法",
+     "en": "Extension Techniques",
+     "desc": "紙模延長、補甲與壓力點。"
+    },
+    {
+     "id": "correction",
+     "zh": "甲型矯正",
+     "en": "Nail Correction",
+     "desc": "咬甲、捲甲與扇形甲矯正。"
+    },
+    {
+     "id": "nail-tips",
+     "zh": "甲片應用",
+     "en": "Nail Tips",
+     "desc": "穿戴式甲片、全覆蓋與半甲片。"
+    }
+   ]
+  },
+  {
+   "id": "removal-care",
+   "zh": "卸甲與保養",
+   "en": "Removal & Care",
+   "desc": "正確卸甲與指甲健康，別再傷甲床。",
+   "subs": [
+    {
+     "id": "removal",
+     "zh": "正確卸甲",
+     "en": "Removal",
+     "desc": "卸凝膠、打磨卸甲與卸甲頻率。"
+    },
+    {
+     "id": "nail-health",
+     "zh": "指甲健康",
+     "en": "Nail Health",
+     "desc": "脆甲、變黃、分層與強化。"
+    },
+    {
+     "id": "handcare",
+     "zh": "手部保養",
+     "en": "Hand Care",
+     "desc": "指緣、護手與手部 SPA。"
+    }
+   ]
+  },
+  {
+   "id": "products",
+   "zh": "產品與工具",
+   "en": "Products & Tools",
+   "desc": "選對色膠、彩繪筆與設備，少花冤枉錢。",
+   "subs": [
+    {
+     "id": "color-gel",
+     "zh": "色膠選擇",
+     "en": "Color Gel",
+     "desc": "色膠、果凍色膠與濃稠度。"
+    },
+    {
+     "id": "tools",
+     "zh": "工具挑選",
+     "en": "Tools",
+     "desc": "彩繪筆、銼刀、粉塵機與電動打磨機。"
+    },
+    {
+     "id": "equipment",
+     "zh": "設備與環境",
+     "en": "Equipment",
+     "desc": "光療燈、工作環境與消毒用品。"
+    }
+   ]
+  },
+  {
+   "id": "business",
+   "zh": "沙龍經營",
+   "en": "Salon Business",
+   "desc": "定價、服務、行銷與衛生法規一把抓。",
+   "subs": [
+    {
+     "id": "pricing",
+     "zh": "定價與成本",
+     "en": "Pricing & Cost",
+     "desc": "定價、成本控制與菜單設計。"
+    },
+    {
+     "id": "service",
+     "zh": "服務流程與客訴",
+     "en": "Service & Complaints",
+     "desc": "服務流程、客訴處理與回客。"
+    },
+    {
+     "id": "marketing",
+     "zh": "行銷與社群",
+     "en": "Marketing",
+     "desc": "IG 行銷、在地行銷與轉介紹。"
+    },
+    {
+     "id": "regulations",
+     "zh": "衛生法規與證照",
+     "en": "Regulations",
+     "desc": "證照、衛生法規與執業保險。"
+    }
+   ]
+  },
+  {
+   "id": "troubleshoot",
+   "zh": "疑難排解",
+   "en": "Troubleshooting",
+   "desc": "起翹、變黃、過敏……問題對症下藥。",
+   "subs": [
+    {
+     "id": "lifting",
+     "zh": "起翹與掉落",
+     "en": "Lifting",
+     "desc": "起翹原因、整片掉落與前端起翹。"
+    },
+    {
+     "id": "discoloration",
+     "zh": "變黃與染色",
+     "en": "Discoloration",
+     "desc": "變黃、染色與霧面。"
+    },
+    {
+     "id": "reactions",
+     "zh": "過敏與刺激",
+     "en": "Allergies & Irritation",
+     "desc": "凝膠過敏、接觸性皮膚炎與燈燙傷。"
+    },
+    {
+     "id": "mistakes",
+     "zh": "新手失誤",
+     "en": "Common Mistakes",
+     "desc": "溢膠、氣泡與縮膠。"
+    }
+   ]
+  },
+  {
+   "id": "comparison",
+   "zh": "選用比較",
+   "en": "Compare & Choose",
+   "desc": "凝膠 vs 水晶、延甲 vs 甲片，一次比清。",
+   "subs": [
+    {
+     "id": "compare",
+     "zh": "技法對照",
+     "en": "Comparison",
+     "desc": "常被搞混的技法一次比清。"
+    },
+    {
+     "id": "choose",
+     "zh": "選用指南",
+     "en": "Choosing Guide",
+     "desc": "依生活、甲況與風格選對做法。"
+    }
+   ]
+  }
+ ],
+ "articles": [
+  {
+   "slug": "nail-anatomy",
+   "chapter": "basics",
+   "sub": "anatomy"
+  },
+  {
+   "slug": "nail-plate",
+   "chapter": "basics",
+   "sub": "anatomy"
+  },
+  {
+   "slug": "nail-shape",
+   "chapter": "basics",
+   "sub": "anatomy"
+  },
+  {
+   "slug": "cuticle",
+   "chapter": "basics",
+   "sub": "anatomy"
+  },
+  {
+   "slug": "sterilization",
+   "chapter": "basics",
+   "sub": "hygiene"
+  },
+  {
+   "slug": "filing-tools",
+   "chapter": "basics",
+   "sub": "hygiene"
+  },
+  {
+   "slug": "workstation",
+   "chapter": "basics",
+   "sub": "hygiene"
+  },
+  {
+   "slug": "cross-contamination",
+   "chapter": "basics",
+   "sub": "hygiene"
+  },
+  {
+   "slug": "starter-kit",
+   "chapter": "basics",
+   "sub": "getstarted"
+  },
+  {
+   "slug": "learn-path",
+   "chapter": "basics",
+   "sub": "getstarted"
+  },
+  {
+   "slug": "nail-types",
+   "chapter": "basics",
+   "sub": "getstarted"
+  },
+  {
+   "slug": "gel-what",
+   "chapter": "gel",
+   "sub": "gel-basic"
+  },
+  {
+   "slug": "gel-lamp",
+   "chapter": "gel",
+   "sub": "gel-basic"
+  },
+  {
+   "slug": "gel-polish",
+   "chapter": "gel",
+   "sub": "gel-basic"
+  },
+  {
+   "slug": "hard-soft-gel",
+   "chapter": "gel",
+   "sub": "gel-basic"
+  },
+  {
+   "slug": "base-coat",
+   "chapter": "gel",
+   "sub": "gel-base"
+  },
+  {
+   "slug": "top-coat",
+   "chapter": "gel",
+   "sub": "gel-base"
+  },
+  {
+   "slug": "rubber-base",
+   "chapter": "gel",
+   "sub": "gel-base"
+  },
+  {
+   "slug": "peel-off-base",
+   "chapter": "gel",
+   "sub": "gel-base"
+  },
+  {
+   "slug": "uv-led-lamp",
+   "chapter": "gel",
+   "sub": "gel-curing"
+  },
+  {
+   "slug": "curing-time",
+   "chapter": "gel",
+   "sub": "gel-curing"
+  },
+  {
+   "slug": "undercure-overcure",
+   "chapter": "gel",
+   "sub": "gel-curing"
+  },
+  {
+   "slug": "peel-gel",
+   "chapter": "gel",
+   "sub": "soak-off"
+  },
+  {
+   "slug": "soak-off-gel",
+   "chapter": "gel",
+   "sub": "soak-off"
+  },
+  {
+   "slug": "acrylic-what",
+   "chapter": "acrylic",
+   "sub": "acrylic-basic"
+  },
+  {
+   "slug": "monomer",
+   "chapter": "acrylic",
+   "sub": "acrylic-basic"
+  },
+  {
+   "slug": "acrylic-bead",
+   "chapter": "acrylic",
+   "sub": "acrylic-basic"
+  },
+  {
+   "slug": "acrylic-ext",
+   "chapter": "acrylic",
+   "sub": "acrylic-extension"
+  },
+  {
+   "slug": "nail-tips",
+   "chapter": "acrylic",
+   "sub": "acrylic-extension"
+  },
+  {
+   "slug": "acrylic-french",
+   "chapter": "acrylic",
+   "sub": "acrylic-extension"
+  },
+  {
+   "slug": "sculpting",
+   "chapter": "acrylic",
+   "sub": "acrylic-sculpt"
+  },
+  {
+   "slug": "3d-acrylic",
+   "chapter": "acrylic",
+   "sub": "acrylic-sculpt"
+  },
+  {
+   "slug": "dotting",
+   "chapter": "techniques",
+   "sub": "handpaint"
+  },
+  {
+   "slug": "line-art",
+   "chapter": "techniques",
+   "sub": "handpaint"
+  },
+  {
+   "slug": "flower-nailart",
+   "chapter": "techniques",
+   "sub": "handpaint"
+  },
+  {
+   "slug": "freehand",
+   "chapter": "techniques",
+   "sub": "handpaint"
+  },
+  {
+   "slug": "gradient",
+   "chapter": "techniques",
+   "sub": "gradient-blend"
+  },
+  {
+   "slug": "ombre",
+   "chapter": "techniques",
+   "sub": "gradient-blend"
+  },
+  {
+   "slug": "watercolor",
+   "chapter": "techniques",
+   "sub": "gradient-blend"
+  },
+  {
+   "slug": "marble",
+   "chapter": "techniques",
+   "sub": "texture-marble"
+  },
+  {
+   "slug": "crackle",
+   "chapter": "techniques",
+   "sub": "texture-marble"
+  },
+  {
+   "slug": "animal-print",
+   "chapter": "techniques",
+   "sub": "texture-marble"
+  },
+  {
+   "slug": "french-tips",
+   "chapter": "techniques",
+   "sub": "french"
+  },
+  {
+   "slug": "reverse-french",
+   "chapter": "techniques",
+   "sub": "french"
+  },
+  {
+   "slug": "micro-french",
+   "chapter": "techniques",
+   "sub": "french"
+  },
+  {
+   "slug": "cat-eye",
+   "chapter": "techniques",
+   "sub": "advanced-tech"
+  },
+  {
+   "slug": "magnetic-gel",
+   "chapter": "techniques",
+   "sub": "advanced-tech"
+  },
+  {
+   "slug": "foil-nail",
+   "chapter": "techniques",
+   "sub": "advanced-tech"
+  },
+  {
+   "slug": "mirror-nails",
+   "chapter": "techniques",
+   "sub": "advanced-tech"
+  },
+  {
+   "slug": "starry-nail",
+   "chapter": "techniques",
+   "sub": "advanced-tech"
+  },
+  {
+   "slug": "3d-gel",
+   "chapter": "techniques",
+   "sub": "advanced-tech"
+  },
+  {
+   "slug": "jelly-nails",
+   "chapter": "styles",
+   "sub": "trends"
+  },
+  {
+   "slug": "glass-nails",
+   "chapter": "styles",
+   "sub": "trends"
+  },
+  {
+   "slug": "pearl-nails",
+   "chapter": "styles",
+   "sub": "trends"
+  },
+  {
+   "slug": "glitter-nails",
+   "chapter": "styles",
+   "sub": "trends"
+  },
+  {
+   "slug": "nude-nails",
+   "chapter": "styles",
+   "sub": "minimal"
+  },
+  {
+   "slug": "minimalist",
+   "chapter": "styles",
+   "sub": "minimal"
+  },
+  {
+   "slug": "office-nails",
+   "chapter": "styles",
+   "sub": "minimal"
+  },
+  {
+   "slug": "white-nails",
+   "chapter": "styles",
+   "sub": "minimal"
+  },
+  {
+   "slug": "wedding-nails",
+   "chapter": "styles",
+   "sub": "occasions"
+  },
+  {
+   "slug": "party-nails",
+   "chapter": "styles",
+   "sub": "occasions"
+  },
+  {
+   "slug": "festival-nails",
+   "chapter": "styles",
+   "sub": "occasions"
+  },
+  {
+   "slug": "bridal-french",
+   "chapter": "styles",
+   "sub": "occasions"
+  },
+  {
+   "slug": "y2k-nails",
+   "chapter": "styles",
+   "sub": "personality"
+  },
+  {
+   "slug": "dark-gothic",
+   "chapter": "styles",
+   "sub": "personality"
+  },
+  {
+   "slug": "retro-nails",
+   "chapter": "styles",
+   "sub": "personality"
+  },
+  {
+   "slug": "kpop-nails",
+   "chapter": "styles",
+   "sub": "personality"
+  },
+  {
+   "slug": "japanese-nail",
+   "chapter": "styles",
+   "sub": "personality"
+  },
+  {
+   "slug": "form-extension",
+   "chapter": "extension",
+   "sub": "extension-tech"
+  },
+  {
+   "slug": "overlay",
+   "chapter": "extension",
+   "sub": "extension-tech"
+  },
+  {
+   "slug": "stress-area",
+   "chapter": "extension",
+   "sub": "extension-tech"
+  },
+  {
+   "slug": "nail-correction",
+   "chapter": "extension",
+   "sub": "correction"
+  },
+  {
+   "slug": "bitten-nails",
+   "chapter": "extension",
+   "sub": "correction"
+  },
+  {
+   "slug": "curved-nails",
+   "chapter": "extension",
+   "sub": "correction"
+  },
+  {
+   "slug": "press-on",
+   "chapter": "extension",
+   "sub": "nail-tips"
+  },
+  {
+   "slug": "full-cover-tip",
+   "chapter": "extension",
+   "sub": "nail-tips"
+  },
+  {
+   "slug": "half-tip",
+   "chapter": "extension",
+   "sub": "nail-tips"
+  },
+  {
+   "slug": "soak-off-removal",
+   "chapter": "removal-care",
+   "sub": "removal"
+  },
+  {
+   "slug": "drill-removal",
+   "chapter": "removal-care",
+   "sub": "removal"
+  },
+  {
+   "slug": "removal-freq",
+   "chapter": "removal-care",
+   "sub": "removal"
+  },
+  {
+   "slug": "brittle-nails",
+   "chapter": "removal-care",
+   "sub": "nail-health"
+  },
+  {
+   "slug": "yellow-nails",
+   "chapter": "removal-care",
+   "sub": "nail-health"
+  },
+  {
+   "slug": "peeling-nails",
+   "chapter": "removal-care",
+   "sub": "nail-health"
+  },
+  {
+   "slug": "nail-strengthen",
+   "chapter": "removal-care",
+   "sub": "nail-health"
+  },
+  {
+   "slug": "cuticle-care",
+   "chapter": "removal-care",
+   "sub": "handcare"
+  },
+  {
+   "slug": "hand-moisture",
+   "chapter": "removal-care",
+   "sub": "handcare"
+  },
+  {
+   "slug": "hand-spa",
+   "chapter": "removal-care",
+   "sub": "handcare"
+  },
+  {
+   "slug": "color-gel-pick",
+   "chapter": "products",
+   "sub": "color-gel"
+  },
+  {
+   "slug": "jelly-color",
+   "chapter": "products",
+   "sub": "color-gel"
+  },
+  {
+   "slug": "serum-gel",
+   "chapter": "products",
+   "sub": "color-gel"
+  },
+  {
+   "slug": "brushes",
+   "chapter": "products",
+   "sub": "tools"
+  },
+  {
+   "slug": "files",
+   "chapter": "products",
+   "sub": "tools"
+  },
+  {
+   "slug": "dust-collector",
+   "chapter": "products",
+   "sub": "tools"
+  },
+  {
+   "slug": "e-file",
+   "chapter": "products",
+   "sub": "tools"
+  },
+  {
+   "slug": "lamp-select",
+   "chapter": "products",
+   "sub": "equipment"
+  },
+  {
+   "slug": "workspace",
+   "chapter": "products",
+   "sub": "equipment"
+  },
+  {
+   "slug": "sanitizer",
+   "chapter": "products",
+   "sub": "equipment"
+  },
+  {
+   "slug": "pricing-model",
+   "chapter": "business",
+   "sub": "pricing"
+  },
+  {
+   "slug": "cost-control",
+   "chapter": "business",
+   "sub": "pricing"
+  },
+  {
+   "slug": "service-menu",
+   "chapter": "business",
+   "sub": "pricing"
+  },
+  {
+   "slug": "service-flow",
+   "chapter": "business",
+   "sub": "service"
+  },
+  {
+   "slug": "complaints",
+   "chapter": "business",
+   "sub": "service"
+  },
+  {
+   "slug": "retention",
+   "chapter": "business",
+   "sub": "service"
+  },
+  {
+   "slug": "instagram-mkt",
+   "chapter": "business",
+   "sub": "marketing"
+  },
+  {
+   "slug": "local-mkt",
+   "chapter": "business",
+   "sub": "marketing"
+  },
+  {
+   "slug": "referral",
+   "chapter": "business",
+   "sub": "marketing"
+  },
+  {
+   "slug": "certification",
+   "chapter": "business",
+   "sub": "regulations"
+  },
+  {
+   "slug": "hygiene-law",
+   "chapter": "business",
+   "sub": "regulations"
+  },
+  {
+   "slug": "insurance",
+   "chapter": "business",
+   "sub": "regulations"
+  },
+  {
+   "slug": "lifting-cause",
+   "chapter": "troubleshoot",
+   "sub": "lifting"
+  },
+  {
+   "slug": "pop-off",
+   "chapter": "troubleshoot",
+   "sub": "lifting"
+  },
+  {
+   "slug": "edge-lifting",
+   "chapter": "troubleshoot",
+   "sub": "lifting"
+  },
+  {
+   "slug": "yellowing",
+   "chapter": "troubleshoot",
+   "sub": "discoloration"
+  },
+  {
+   "slug": "staining",
+   "chapter": "troubleshoot",
+   "sub": "discoloration"
+  },
+  {
+   "slug": "cloudy",
+   "chapter": "troubleshoot",
+   "sub": "discoloration"
+  },
+  {
+   "slug": "gel-allergy",
+   "chapter": "troubleshoot",
+   "sub": "reactions"
+  },
+  {
+   "slug": "skin-irritation",
+   "chapter": "troubleshoot",
+   "sub": "reactions"
+  },
+  {
+   "slug": "lamp-burn",
+   "chapter": "troubleshoot",
+   "sub": "reactions"
+  },
+  {
+   "slug": "overflow",
+   "chapter": "troubleshoot",
+   "sub": "mistakes"
+  },
+  {
+   "slug": "air-bubble",
+   "chapter": "troubleshoot",
+   "sub": "mistakes"
+  },
+  {
+   "slug": "shrinkage",
+   "chapter": "troubleshoot",
+   "sub": "mistakes"
+  },
+  {
+   "slug": "gel-vs-acrylic",
+   "chapter": "comparison",
+   "sub": "compare"
+  },
+  {
+   "slug": "led-vs-uv",
+   "chapter": "comparison",
+   "sub": "compare"
+  },
+  {
+   "slug": "hard-vs-soft",
+   "chapter": "comparison",
+   "sub": "compare"
+  },
+  {
+   "slug": "extension-vs-tip",
+   "chapter": "comparison",
+   "sub": "compare"
+  },
+  {
+   "slug": "choose-by-lifestyle",
+   "chapter": "comparison",
+   "sub": "choose"
+  },
+  {
+   "slug": "choose-by-nailtype",
+   "chapter": "comparison",
+   "sub": "choose"
+  },
+  {
+   "slug": "choose-by-style",
+   "chapter": "comparison",
+   "sub": "choose"
+  }
+ ]
+}

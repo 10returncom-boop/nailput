@@ -1,0 +1,15 @@
+# Python build scripts & temp files
+*.py
+*.pyc
+__pycache__/
+
+# Temp / scratch files
+_*
+!README.md
+
+# Excel working files
+*.xlsx
+
+# OS
+.DS_Store
+Thumbs.db
