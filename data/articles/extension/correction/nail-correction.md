@@ -7,7 +7,7 @@ slug: nail-correction
 summary: 甲型矯正是美甲裡「矯正流派」的一種做法，靠「從生長點校正」一眼認得出；它是日系流派的常見技巧，適合進階階段學習。
 tags: 矯正,甲型,水晶,療程
 difficulty: 進階
-updated: 2026-10-10
+updated: 2026-10-11
 related: form-extension, overlay, stress-area, bitten-nails, curved-nails
 ---
 # 甲型矯正

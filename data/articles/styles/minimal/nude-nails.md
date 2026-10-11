@@ -7,7 +7,7 @@ slug: nude-nails
 summary: 裸色美甲貼近膚色、素雅耐看，最百搭也最修飾手型，是『不知道做什麼就做裸色』的安全牌。
 tags: 裸色,Nude,百搭,氣質
 difficulty: 入門
-updated: 2026-10-10
+updated: 2026-10-11
 related: glass-nails, pearl-nails, glitter-nails, minimalist, office-nails
 ---
 # 裸色美甲

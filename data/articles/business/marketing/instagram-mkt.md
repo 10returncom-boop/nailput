@@ -7,7 +7,7 @@ slug: instagram-mkt
 summary: IG 行銷是美甲裡「社群曝光」的一種做法，靠「作品照要亮」一眼認得出；它是通用流派的常見技巧，適合中階階段學習。
 tags: IG,行銷,社群,Reels
 difficulty: 中階
-updated: 2026-10-10
+updated: 2026-10-11
 related: service-flow, complaints, retention, local-mkt, referral
 ---
 # IG 行銷

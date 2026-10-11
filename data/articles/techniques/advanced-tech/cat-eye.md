@@ -7,7 +7,7 @@ slug: cat-eye
 summary: 貓眼是用磁鐵把凝膠裡的磁粉吸出一道光帶，像貓眼石一樣會跟著光跑，是韓系最紅的爆款。
 tags: 貓眼,Cat Eye,磁鐵,韓系
 difficulty: 中階
-updated: 2026-10-10
+updated: 2026-10-11
 related: french-tips, reverse-french, micro-french, magnetic-gel, foil-nail
 ---
 # 貓眼

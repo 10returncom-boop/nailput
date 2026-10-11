@@ -7,7 +7,7 @@ slug: rubber-base
 summary: 可撓性底膠是美甲裡「薄甲救星」的一種做法，靠「軟但有彈性」一眼認得出；它是日系流派的常見技巧，適合中階階段學習。
 tags: 可撓底膠,薄甲,加固,日系
 difficulty: 中階
-updated: 2026-10-10
+updated: 2026-10-11
 related: hard-soft-gel, base-coat, top-coat, peel-off-base, uv-led-lamp
 ---
 # 可撓性底膠

@@ -7,7 +7,7 @@ slug: pearl-nails
 summary: 珍珠美甲是美甲裡「氣質款」的一種做法，靠「圓潤光澤」一眼認得出；它是韓系流派的常見技巧，適合入門階段學習。
 tags: 珍珠,氣質,韓系,光澤
 difficulty: 入門
-updated: 2026-10-10
+updated: 2026-10-11
 related: jelly-nails, glass-nails, glitter-nails, nude-nails, minimalist
 ---
 # 珍珠美甲

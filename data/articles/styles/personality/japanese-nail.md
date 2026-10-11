@@ -7,7 +7,7 @@ slug: japanese-nail
 summary: 日系沙龍美甲是美甲裡「精緻款」的一種做法，靠「層次多」一眼認得出；它是日系流派的常見技巧，適合中階階段學習。
 tags: 日系,精緻,沙龍,細節
 difficulty: 中階
-updated: 2026-10-10
+updated: 2026-10-11
 related: dark-gothic, retro-nails, kpop-nails, jelly-nails, glass-nails
 ---
 # 日系沙龍美甲

@@ -7,7 +7,7 @@ slug: extension-vs-tip
 summary: 延甲 vs 甲片是美甲裡「延長方式」的一種做法，靠「延甲一體」一眼認得出；它是通用流派的常見技巧，適合入門階段學習。
 tags: 延甲,甲片,延長,比較
 difficulty: 入門
-updated: 2026-10-10
+updated: 2026-10-11
 related: gel-vs-acrylic, led-vs-uv, hard-vs-soft, choose-by-lifestyle, choose-by-nailtype
 ---
 # 延甲 vs 甲片

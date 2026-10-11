@@ -7,7 +7,7 @@ slug: micro-french
 summary: 微笑線法式是美甲裡「精緻款」的一種做法，靠「線細而精」一眼認得出；它是韓系流派的常見技巧，適合中階階段學習。
 tags: 微笑線,微法式,韓系,精緻
 difficulty: 中階
-updated: 2026-10-10
+updated: 2026-10-11
 related: animal-print, french-tips, reverse-french, cat-eye, magnetic-gel
 ---
 # 微笑線法式

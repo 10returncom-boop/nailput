@@ -7,7 +7,7 @@ slug: festival-nails
 summary: 節慶美甲是美甲裡「過節款」的一種做法，靠「配色應景」一眼認得出；它是通用流派的常見技巧，適合入門階段學習。
 tags: 節慶,應景,主題,配色
 difficulty: 入門
-updated: 2026-10-10
+updated: 2026-10-11
 related: white-nails, wedding-nails, party-nails, bridal-french, y2k-nails
 ---
 # 節慶美甲

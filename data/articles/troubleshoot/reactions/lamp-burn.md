@@ -7,7 +7,7 @@ slug: lamp-burn
 summary: 燈燙傷是美甲裡「照燈發熱」的一種做法，靠「燈太強或太久」一眼認得出；它是通用流派的常見技巧，適合中階階段學習。
 tags: 燙傷,光療燈,發熱,固化
 difficulty: 中階
-updated: 2026-10-10
+updated: 2026-10-11
 related: cloudy, gel-allergy, skin-irritation, overflow, air-bubble
 ---
 # 燈燙傷

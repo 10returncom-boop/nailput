@@ -7,7 +7,7 @@ slug: drill-removal
 summary: 打磨卸甲是美甲裡「電動打磨」的一種做法，靠「轉速要控」一眼認得出；它是歐美流派的常見技巧，適合進階階段學習。
 tags: 打磨卸甲,電動,卸甲,專業
 difficulty: 進階
-updated: 2026-10-10
+updated: 2026-10-11
 related: soak-off-removal, removal-freq, brittle-nails, yellow-nails, peeling-nails
 ---
 # 打磨卸甲

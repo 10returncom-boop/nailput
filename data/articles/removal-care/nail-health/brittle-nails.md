@@ -7,7 +7,7 @@ slug: brittle-nails
 summary: 脆甲是美甲裡「易斷甲」的一種做法，靠「少碰水」一眼認得出；它是通用流派的常見技巧，適合入門階段學習。
 tags: 脆甲,易斷,強化,養甲
 difficulty: 入門
-updated: 2026-10-10
+updated: 2026-10-11
 related: soak-off-removal, drill-removal, removal-freq, yellow-nails, peeling-nails
 ---
 # 脆甲

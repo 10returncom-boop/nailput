@@ -7,7 +7,7 @@ slug: mirror-nails
 summary: 鏡面美甲是美甲裡「未來感」的一種做法，靠「粉均勻壓」一眼認得出；它是韓系流派的常見技巧，適合中階階段學習。
 tags: 鏡面,Mirror,金屬,韓系
 difficulty: 中階
-updated: 2026-10-10
+updated: 2026-10-11
 related: cat-eye, magnetic-gel, foil-nail, starry-nail, 3d-gel
 ---
 # 鏡面美甲

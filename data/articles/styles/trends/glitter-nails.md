@@ -7,7 +7,7 @@ slug: glitter-nails
 summary: 亮片美甲是美甲裡「派對必備」的一種做法，靠「亮片密度看喜好」一眼認得出；它是通用流派的常見技巧，適合入門階段學習。
 tags: 亮片,派對,閃亮,入門
 difficulty: 入門
-updated: 2026-10-10
+updated: 2026-10-11
 related: jelly-nails, glass-nails, pearl-nails, nude-nails, minimalist
 ---
 # 亮片美甲

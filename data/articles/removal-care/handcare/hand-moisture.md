@@ -7,7 +7,7 @@ slug: hand-moisture
 summary: 護手是美甲裡「手部乾燥」的一種做法，靠「隨時補水」一眼認得出；它是通用流派的常見技巧，適合入門階段學習。
 tags: 護手,保濕,防曬,保養
 difficulty: 入門
-updated: 2026-10-10
+updated: 2026-10-11
 related: peeling-nails, nail-strengthen, cuticle-care, hand-spa, soak-off-removal
 ---
 # 護手

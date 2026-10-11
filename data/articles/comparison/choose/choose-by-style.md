@@ -7,7 +7,7 @@ slug: choose-by-style
 summary: 依風格選款式是美甲裡「選款式」的一種做法，靠「要精緻選日系」一眼認得出；它是通用流派的常見技巧，適合入門階段學習。
 tags: 風格,日系,韓系,歐美
 difficulty: 入門
-updated: 2026-10-10
+updated: 2026-10-11
 related: extension-vs-tip, choose-by-lifestyle, choose-by-nailtype, gel-vs-acrylic, led-vs-uv
 ---
 # 依風格選款式

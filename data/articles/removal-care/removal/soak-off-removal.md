@@ -7,7 +7,7 @@ slug: soak-off-removal
 summary: 正確卸凝膠是『磨薄→泡卸甲水→輕刮』，慢慢來、別硬摳，甲床才不會受傷。
 tags: 卸凝膠,卸甲水,鋁箔,不傷甲
 difficulty: 中階
-updated: 2026-10-10
+updated: 2026-10-11
 related: drill-removal, removal-freq, brittle-nails, yellow-nails, peeling-nails
 ---
 # 卸凝膠

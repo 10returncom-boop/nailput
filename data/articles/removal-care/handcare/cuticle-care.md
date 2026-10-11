@@ -7,7 +7,7 @@ slug: cuticle-care
 summary: 指緣保養是美甲裡「指緣乾燥」的一種做法，靠「天天擦油」一眼認得出；它是通用流派的常見技巧，適合入門階段學習。
 tags: 指緣,保養,指緣油,甘皮
 difficulty: 入門
-updated: 2026-10-10
+updated: 2026-10-11
 related: yellow-nails, peeling-nails, nail-strengthen, hand-moisture, hand-spa
 ---
 # 指緣保養

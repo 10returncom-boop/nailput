@@ -7,7 +7,7 @@ slug: french-tips
 summary: 法式美甲就是『透明底＋白色微笑線』，白邊對稱、線條順，是美甲最經典也最考驗基本功的一款。
 tags: 法式,French,白邊,經典
 difficulty: 入門
-updated: 2026-10-10
+updated: 2026-10-11
 related: marble, crackle, animal-print, reverse-french, micro-french
 ---
 # 法式美甲

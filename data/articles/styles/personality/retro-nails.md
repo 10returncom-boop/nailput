@@ -7,7 +7,7 @@ slug: retro-nails
 summary: 復古美甲是美甲裡「懷舊款」的一種做法，靠「舊色調」一眼認得出；它是歐美流派的常見技巧，適合中階階段學習。
 tags: 復古,懷舊,幾何,歐美
 difficulty: 中階
-updated: 2026-10-10
+updated: 2026-10-11
 related: bridal-french, y2k-nails, dark-gothic, kpop-nails, japanese-nail
 ---
 # 復古美甲

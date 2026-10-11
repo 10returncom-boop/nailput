@@ -7,7 +7,7 @@ slug: e-file
 summary: 電動打磨機是美甲裡「專業卸甲」的一種做法，靠「轉速要調」一眼認得出；它是歐美流派的常見技巧，適合進階階段學習。
 tags: 電動打磨,E-file,卸甲,專業
 difficulty: 進階
-updated: 2026-10-10
+updated: 2026-10-11
 related: brushes, files, dust-collector, lamp-select, workspace
 ---
 # 電動打磨機

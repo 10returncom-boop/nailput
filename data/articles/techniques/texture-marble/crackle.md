@@ -7,7 +7,7 @@ slug: crackle
 summary: 爆裂紋是美甲裡「個性款」的一種做法，靠「上層收縮裂開」一眼認得出；它是歐美流派的常見技巧，適合入門階段學習。
 tags: 爆裂紋,裂紋,個性,快速
 difficulty: 入門
-updated: 2026-10-10
+updated: 2026-10-11
 related: ombre, watercolor, marble, animal-print, french-tips
 ---
 # 爆裂紋

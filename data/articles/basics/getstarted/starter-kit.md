@@ -7,7 +7,7 @@ slug: starter-kit
 summary: 新手別急著買整櫃，先湊齊『基礎五件』——凝膠、底膠、封層、燈、磨板，就夠你開始練。
 tags: 新手,工具,清單,入門
 difficulty: 入門
-updated: 2026-10-10
+updated: 2026-10-11
 related: filing-tools, workstation, cross-contamination, learn-path, nail-types
 ---
 # 新手工具清單

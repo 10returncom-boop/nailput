@@ -7,7 +7,7 @@ slug: party-nails
 summary: 派對美甲是美甲裡「夜店款」的一種做法，靠「越亮越好」一眼認得出；它是通用流派的常見技巧，適合入門階段學習。
 tags: 派對,夜店,亮片,閃亮
 difficulty: 入門
-updated: 2026-10-10
+updated: 2026-10-11
 related: office-nails, white-nails, wedding-nails, festival-nails, bridal-french
 ---
 # 派對美甲

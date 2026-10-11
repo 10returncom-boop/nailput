@@ -1,13 +1,13 @@
 {
  "site": {
-  "name": "美甲圖庫知識網",
-  "name_en": "Nail Art Encyclopedia",
+  "name": "NailPut 美甲知識與選購指南",
+  "name_en": "NailPut",
   "desc": "最齊全的大白話美甲知識庫：從凝膠、水晶到彩繪與款式，認識原理、做法步驟、優缺點與新手雷區，一站搞懂美甲。",
-  "rootUrl": "https://nailart.example.com/",
+  "rootUrl": "https://nailput.com/",
   "version": "v1.0.0",
-  "updated": "2026-10-10"
+  "updated": "2026-10-11"
  },
- "updated": "2026-10-10",
+ "updated": "2026-10-11",
  "articles": [
   {
    "slug": "nail-anatomy",
@@ -22,7 +22,7 @@
     "健康甲"
    ],
    "difficulty": "入門",
-   "updated": "2026-10-10",
+   "updated": "2026-10-11",
    "summary": "指甲由『甲板＋甲床＋甲母質』組成，甲母質是生長引擎，甲床決定你看得到的粉紅色長短。",
    "chapter": "basics",
    "sub": "anatomy"
@@ -39,7 +39,7 @@
     "指甲健康"
    ],
    "difficulty": "入門",
-   "updated": "2026-10-10",
+   "updated": "2026-10-11",
    "summary": "甲板與甲床是美甲裡「觀察指甲健康」的一種做法，靠「甲板是露出的硬層」一眼認得出；它是通用流派的常見技巧，適合入門階段學習。",
    "chapter": "basics",
    "sub": "anatomy"
@@ -57,7 +57,7 @@
     "方圓"
    ],
    "difficulty": "入門",
-   "updated": "2026-10-10",
+   "updated": "2026-10-11",
    "summary": "五種基本甲型是美甲裡「美甲師必修」的一種做法，靠「方型帥氣」一眼認得出；它是通用流派的常見技巧，適合入門階段學習。",
    "chapter": "basics",
    "sub": "anatomy"
@@ -74,7 +74,7 @@
     "死皮"
    ],
    "difficulty": "中階",
-   "updated": "2026-10-10",
+   "updated": "2026-10-11",
    "summary": "指緣與甘皮是美甲裡「保養必知」的一種做法，靠「甘皮不是要剪光」一眼認得出；它是台式流派的常見技巧，適合中階階段學習。",
    "chapter": "basics",
    "sub": "anatomy"
@@ -92,7 +92,7 @@
     "UV消毒箱"
    ],
    "difficulty": "入門",
-   "updated": "2026-10-10",
+   "updated": "2026-10-11",
    "summary": "消毒滅菌的鐵律是『能拋棄就拋棄、不能拋棄就高溫滅菌、表面再酒精擦拭』，這是沙龍的良心。",
    "chapter": "basics",
    "sub": "hygiene"
@@ -109,7 +109,7 @@
     "修型"
    ],
    "difficulty": "入門",
-   "updated": "2026-10-10",
+   "updated": "2026-10-11",
    "summary": "銼刀與打磨是美甲裡「新手第一步」的一種做法，靠「粗銼定形」一眼認得出；它是通用流派的常見技巧，適合入門階段學習。",
    "chapter": "basics",
    "sub": "hygiene"
@@ -126,7 +126,7 @@
     "開店"
    ],
    "difficulty": "中階",
-   "updated": "2026-10-10",
+   "updated": "2026-10-11",
    "summary": "工作台與環境是美甲裡「開店準備」的一種做法，靠「檯面即擦即清」一眼認得出；它是通用流派的常見技巧，適合中階階段學習。",
    "chapter": "basics",
    "sub": "hygiene"
@@ -143,7 +143,7 @@
     "防護"
    ],
    "difficulty": "中階",
-   "updated": "2026-10-10",
+   "updated": "2026-10-11",
    "summary": "交叉感染防護是美甲裡「顧客安全」的一種做法，靠「一人一套工具」一眼認得出；它是通用流派的常見技巧，適合中階階段學習。",
    "chapter": "basics",
    "sub": "hygiene"
@@ -160,7 +160,7 @@
     "入門"
    ],
    "difficulty": "入門",
-   "updated": "2026-10-10",
+   "updated": "2026-10-11",
    "summary": "新手別急著買整櫃，先湊齊『基礎五件』——凝膠、底膠、封層、燈、磨板，就夠你開始練。",
    "chapter": "basics",
    "sub": "getstarted"
@@ -177,7 +177,7 @@
     "進修"
    ],
    "difficulty": "入門",
-   "updated": "2026-10-10",
+   "updated": "2026-10-11",
    "summary": "學習路徑是美甲裡「想轉行的人」的一種做法，靠「先會衛生」一眼認得出；它是通用流派的常見技巧，適合入門階段學習。",
    "chapter": "basics",
    "sub": "getstarted"
@@ -194,7 +194,7 @@
     "流派"
    ],
    "difficulty": "入門",
-   "updated": "2026-10-10",
+   "updated": "2026-10-11",
    "summary": "三大流派認識是美甲裡「選方向用」的一種做法，靠「凝膠主流」一眼認得出；它是通用流派的常見技巧，適合入門階段學習。",
    "chapter": "basics",
    "sub": "getstarted"
@@ -211,7 +211,7 @@
     "新手"
    ],
    "difficulty": "入門",
-   "updated": "2026-10-10",
+   "updated": "2026-10-11",
    "summary": "凝膠是塗上去、照燈就變硬的凝膠狀樹脂，比指甲油持久、比水晶好上手，是現在美甲的主流。",
    "chapter": "gel",
    "sub": "gel-basic"
@@ -228,7 +228,7 @@
     "固化"
    ],
    "difficulty": "入門",
-   "updated": "2026-10-10",
+   "updated": "2026-10-11",
    "summary": "光療燈原理是美甲裡「搞懂原理」的一種做法，靠「光能量啟動聚合」一眼認得出；它是通用流派的常見技巧，適合入門階段學習。",
    "chapter": "gel",
    "sub": "gel-basic"
@@ -245,7 +245,7 @@
     "單色"
    ],
    "difficulty": "入門",
-   "updated": "2026-10-10",
+   "updated": "2026-10-11",
    "summary": "凝膠指甲油是美甲裡「在家DIY」的一種做法，靠「像指甲油但更持久」一眼認得出；它是歐美流派的常見技巧，適合入門階段學習。",
    "chapter": "gel",
    "sub": "gel-basic"
@@ -262,7 +262,7 @@
     "延甲"
    ],
    "difficulty": "中階",
-   "updated": "2026-10-10",
+   "updated": "2026-10-11",
    "summary": "硬膠耐撞但只能磨卸，軟膠好卸但較軟；做延甲要先想好你要『撐力』還是『好卸』。",
    "chapter": "gel",
    "sub": "gel-basic"
@@ -279,7 +279,7 @@
     "前置"
    ],
    "difficulty": "入門",
-   "updated": "2026-10-10",
+   "updated": "2026-10-11",
    "summary": "底膠是色膠和真甲之間的『接著劑』，上得對，整副凝膠才貼得住、不翹。",
    "chapter": "gel",
    "sub": "gel-base"
@@ -296,7 +296,7 @@
     "霧面"
    ],
    "difficulty": "入門",
-   "updated": "2026-10-10",
+   "updated": "2026-10-11",
    "summary": "封層的選擇是美甲裡「亮面霧面選對」的一種做法，靠「封層保護色膠」一眼認得出；它是通用流派的常見技巧，適合入門階段學習。",
    "chapter": "gel",
    "sub": "gel-base"
@@ -313,7 +313,7 @@
     "日系"
    ],
    "difficulty": "中階",
-   "updated": "2026-10-10",
+   "updated": "2026-10-11",
    "summary": "可撓性底膠是美甲裡「薄甲救星」的一種做法，靠「軟但有彈性」一眼認得出；它是日系流派的常見技巧，適合中階階段學習。",
    "chapter": "gel",
    "sub": "gel-base"
@@ -330,7 +330,7 @@
     "韓系"
    ],
    "difficulty": "入門",
-   "updated": "2026-10-10",
+   "updated": "2026-10-11",
    "summary": "可剝底膠是美甲裡「想常常換色」的一種做法，靠「撕開就卸」一眼認得出；它是韓系流派的常見技巧，適合入門階段學習。",
    "chapter": "gel",
    "sub": "gel-base"
@@ -347,7 +347,7 @@
     "買燈"
    ],
    "difficulty": "中階",
-   "updated": "2026-10-10",
+   "updated": "2026-10-11",
    "summary": "LED 燈照得快但挑膠，UV 燈通用但較慢；買燈第一看功率和波長，其次看預算。",
    "chapter": "gel",
    "sub": "gel-curing"
@@ -364,7 +364,7 @@
     "凝膠"
    ],
    "difficulty": "中階",
-   "updated": "2026-10-10",
+   "updated": "2026-10-11",
    "summary": "固化時間是美甲裡「常照不乾的人」的一種做法，靠「照太久會燙」一眼認得出；它是通用流派的常見技巧，適合中階階段學習。",
    "chapter": "gel",
    "sub": "gel-curing"
@@ -381,7 +381,7 @@
     "專業"
    ],
    "difficulty": "進階",
-   "updated": "2026-10-10",
+   "updated": "2026-10-11",
    "summary": "固化不足與過度是美甲裡「專業師必修」的一種做法，靠「不足=不牢」一眼認得出；它是通用流派的常見技巧，適合進階階段學習。",
    "chapter": "gel",
    "sub": "gel-curing"
@@ -398,7 +398,7 @@
     "換款"
    ],
    "difficulty": "入門",
-   "updated": "2026-10-10",
+   "updated": "2026-10-11",
    "summary": "假性凝膠是美甲裡「快速卸甲」的一種做法，靠「剝開即卸」一眼認得出；它是韓系流派的常見技巧，適合入門階段學習。",
    "chapter": "gel",
    "sub": "soak-off"
@@ -415,7 +415,7 @@
     "凝膠"
    ],
    "difficulty": "中階",
-   "updated": "2026-10-10",
+   "updated": "2026-10-11",
    "summary": "可卸凝膠是美甲裡「泡卸型凝膠」的一種做法，靠「用卸甲水泡」一眼認得出；它是日系流派的常見技巧，適合中階階段學習。",
    "chapter": "gel",
    "sub": "soak-off"
@@ -432,7 +432,7 @@
     "原理"
    ],
    "difficulty": "中階",
-   "updated": "2026-10-10",
+   "updated": "2026-10-11",
    "summary": "水晶指甲是『水晶粉＋液體』混成一顆小圓珠，趁半乾塑形，幾秒就自硬成堅硬的假甲。",
    "chapter": "acrylic",
    "sub": "acrylic-basic"
@@ -449,7 +449,7 @@
     "化學"
    ],
    "difficulty": "進階",
-   "updated": "2026-10-10",
+   "updated": "2026-10-11",
    "summary": "單體與聚合是美甲裡「搞懂化學」的一種做法，靠「單體是溶劑」一眼認得出；它是歐美流派的常見技巧，適合進階階段學習。",
    "chapter": "acrylic",
    "sub": "acrylic-basic"
@@ -466,7 +466,7 @@
     "技巧"
    ],
    "difficulty": "中階",
-   "updated": "2026-10-10",
+   "updated": "2026-10-11",
    "summary": "取粉成珠是水晶的基本功：筆沾液、點粉、讓它自己凝成一顆小圓珠，練熟了整隻手都會順。",
    "chapter": "acrylic",
    "sub": "acrylic-basic"
@@ -483,7 +483,7 @@
     "延長"
    ],
    "difficulty": "中階",
-   "updated": "2026-10-10",
+   "updated": "2026-10-11",
    "summary": "水晶延甲是美甲裡「延長選擇」的一種做法，靠「長度自己決定」一眼認得出；它是歐美流派的常見技巧，適合中階階段學習。",
    "chapter": "acrylic",
    "sub": "acrylic-extension"
@@ -500,7 +500,7 @@
     "新手"
    ],
    "difficulty": "入門",
-   "updated": "2026-10-10",
+   "updated": "2026-10-11",
    "summary": "甲片是美甲裡「快速延長」的一種做法，靠「膠黏或水晶接」一眼認得出；它是通用流派的常見技巧，適合入門階段學習。",
    "chapter": "acrylic",
    "sub": "acrylic-extension"
@@ -517,7 +517,7 @@
     "進階"
    ],
    "difficulty": "進階",
-   "updated": "2026-10-10",
+   "updated": "2026-10-11",
    "summary": "法式水晶是美甲裡「經典工法」的一種做法，靠「粉直接塑出白邊」一眼認得出；它是歐美流派的常見技巧，適合進階階段學習。",
    "chapter": "acrylic",
    "sub": "acrylic-extension"
@@ -534,7 +534,7 @@
     "進階"
    ],
    "difficulty": "進階",
-   "updated": "2026-10-10",
+   "updated": "2026-10-11",
    "summary": "水晶雕塑是美甲裡「立體造型」的一種做法，靠「雕完才固化」一眼認得出；它是歐美流派的常見技巧，適合進階階段學習。",
    "chapter": "acrylic",
    "sub": "acrylic-sculpt"
@@ -551,7 +551,7 @@
     "立體"
    ],
    "difficulty": "進階",
-   "updated": "2026-10-10",
+   "updated": "2026-10-11",
    "summary": "3D水晶雕花是美甲裡「雕花專修」的一種做法，靠「由外而內」一眼認得出；它是歐美流派的常見技巧，適合進階階段學習。",
    "chapter": "acrylic",
    "sub": "acrylic-sculpt"
@@ -568,7 +568,7 @@
     "新手"
    ],
    "difficulty": "入門",
-   "updated": "2026-10-10",
+   "updated": "2026-10-11",
    "summary": "點點彩繪是美甲裡「新手第一款」的一種做法，靠「圓點是基本功」一眼認得出；它是日系流派的常見技巧，適合入門階段學習。",
    "chapter": "techniques",
    "sub": "handpaint"
@@ -585,7 +585,7 @@
     "細膩"
    ],
    "difficulty": "中階",
-   "updated": "2026-10-10",
+   "updated": "2026-10-11",
    "summary": "線條彩繪是美甲裡「細膩款必學」的一種做法，靠「筆要細」一眼認得出；它是日系流派的常見技巧，適合中階階段學習。",
    "chapter": "techniques",
    "sub": "handpaint"
@@ -602,7 +602,7 @@
     "日系"
    ],
    "difficulty": "中階",
-   "updated": "2026-10-10",
+   "updated": "2026-10-11",
    "summary": "小花彩繪是美甲裡「清新款」的一種做法，靠「五瓣均分」一眼認得出；它是日系流派的常見技巧，適合中階階段學習。",
    "chapter": "techniques",
    "sub": "handpaint"
@@ -619,7 +619,7 @@
     "進階"
    ],
    "difficulty": "進階",
-   "updated": "2026-10-10",
+   "updated": "2026-10-11",
    "summary": "自由手繪是美甲裡「練就對了」的一種做法，靠「比例先打底」一眼認得出；它是通用流派的常見技巧，適合進階階段學習。",
    "chapter": "techniques",
    "sub": "handpaint"
@@ -636,7 +636,7 @@
     "日系"
    ],
    "difficulty": "中階",
-   "updated": "2026-10-10",
+   "updated": "2026-10-11",
    "summary": "漸層是用海綿或刷子把兩種顏色疊出『由深到淺』的自然過渡，粉嫩又耐看，日系最愛。",
    "chapter": "techniques",
    "sub": "gradient-blend"
@@ -653,7 +653,7 @@
     "雲霧"
    ],
    "difficulty": "中階",
-   "updated": "2026-10-10",
+   "updated": "2026-10-11",
    "summary": "暈染是把顏色『揉』進另一色裡，邊界全模糊像雲霧，是韓系的招牌做法。",
    "chapter": "techniques",
    "sub": "gradient-blend"
@@ -670,7 +670,7 @@
     "日系"
    ],
    "difficulty": "中階",
-   "updated": "2026-10-10",
+   "updated": "2026-10-11",
    "summary": "水彩暈染是美甲裡「清透感」的一種做法，靠「顏色要稀」一眼認得出；它是日系流派的常見技巧，適合中階階段學習。",
    "chapter": "techniques",
    "sub": "gradient-blend"
@@ -687,7 +687,7 @@
     "高級"
    ],
    "difficulty": "中階",
-   "updated": "2026-10-10",
+   "updated": "2026-10-11",
    "summary": "大理石紋是把深淺灰白互相暈疊、再用細線拉出裂紋，做出像真大理石的高級感。",
    "chapter": "techniques",
    "sub": "texture-marble"
@@ -704,7 +704,7 @@
     "快速"
    ],
    "difficulty": "入門",
-   "updated": "2026-10-10",
+   "updated": "2026-10-11",
    "summary": "爆裂紋是美甲裡「個性款」的一種做法，靠「上層收縮裂開」一眼認得出；它是歐美流派的常見技巧，適合入門階段學習。",
    "chapter": "techniques",
    "sub": "texture-marble"
@@ -721,7 +721,7 @@
     "個性"
    ],
    "difficulty": "入門",
-   "updated": "2026-10-10",
+   "updated": "2026-10-11",
    "summary": "動物紋是美甲裡「野性款」的一種做法，靠「斑點不規則」一眼認得出；它是歐美流派的常見技巧，適合入門階段學習。",
    "chapter": "techniques",
    "sub": "texture-marble"
@@ -738,7 +738,7 @@
     "經典"
    ],
    "difficulty": "入門",
-   "updated": "2026-10-10",
+   "updated": "2026-10-11",
    "summary": "法式美甲就是『透明底＋白色微笑線』，白邊對稱、線條順，是美甲最經典也最考驗基本功的一款。",
    "chapter": "techniques",
    "sub": "french"
@@ -755,7 +755,7 @@
     "新鮮"
    ],
    "difficulty": "中階",
-   "updated": "2026-10-10",
+   "updated": "2026-10-11",
    "summary": "反向法式是美甲裡「新鮮感」的一種做法，靠「色在指根」一眼認得出；它是日系流派的常見技巧，適合中階階段學習。",
    "chapter": "techniques",
    "sub": "french"
@@ -772,7 +772,7 @@
     "精緻"
    ],
    "difficulty": "中階",
-   "updated": "2026-10-10",
+   "updated": "2026-10-11",
    "summary": "微笑線法式是美甲裡「精緻款」的一種做法，靠「線細而精」一眼認得出；它是韓系流派的常見技巧，適合中階階段學習。",
    "chapter": "techniques",
    "sub": "french"
@@ -789,7 +789,7 @@
     "韓系"
    ],
    "difficulty": "中階",
-   "updated": "2026-10-10",
+   "updated": "2026-10-11",
    "summary": "貓眼是用磁鐵把凝膠裡的磁粉吸出一道光帶，像貓眼石一樣會跟著光跑，是韓系最紅的爆款。",
    "chapter": "techniques",
    "sub": "advanced-tech"
@@ -806,7 +806,7 @@
     "韓系"
    ],
    "difficulty": "中階",
-   "updated": "2026-10-10",
+   "updated": "2026-10-11",
    "summary": "磁鐵凝膠是美甲裡「貓眼前置」的一種做法，靠「磁棒貼近」一眼認得出；它是韓系流派的常見技巧，適合中階階段學習。",
    "chapter": "techniques",
    "sub": "advanced-tech"
@@ -823,7 +823,7 @@
     "日系"
    ],
    "difficulty": "中階",
-   "updated": "2026-10-10",
+   "updated": "2026-10-11",
    "summary": "轉印箔是美甲裡「亮點款」的一種做法，靠「轉印膠當黏層」一眼認得出；它是日系流派的常見技巧，適合中階階段學習。",
    "chapter": "techniques",
    "sub": "advanced-tech"
@@ -840,7 +840,7 @@
     "韓系"
    ],
    "difficulty": "中階",
-   "updated": "2026-10-10",
+   "updated": "2026-10-11",
    "summary": "鏡面美甲是美甲裡「未來感」的一種做法，靠「粉均勻壓」一眼認得出；它是韓系流派的常見技巧，適合中階階段學習。",
    "chapter": "techniques",
    "sub": "advanced-tech"
@@ -857,7 +857,7 @@
     "日系"
    ],
    "difficulty": "中階",
-   "updated": "2026-10-10",
+   "updated": "2026-10-11",
    "summary": "星空美甲是美甲裡「夢幻款」的一種做法，靠「深底打光」一眼認得出；它是日系流派的常見技巧，適合中階階段學習。",
    "chapter": "techniques",
    "sub": "advanced-tech"
@@ -874,7 +874,7 @@
     "進階"
    ],
    "difficulty": "進階",
-   "updated": "2026-10-10",
+   "updated": "2026-10-11",
    "summary": "凝膠雕花是美甲裡「立體彩繪」的一種做法，靠「半固化塑形」一眼認得出；它是日系流派的常見技巧，適合進階階段學習。",
    "chapter": "techniques",
    "sub": "advanced-tech"
@@ -891,7 +891,7 @@
     "春夏"
    ],
    "difficulty": "入門",
-   "updated": "2026-10-10",
+   "updated": "2026-10-11",
    "summary": "果凍感美甲是美甲裡「春夏款」的一種做法，靠「半透明」一眼認得出；它是韓系流派的常見技巧，適合入門階段學習。",
    "chapter": "styles",
    "sub": "trends"
@@ -908,7 +908,7 @@
     "透亮"
    ],
    "difficulty": "入門",
-   "updated": "2026-10-10",
+   "updated": "2026-10-11",
    "summary": "玻璃紙美甲是美甲裡「閃亮款」的一種做法，靠「透亮反光」一眼認得出；它是日系流派的常見技巧，適合入門階段學習。",
    "chapter": "styles",
    "sub": "trends"
@@ -925,7 +925,7 @@
     "光澤"
    ],
    "difficulty": "入門",
-   "updated": "2026-10-10",
+   "updated": "2026-10-11",
    "summary": "珍珠美甲是美甲裡「氣質款」的一種做法，靠「圓潤光澤」一眼認得出；它是韓系流派的常見技巧，適合入門階段學習。",
    "chapter": "styles",
    "sub": "trends"
@@ -942,7 +942,7 @@
     "入門"
    ],
    "difficulty": "入門",
-   "updated": "2026-10-10",
+   "updated": "2026-10-11",
    "summary": "亮片美甲是美甲裡「派對必備」的一種做法，靠「亮片密度看喜好」一眼認得出；它是通用流派的常見技巧，適合入門階段學習。",
    "chapter": "styles",
    "sub": "trends"
@@ -959,7 +959,7 @@
     "氣質"
    ],
    "difficulty": "入門",
-   "updated": "2026-10-10",
+   "updated": "2026-10-11",
    "summary": "裸色美甲貼近膚色、素雅耐看，最百搭也最修飾手型，是『不知道做什麼就做裸色』的安全牌。",
    "chapter": "styles",
    "sub": "minimal"
@@ -976,7 +976,7 @@
     "日系"
    ],
    "difficulty": "入門",
-   "updated": "2026-10-10",
+   "updated": "2026-10-11",
    "summary": "極簡美甲是美甲裡「文青款」的一種做法，靠「留白多」一眼認得出；它是日系流派的常見技巧，適合入門階段學習。",
    "chapter": "styles",
    "sub": "minimal"
@@ -993,7 +993,7 @@
     "低調"
    ],
    "difficulty": "入門",
-   "updated": "2026-10-10",
+   "updated": "2026-10-11",
    "summary": "通勤美甲是美甲裡「上班族」的一種做法，靠「低調不張揚」一眼認得出；它是通用流派的常見技巧，適合入門階段學習。",
    "chapter": "styles",
    "sub": "minimal"
@@ -1010,7 +1010,7 @@
     "純色"
    ],
    "difficulty": "入門",
-   "updated": "2026-10-10",
+   "updated": "2026-10-11",
    "summary": "純白美甲是美甲裡「乾淨款」的一種做法，靠「白得乾淨」一眼認得出；它是日系流派的常見技巧，適合入門階段學習。",
    "chapter": "styles",
    "sub": "minimal"
@@ -1027,7 +1027,7 @@
     "珍珠"
    ],
    "difficulty": "中階",
-   "updated": "2026-10-10",
+   "updated": "2026-10-11",
    "summary": "婚禮美甲的重點不是花俏，是『襯禮服＋夠持久＋不會出錯』，法式、裸色加珍珠最穩。",
    "chapter": "styles",
    "sub": "occasions"
@@ -1044,7 +1044,7 @@
     "閃亮"
    ],
    "difficulty": "入門",
-   "updated": "2026-10-10",
+   "updated": "2026-10-11",
    "summary": "派對美甲是美甲裡「夜店款」的一種做法，靠「越亮越好」一眼認得出；它是通用流派的常見技巧，適合入門階段學習。",
    "chapter": "styles",
    "sub": "occasions"
@@ -1061,7 +1061,7 @@
     "配色"
    ],
    "difficulty": "入門",
-   "updated": "2026-10-10",
+   "updated": "2026-10-11",
    "summary": "節慶美甲是美甲裡「過節款」的一種做法，靠「配色應景」一眼認得出；它是通用流派的常見技巧，適合入門階段學習。",
    "chapter": "styles",
    "sub": "occasions"
@@ -1078,7 +1078,7 @@
     "日系"
    ],
    "difficulty": "中階",
-   "updated": "2026-10-10",
+   "updated": "2026-10-11",
    "summary": "新娘法式是美甲裡「婚禮經典」的一種做法，靠「法式基底」一眼認得出；它是日系流派的常見技巧，適合中階階段學習。",
    "chapter": "styles",
    "sub": "occasions"
@@ -1095,7 +1095,7 @@
     "韓系"
    ],
    "difficulty": "中階",
-   "updated": "2026-10-10",
+   "updated": "2026-10-11",
    "summary": "Y2K 美甲是美甲裡「千禧風」的一種做法，靠「螢光亮色」一眼認得出；它是韓系流派的常見技巧，適合中階階段學習。",
    "chapter": "styles",
    "sub": "personality"
@@ -1112,7 +1112,7 @@
     "個性"
    ],
    "difficulty": "中階",
-   "updated": "2026-10-10",
+   "updated": "2026-10-11",
    "summary": "暗黑哥德是美甲裡「個性款」的一種做法，靠「深色打底」一眼認得出；它是歐美流派的常見技巧，適合中階階段學習。",
    "chapter": "styles",
    "sub": "personality"
@@ -1129,7 +1129,7 @@
     "歐美"
    ],
    "difficulty": "中階",
-   "updated": "2026-10-10",
+   "updated": "2026-10-11",
    "summary": "復古美甲是美甲裡「懷舊款」的一種做法，靠「舊色調」一眼認得出；它是歐美流派的常見技巧，適合中階階段學習。",
    "chapter": "styles",
    "sub": "personality"
@@ -1146,7 +1146,7 @@
     "K-pop"
    ],
    "difficulty": "入門",
-   "updated": "2026-10-10",
+   "updated": "2026-10-11",
    "summary": "韓系美甲是『透亮淺色＋小圖案＋乾淨耐看』，像女團的打歌服，清新又有存在感。",
    "chapter": "styles",
    "sub": "personality"
@@ -1163,7 +1163,7 @@
     "細節"
    ],
    "difficulty": "中階",
-   "updated": "2026-10-10",
+   "updated": "2026-10-11",
    "summary": "日系沙龍美甲是美甲裡「精緻款」的一種做法，靠「層次多」一眼認得出；它是日系流派的常見技巧，適合中階階段學習。",
    "chapter": "styles",
    "sub": "personality"
@@ -1180,7 +1180,7 @@
     "日系"
    ],
    "difficulty": "中階",
-   "updated": "2026-10-10",
+   "updated": "2026-10-11",
    "summary": "紙模延長是美甲裡「長指甲」的一種做法，靠「紙模墊型」一眼認得出；它是日系流派的常見技巧，適合中階階段學習。",
    "chapter": "extension",
    "sub": "extension-tech"
@@ -1197,7 +1197,7 @@
     "修復"
    ],
    "difficulty": "入門",
-   "updated": "2026-10-10",
+   "updated": "2026-10-11",
    "summary": "補甲與覆蓋是美甲裡「修補斷甲」的一種做法，靠「覆蓋本甲」一眼認得出；它是通用流派的常見技巧，適合入門階段學習。",
    "chapter": "extension",
    "sub": "extension-tech"
@@ -1214,7 +1214,7 @@
     "應力"
    ],
    "difficulty": "進階",
-   "updated": "2026-10-10",
+   "updated": "2026-10-11",
    "summary": "壓力點是美甲裡「防斷裂」的一種做法，靠「壓力點在微笑線」一眼認得出；它是通用流派的常見技巧，適合進階階段學習。",
    "chapter": "extension",
    "sub": "extension-tech"
@@ -1231,7 +1231,7 @@
     "療程"
    ],
    "difficulty": "進階",
-   "updated": "2026-10-10",
+   "updated": "2026-10-11",
    "summary": "甲型矯正是美甲裡「矯正流派」的一種做法，靠「從生長點校正」一眼認得出；它是日系流派的常見技巧，適合進階階段學習。",
    "chapter": "extension",
    "sub": "correction"
@@ -1248,7 +1248,7 @@
     "習慣"
    ],
    "difficulty": "中階",
-   "updated": "2026-10-10",
+   "updated": "2026-10-11",
    "summary": "咬甲矯正是『先延甲保護＋戒掉咬的習慣＋定期回補』，三個一起做才斷得掉。",
    "chapter": "extension",
    "sub": "correction"
@@ -1265,7 +1265,7 @@
     "特殊甲"
    ],
    "difficulty": "進階",
-   "updated": "2026-10-10",
+   "updated": "2026-10-11",
    "summary": "捲甲與扇形甲是美甲裡「特殊甲況」的一種做法，靠「先固定甲床」一眼認得出；它是日系流派的常見技巧，適合進階階段學習。",
    "chapter": "extension",
    "sub": "correction"
@@ -1282,7 +1282,7 @@
     "快速"
    ],
    "difficulty": "入門",
-   "updated": "2026-10-10",
+   "updated": "2026-10-11",
    "summary": "穿戴式甲片是不傷甲的『即戴即卸』選項，適合想常換款式、又不想傷甲的人。",
    "chapter": "extension",
    "sub": "nail-tips"
@@ -1299,7 +1299,7 @@
     "新手"
    ],
    "difficulty": "入門",
-   "updated": "2026-10-10",
+   "updated": "2026-10-11",
    "summary": "全覆蓋甲片是美甲裡「快速延長」的一種做法，靠「覆蓋整個甲」一眼認得出；它是通用流派的常見技巧，適合入門階段學習。",
    "chapter": "extension",
    "sub": "nail-tips"
@@ -1316,7 +1316,7 @@
     "歐美"
    ],
    "difficulty": "中階",
-   "updated": "2026-10-10",
+   "updated": "2026-10-11",
    "summary": "半甲片是美甲裡「進階延長」的一種做法，靠「只蓋前端」一眼認得出；它是歐美流派的常見技巧，適合中階階段學習。",
    "chapter": "extension",
    "sub": "nail-tips"
@@ -1333,7 +1333,7 @@
     "不傷甲"
    ],
    "difficulty": "中階",
-   "updated": "2026-10-10",
+   "updated": "2026-10-11",
    "summary": "正確卸凝膠是『磨薄→泡卸甲水→輕刮』，慢慢來、別硬摳，甲床才不會受傷。",
    "chapter": "removal-care",
    "sub": "removal"
@@ -1350,7 +1350,7 @@
     "專業"
    ],
    "difficulty": "進階",
-   "updated": "2026-10-10",
+   "updated": "2026-10-11",
    "summary": "打磨卸甲是美甲裡「電動打磨」的一種做法，靠「轉速要控」一眼認得出；它是歐美流派的常見技巧，適合進階階段學習。",
    "chapter": "removal-care",
    "sub": "removal"
@@ -1366,7 +1366,7 @@
     "指甲健康"
    ],
    "difficulty": "入門",
-   "updated": "2026-10-10",
+   "updated": "2026-10-11",
    "summary": "卸甲頻率是美甲裡「顧客常問」的一種做法，靠「過久會悶」一眼認得出；它是通用流派的常見技巧，適合入門階段學習。",
    "chapter": "removal-care",
    "sub": "removal"
@@ -1383,7 +1383,7 @@
     "養甲"
    ],
    "difficulty": "入門",
-   "updated": "2026-10-10",
+   "updated": "2026-10-11",
    "summary": "脆甲是美甲裡「易斷甲」的一種做法，靠「少碰水」一眼認得出；它是通用流派的常見技巧，適合入門階段學習。",
    "chapter": "removal-care",
    "sub": "nail-health"
@@ -1400,7 +1400,7 @@
     "保養"
    ],
    "difficulty": "入門",
-   "updated": "2026-10-10",
+   "updated": "2026-10-11",
    "summary": "指甲變黃多半是『深色染色』或『煙漬』，打底膠、深色別留太久、卸甲要乾淨，就能慢慢白回來。",
    "chapter": "removal-care",
    "sub": "nail-health"
@@ -1417,7 +1417,7 @@
     "強化"
    ],
    "difficulty": "中階",
-   "updated": "2026-10-10",
+   "updated": "2026-10-11",
    "summary": "指甲分層是美甲裡「分層煩惱」的一種做法，靠「多是乾燥或磨傷」一眼認得出；它是通用流派的常見技巧，適合中階階段學習。",
    "chapter": "removal-care",
    "sub": "nail-health"
@@ -1434,7 +1434,7 @@
     "健康"
    ],
    "difficulty": "入門",
-   "updated": "2026-10-10",
+   "updated": "2026-10-11",
    "summary": "養甲強化是美甲裡「養甲控」的一種做法，靠「定期修剪」一眼認得出；它是日系流派的常見技巧，適合入門階段學習。",
    "chapter": "removal-care",
    "sub": "nail-health"
@@ -1451,7 +1451,7 @@
     "甘皮"
    ],
    "difficulty": "入門",
-   "updated": "2026-10-10",
+   "updated": "2026-10-11",
    "summary": "指緣保養是美甲裡「指緣乾燥」的一種做法，靠「天天擦油」一眼認得出；它是通用流派的常見技巧，適合入門階段學習。",
    "chapter": "removal-care",
    "sub": "handcare"
@@ -1468,7 +1468,7 @@
     "保養"
    ],
    "difficulty": "入門",
-   "updated": "2026-10-10",
+   "updated": "2026-10-11",
    "summary": "護手是美甲裡「手部乾燥」的一種做法，靠「隨時補水」一眼認得出；它是通用流派的常見技巧，適合入門階段學習。",
    "chapter": "removal-care",
    "sub": "handcare"
@@ -1485,7 +1485,7 @@
     "沙龍"
    ],
    "difficulty": "中階",
-   "updated": "2026-10-10",
+   "updated": "2026-10-11",
    "summary": "手部SPA是美甲裡「舒壓服務」的一種做法，靠「先去角質」一眼認得出；它是歐美流派的常見技巧，適合中階階段學習。",
    "chapter": "removal-care",
    "sub": "handcare"
@@ -1502,7 +1502,7 @@
     "新手"
    ],
    "difficulty": "入門",
-   "updated": "2026-10-10",
+   "updated": "2026-10-11",
    "summary": "色膠挑選是美甲裡「選色障礙」的一種做法，靠「先看濃稠度」一眼認得出；它是通用流派的常見技巧，適合入門階段學習。",
    "chapter": "products",
    "sub": "color-gel"
@@ -1519,7 +1519,7 @@
     "韓系"
    ],
    "difficulty": "中階",
-   "updated": "2026-10-10",
+   "updated": "2026-10-11",
    "summary": "果凍色膠是美甲裡「透感愛好者」的一種做法，靠「透光可堆疊」一眼認得出；它是韓系流派的常見技巧，適合中階階段學習。",
    "chapter": "products",
    "sub": "color-gel"
@@ -1536,7 +1536,7 @@
     "暈染"
    ],
    "difficulty": "中階",
-   "updated": "2026-10-10",
+   "updated": "2026-10-11",
    "summary": "色膠濃稠度是美甲裡「手感差異」的一種做法，靠「濃的遮蓋好」一眼認得出；它是通用流派的常見技巧，適合中階階段學習。",
    "chapter": "products",
    "sub": "color-gel"
@@ -1553,7 +1553,7 @@
     "日系"
    ],
    "difficulty": "中階",
-   "updated": "2026-10-10",
+   "updated": "2026-10-11",
    "summary": "彩繪筆是美甲裡「精緻彩繪」的一種做法，靠「筆毛要好」一眼認得出；它是日系流派的常見技巧，適合中階階段學習。",
    "chapter": "products",
    "sub": "tools"
@@ -1570,7 +1570,7 @@
     "工具"
    ],
    "difficulty": "入門",
-   "updated": "2026-10-10",
+   "updated": "2026-10-11",
    "summary": "銼刀挑選是美甲裡「工具必備」的一種做法，靠「目數看用途」一眼認得出；它是通用流派的常見技巧，適合入門階段學習。",
    "chapter": "products",
    "sub": "tools"
@@ -1587,7 +1587,7 @@
     "健康"
    ],
    "difficulty": "中階",
-   "updated": "2026-10-10",
+   "updated": "2026-10-11",
    "summary": "粉塵機是美甲裡「健康必備」的一種做法，靠「吸走飛粉」一眼認得出；它是通用流派的常見技巧，適合中階階段學習。",
    "chapter": "products",
    "sub": "tools"
@@ -1604,7 +1604,7 @@
     "專業"
    ],
    "difficulty": "進階",
-   "updated": "2026-10-10",
+   "updated": "2026-10-11",
    "summary": "電動打磨機是美甲裡「專業卸甲」的一種做法，靠「轉速要調」一眼認得出；它是歐美流派的常見技巧，適合進階階段學習。",
    "chapter": "products",
    "sub": "tools"
@@ -1621,7 +1621,7 @@
     "設備"
    ],
    "difficulty": "中階",
-   "updated": "2026-10-10",
+   "updated": "2026-10-11",
    "summary": "光療燈選擇是美甲裡「買燈前必看」的一種做法，靠「瓦數足夠」一眼認得出；它是通用流派的常見技巧，適合中階階段學習。",
    "chapter": "products",
    "sub": "equipment"
@@ -1638,7 +1638,7 @@
     "開店"
    ],
    "difficulty": "中階",
-   "updated": "2026-10-10",
+   "updated": "2026-10-11",
    "summary": "工作環境是美甲裡「開店硬體」的一種做法，靠「通風防味」一眼認得出；它是通用流派的常見技巧，適合中階階段學習。",
    "chapter": "products",
    "sub": "equipment"
@@ -1655,7 +1655,7 @@
     "衛生"
    ],
    "difficulty": "入門",
-   "updated": "2026-10-10",
+   "updated": "2026-10-11",
    "summary": "消毒用品是美甲裡「衛生基礎」的一種做法，靠「酒精消毒檯面」一眼認得出；它是通用流派的常見技巧，適合入門階段學習。",
    "chapter": "products",
    "sub": "equipment"
@@ -1672,7 +1672,7 @@
     "經營"
    ],
    "difficulty": "中階",
-   "updated": "2026-10-10",
+   "updated": "2026-10-11",
    "summary": "美甲定價先算『成本＋時間＋技術』，再對照地區行情，別只靠感覺喊價。",
    "chapter": "business",
    "sub": "pricing"
@@ -1689,7 +1689,7 @@
     "經營"
    ],
    "difficulty": "中階",
-   "updated": "2026-10-10",
+   "updated": "2026-10-11",
    "summary": "成本控制是美甲裡「節流」的一種做法，靠「耗材算入」一眼認得出；它是通用流派的常見技巧，適合中階階段學習。",
    "chapter": "business",
    "sub": "pricing"
@@ -1706,7 +1706,7 @@
     "經營"
    ],
    "difficulty": "中階",
-   "updated": "2026-10-10",
+   "updated": "2026-10-11",
    "summary": "菜單設計是美甲裡「列價目表」的一種做法，靠「分類清楚」一眼認得出；它是通用流派的常見技巧，適合中階階段學習。",
    "chapter": "business",
    "sub": "pricing"
@@ -1723,7 +1723,7 @@
     "沙龍"
    ],
    "difficulty": "中階",
-   "updated": "2026-10-10",
+   "updated": "2026-10-11",
    "summary": "服務流程是美甲裡「標準化」的一種做法，靠「先溝通」一眼認得出；它是通用流派的常見技巧，適合中階階段學習。",
    "chapter": "business",
    "sub": "service"
@@ -1740,7 +1740,7 @@
     "服務"
    ],
    "difficulty": "中階",
-   "updated": "2026-10-10",
+   "updated": "2026-10-11",
    "summary": "客訴處理是美甲裡「客訴危機」的一種做法，靠「先聽完」一眼認得出；它是通用流派的常見技巧，適合中階階段學習。",
    "chapter": "business",
    "sub": "service"
@@ -1757,7 +1757,7 @@
     "經營"
    ],
    "difficulty": "中階",
-   "updated": "2026-10-10",
+   "updated": "2026-10-11",
    "summary": "回客經營是美甲裡「穩定客源」的一種做法，靠「提醒回補」一眼認得出；它是通用流派的常見技巧，適合中階階段學習。",
    "chapter": "business",
    "sub": "service"
@@ -1774,7 +1774,7 @@
     "Reels"
    ],
    "difficulty": "中階",
-   "updated": "2026-10-10",
+   "updated": "2026-10-11",
    "summary": "IG 行銷是美甲裡「社群曝光」的一種做法，靠「作品照要亮」一眼認得出；它是通用流派的常見技巧，適合中階階段學習。",
    "chapter": "business",
    "sub": "marketing"
@@ -1791,7 +1791,7 @@
     "客源"
    ],
    "difficulty": "中階",
-   "updated": "2026-10-10",
+   "updated": "2026-10-11",
    "summary": "在地行銷是美甲裡「在地客」的一種做法，靠「地圖資訊要全」一眼認得出；它是通用流派的常見技巧，適合中階階段學習。",
    "chapter": "business",
    "sub": "marketing"
@@ -1808,7 +1808,7 @@
     "行銷"
    ],
    "difficulty": "中階",
-   "updated": "2026-10-10",
+   "updated": "2026-10-11",
    "summary": "轉介紹是美甲裡「老客帶新」的一種做法，靠「老客享好康」一眼認得出；它是通用流派的常見技巧，適合中階階段學習。",
    "chapter": "business",
    "sub": "marketing"
@@ -1825,7 +1825,7 @@
     "進修"
    ],
    "difficulty": "中階",
-   "updated": "2026-10-10",
+   "updated": "2026-10-11",
    "summary": "美甲證照是美甲裡「專業門檻」的一種做法，靠「證照是加分」一眼認得出；它是通用流派的常見技巧，適合中階階段學習。",
    "chapter": "business",
    "sub": "regulations"
@@ -1842,7 +1842,7 @@
     "開店"
    ],
    "difficulty": "中階",
-   "updated": "2026-10-10",
+   "updated": "2026-10-11",
    "summary": "衛生法規是美甲裡「合法經營」的一種做法，靠「器材消毒」一眼認得出；它是通用流派的常見技巧，適合中階階段學習。",
    "chapter": "business",
    "sub": "regulations"
@@ -1859,7 +1859,7 @@
     "執業"
    ],
    "difficulty": "進階",
-   "updated": "2026-10-10",
+   "updated": "2026-10-11",
    "summary": "執業保險是美甲裡「風險防護」的一種做法，靠「客人受傷有保障」一眼認得出；它是通用流派的常見技巧，適合進階階段學習。",
    "chapter": "business",
    "sub": "regulations"
@@ -1876,7 +1876,7 @@
     "包邊"
    ],
    "difficulty": "中階",
-   "updated": "2026-10-10",
+   "updated": "2026-10-11",
    "summary": "起翹九成是『前置沒做足、厚度不均、包邊漏掉』，補好這三點，持久度立刻翻倍。",
    "chapter": "troubleshoot",
    "sub": "lifting"
@@ -1893,7 +1893,7 @@
     "卸甲"
    ],
    "difficulty": "中階",
-   "updated": "2026-10-10",
+   "updated": "2026-10-11",
    "summary": "整片掉落是美甲裡「整片翻車」的一種做法，靠「油脂沒去淨」一眼認得出；它是通用流派的常見技巧，適合中階階段學習。",
    "chapter": "troubleshoot",
    "sub": "lifting"
@@ -1910,7 +1910,7 @@
     "延甲"
    ],
    "difficulty": "中階",
-   "updated": "2026-10-10",
+   "updated": "2026-10-11",
    "summary": "前端起翹是美甲裡「前端翹起」的一種做法，靠「游離緣要薄」一眼認得出；它是通用流派的常見技巧，適合中階階段學習。",
    "chapter": "troubleshoot",
    "sub": "lifting"
@@ -1927,7 +1927,7 @@
     "卸甲"
    ],
    "difficulty": "入門",
-   "updated": "2026-10-10",
+   "updated": "2026-10-11",
    "summary": "凝膠變黃是美甲裡「顏色發黃」的一種做法，靠「深色太久」一眼認得出；它是通用流派的常見技巧，適合入門階段學習。",
    "chapter": "troubleshoot",
    "sub": "discoloration"
@@ -1944,7 +1944,7 @@
     "深色"
    ],
    "difficulty": "入門",
-   "updated": "2026-10-10",
+   "updated": "2026-10-11",
    "summary": "染色是美甲裡「指甲染上色」的一種做法，靠「底膠隔離」一眼認得出；它是通用流派的常見技巧，適合入門階段學習。",
    "chapter": "troubleshoot",
    "sub": "discoloration"
@@ -1961,7 +1961,7 @@
     "亮面"
    ],
    "difficulty": "入門",
-   "updated": "2026-10-10",
+   "updated": "2026-10-11",
    "summary": "霧面變濁是美甲裡「封層霧掉」的一種做法，靠「封層不均」一眼認得出；它是通用流派的常見技巧，適合入門階段學習。",
    "chapter": "troubleshoot",
    "sub": "discoloration"
@@ -1978,7 +1978,7 @@
     "固化"
    ],
    "difficulty": "中階",
-   "updated": "2026-10-10",
+   "updated": "2026-10-11",
    "summary": "凝膠過敏多因『沒完全固化』或『手指碰到未乾的膠』，先就醫確認，再改用低敏或做好隔離。",
    "chapter": "troubleshoot",
    "sub": "reactions"
@@ -1995,7 +1995,7 @@
     "健康"
    ],
    "difficulty": "中階",
-   "updated": "2026-10-10",
+   "updated": "2026-10-11",
    "summary": "接觸性皮膚炎是美甲裡「紅腫癢」的一種做法，靠「清潔劑或膠」一眼認得出；它是通用流派的常見技巧，適合中階階段學習。",
    "chapter": "troubleshoot",
    "sub": "reactions"
@@ -2012,7 +2012,7 @@
     "固化"
    ],
    "difficulty": "中階",
-   "updated": "2026-10-10",
+   "updated": "2026-10-11",
    "summary": "燈燙傷是美甲裡「照燈發熱」的一種做法，靠「燈太強或太久」一眼認得出；它是通用流派的常見技巧，適合中階階段學習。",
    "chapter": "troubleshoot",
    "sub": "reactions"
@@ -2029,7 +2029,7 @@
     "失誤"
    ],
    "difficulty": "中階",
-   "updated": "2026-10-10",
+   "updated": "2026-10-11",
    "summary": "溢膠是美甲裡「新手常犯」的一種做法，靠「一次一薄層」一眼認得出；它是通用流派的常見技巧，適合中階階段學習。",
    "chapter": "troubleshoot",
    "sub": "mistakes"
@@ -2046,7 +2046,7 @@
     "失誤"
    ],
    "difficulty": "中階",
-   "updated": "2026-10-10",
+   "updated": "2026-10-11",
    "summary": "氣泡是美甲裡「表面氣泡」的一種做法，靠「攪拌別太用力」一眼認得出；它是通用流派的常見技巧，適合中階階段學習。",
    "chapter": "troubleshoot",
    "sub": "mistakes"
@@ -2063,7 +2063,7 @@
     "厚薄"
    ],
    "difficulty": "進階",
-   "updated": "2026-10-10",
+   "updated": "2026-10-11",
    "summary": "縮膠是美甲裡「邊緣內縮」的一種做法，靠「膠太厚易縮」一眼認得出；它是通用流派的常見技巧，適合進階階段學習。",
    "chapter": "troubleshoot",
    "sub": "mistakes"
@@ -2080,7 +2080,7 @@
     "系統"
    ],
    "difficulty": "中階",
-   "updated": "2026-10-10",
+   "updated": "2026-10-11",
    "summary": "凝膠照燈好上手、香氣低，水晶靠粉液自乾、更硬挺；新手先學凝膠，要耐操長甲再練水晶。",
    "chapter": "comparison",
    "sub": "compare"
@@ -2097,7 +2097,7 @@
     "比較"
    ],
    "difficulty": "中階",
-   "updated": "2026-10-10",
+   "updated": "2026-10-11",
    "summary": "LED 燈 vs UV 燈是美甲裡「買燈比較」的一種做法，靠「LED快但挑膠」一眼認得出；它是通用流派的常見技巧，適合中階階段學習。",
    "chapter": "comparison",
    "sub": "compare"
@@ -2114,7 +2114,7 @@
     "比較"
    ],
    "difficulty": "中階",
-   "updated": "2026-10-10",
+   "updated": "2026-10-11",
    "summary": "硬膠 vs 軟膠是美甲裡「延甲比較」的一種做法，靠「硬膠撐力強」一眼認得出；它是通用流派的常見技巧，適合中階階段學習。",
    "chapter": "comparison",
    "sub": "compare"
@@ -2131,7 +2131,7 @@
     "比較"
    ],
    "difficulty": "入門",
-   "updated": "2026-10-10",
+   "updated": "2026-10-11",
    "summary": "延甲 vs 甲片是美甲裡「延長方式」的一種做法，靠「延甲一體」一眼認得出；它是通用流派的常見技巧，適合入門階段學習。",
    "chapter": "comparison",
    "sub": "compare"
@@ -2148,7 +2148,7 @@
     "穿戴"
    ],
    "difficulty": "入門",
-   "updated": "2026-10-10",
+   "updated": "2026-10-11",
    "summary": "依生活選做法是美甲裡「挑對款式」的一種做法，靠「常做事要耐磨」一眼認得出；它是通用流派的常見技巧，適合入門階段學習。",
    "chapter": "comparison",
    "sub": "choose"
@@ -2165,7 +2165,7 @@
     "矯正"
    ],
    "difficulty": "中階",
-   "updated": "2026-10-10",
+   "updated": "2026-10-11",
    "summary": "依甲況選做法是美甲裡「特殊甲況」的一種做法，靠「薄甲用軟膠」一眼認得出；它是通用流派的常見技巧，適合中階階段學習。",
    "chapter": "comparison",
    "sub": "choose"
@@ -2182,7 +2182,7 @@
     "歐美"
    ],
    "difficulty": "入門",
-   "updated": "2026-10-10",
+   "updated": "2026-10-11",
    "summary": "依風格選款式是美甲裡「選款式」的一種做法，靠「要精緻選日系」一眼認得出；它是通用流派的常見技巧，適合入門階段學習。",
    "chapter": "comparison",
    "sub": "choose"

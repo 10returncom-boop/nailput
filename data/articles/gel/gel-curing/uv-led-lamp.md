@@ -7,7 +7,7 @@ slug: uv-led-lamp
 summary: LED 燈照得快但挑膠，UV 燈通用但較慢；買燈第一看功率和波長，其次看預算。
 tags: 光療燈,LED,UV,買燈
 difficulty: 中階
-updated: 2026-10-10
+updated: 2026-10-11
 related: top-coat, rubber-base, peel-off-base, curing-time, undercure-overcure
 ---
 # LED燈與UV燈

@@ -7,7 +7,7 @@ slug: flower-nailart
 summary: 小花彩繪是美甲裡「清新款」的一種做法，靠「五瓣均分」一眼認得出；它是日系流派的常見技巧，適合中階階段學習。
 tags: 小花,花繪,手繪,日系
 difficulty: 中階
-updated: 2026-10-10
+updated: 2026-10-11
 related: dotting, line-art, freehand, gradient, ombre
 ---
 # 小花彩繪

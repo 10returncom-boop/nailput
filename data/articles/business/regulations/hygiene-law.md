@@ -7,7 +7,7 @@ slug: hygiene-law
 summary: 衛生法規是美甲裡「合法經營」的一種做法，靠「器材消毒」一眼認得出；它是通用流派的常見技巧，適合中階階段學習。
 tags: 法規,衛生,合規,開店
 difficulty: 中階
-updated: 2026-10-10
+updated: 2026-10-11
 related: local-mkt, referral, certification, insurance, pricing-model
 ---
 # 衛生法規

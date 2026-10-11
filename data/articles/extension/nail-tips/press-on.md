@@ -7,7 +7,7 @@ slug: press-on
 summary: 穿戴式甲片是不傷甲的『即戴即卸』選項，適合想常換款式、又不想傷甲的人。
 tags: 穿戴甲,Press-on,甲片,快速
 difficulty: 入門
-updated: 2026-10-10
+updated: 2026-10-11
 related: nail-correction, bitten-nails, curved-nails, full-cover-tip, half-tip
 ---
 # 穿戴式甲片

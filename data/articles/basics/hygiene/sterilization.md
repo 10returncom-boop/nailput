@@ -7,7 +7,7 @@ slug: sterilization
 summary: 消毒滅菌的鐵律是『能拋棄就拋棄、不能拋棄就高溫滅菌、表面再酒精擦拭』，這是沙龍的良心。
 tags: 消毒,滅菌,衛生,工具,UV消毒箱
 difficulty: 入門
-updated: 2026-10-10
+updated: 2026-10-11
 related: nail-plate, nail-shape, cuticle, filing-tools, workstation
 ---
 # 消毒滅菌流程

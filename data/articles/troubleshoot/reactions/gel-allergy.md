@@ -7,7 +7,7 @@ slug: gel-allergy
 summary: 凝膠過敏多因『沒完全固化』或『手指碰到未乾的膠』，先就醫確認，再改用低敏或做好隔離。
 tags: 過敏,凝膠,皮膚,固化
 difficulty: 中階
-updated: 2026-10-10
+updated: 2026-10-11
 related: yellowing, staining, cloudy, skin-irritation, lamp-burn
 ---
 # 凝膠過敏

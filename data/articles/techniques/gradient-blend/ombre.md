@@ -7,7 +7,7 @@ slug: ombre
 summary: 暈染是把顏色『揉』進另一色裡，邊界全模糊像雲霧，是韓系的招牌做法。
 tags: 暈染,Ombre,韓系,雲霧
 difficulty: 中階
-updated: 2026-10-10
+updated: 2026-10-11
 related: flower-nailart, freehand, gradient, watercolor, marble
 ---
 # 暈染

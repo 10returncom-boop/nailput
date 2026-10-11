@@ -7,7 +7,7 @@ slug: form-extension
 summary: 紙模延長是美甲裡「長指甲」的一種做法，靠「紙模墊型」一眼認得出；它是日系流派的常見技巧，適合中階階段學習。
 tags: 紙模,延甲,延長,日系
 difficulty: 中階
-updated: 2026-10-10
+updated: 2026-10-11
 related: overlay, stress-area, nail-correction, bitten-nails, curved-nails
 ---
 # 紙模延長

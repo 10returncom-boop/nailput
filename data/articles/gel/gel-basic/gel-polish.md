@@ -7,7 +7,7 @@ slug: gel-polish
 summary: 凝膠指甲油是美甲裡「在家DIY」的一種做法，靠「像指甲油但更持久」一眼認得出；它是歐美流派的常見技巧，適合入門階段學習。
 tags: 凝膠指甲油,Gel Polish,DIY,單色
 difficulty: 入門
-updated: 2026-10-10
+updated: 2026-10-11
 related: gel-what, gel-lamp, hard-soft-gel, base-coat, top-coat
 ---
 # 凝膠指甲油

@@ -7,7 +7,7 @@ slug: acrylic-bead
 summary: 取粉成珠是水晶的基本功：筆沾液、點粉、讓它自己凝成一顆小圓珠，練熟了整隻手都會順。
 tags: 取粉,成珠,水晶,技巧
 difficulty: 中階
-updated: 2026-10-10
+updated: 2026-10-11
 related: acrylic-what, monomer, acrylic-ext, nail-tips, acrylic-french
 ---
 # 取粉成珠技巧

@@ -7,7 +7,7 @@ slug: pricing-model
 summary: 美甲定價先算『成本＋時間＋技術』，再對照地區行情，別只靠感覺喊價。
 tags: 定價,成本,開店,經營
 difficulty: 中階
-updated: 2026-10-10
+updated: 2026-10-11
 related: cost-control, service-menu, service-flow, complaints, retention
 ---
 # 美甲定價

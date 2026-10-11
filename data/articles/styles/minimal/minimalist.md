@@ -7,7 +7,7 @@ slug: minimalist
 summary: 極簡美甲是美甲裡「文青款」的一種做法，靠「留白多」一眼認得出；它是日系流派的常見技巧，適合入門階段學習。
 tags: 極簡,留白,文青,日系
 difficulty: 入門
-updated: 2026-10-10
+updated: 2026-10-11
 related: pearl-nails, glitter-nails, nude-nails, office-nails, white-nails
 ---
 # 極簡美甲

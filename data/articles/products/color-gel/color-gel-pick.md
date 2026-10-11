@@ -7,7 +7,7 @@ slug: color-gel-pick
 summary: 色膠挑選是美甲裡「選色障礙」的一種做法，靠「先看濃稠度」一眼認得出；它是通用流派的常見技巧，適合入門階段學習。
 tags: 色膠,選色,濃稠度,新手
 difficulty: 入門
-updated: 2026-10-10
+updated: 2026-10-11
 related: jelly-color, serum-gel, brushes, files, dust-collector
 ---
 # 色膠挑選

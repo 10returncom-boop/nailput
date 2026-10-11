@@ -7,7 +7,7 @@ slug: acrylic-ext
 summary: 水晶延甲是美甲裡「延長選擇」的一種做法，靠「長度自己決定」一眼認得出；它是歐美流派的常見技巧，適合中階階段學習。
 tags: 水晶,延甲,紙模,延長
 difficulty: 中階
-updated: 2026-10-10
+updated: 2026-10-11
 related: acrylic-what, monomer, acrylic-bead, nail-tips, acrylic-french
 ---
 # 水晶延甲

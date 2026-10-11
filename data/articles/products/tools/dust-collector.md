@@ -7,7 +7,7 @@ slug: dust-collector
 summary: 粉塵機是美甲裡「健康必備」的一種做法，靠「吸走飛粉」一眼認得出；它是通用流派的常見技巧，適合中階階段學習。
 tags: 粉塵機,吸塵,呼吸道,健康
 difficulty: 中階
-updated: 2026-10-10
+updated: 2026-10-11
 related: serum-gel, brushes, files, e-file, lamp-select
 ---
 # 粉塵機

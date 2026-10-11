@@ -7,7 +7,7 @@ slug: staining
 summary: 染色是美甲裡「指甲染上色」的一種做法，靠「底膠隔離」一眼認得出；它是通用流派的常見技巧，適合入門階段學習。
 tags: 染色,滲色,底膠,深色
 difficulty: 入門
-updated: 2026-10-10
+updated: 2026-10-11
 related: pop-off, edge-lifting, yellowing, cloudy, gel-allergy
 ---
 # 染色

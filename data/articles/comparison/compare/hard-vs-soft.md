@@ -7,7 +7,7 @@ slug: hard-vs-soft
 summary: 硬膠 vs 軟膠是美甲裡「延甲比較」的一種做法，靠「硬膠撐力強」一眼認得出；它是通用流派的常見技巧，適合中階階段學習。
 tags: 硬膠,軟膠,延甲,比較
 difficulty: 中階
-updated: 2026-10-10
+updated: 2026-10-11
 related: gel-vs-acrylic, led-vs-uv, extension-vs-tip, choose-by-lifestyle, choose-by-nailtype
 ---
 # 硬膠 vs 軟膠

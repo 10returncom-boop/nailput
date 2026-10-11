@@ -7,7 +7,7 @@ slug: nail-anatomy
 summary: 指甲由『甲板＋甲床＋甲母質』組成，甲母質是生長引擎，甲床決定你看得到的粉紅色長短。
 tags: 指甲結構,甲板,甲床,甲母質,健康甲
 difficulty: 入門
-updated: 2026-10-10
+updated: 2026-10-11
 related: nail-plate, nail-shape, cuticle, sterilization, filing-tools
 ---
 # 指甲結構

@@ -7,7 +7,7 @@ slug: 3d-gel
 summary: 凝膠雕花是美甲裡「立體彩繪」的一種做法，靠「半固化塑形」一眼認得出；它是日系流派的常見技巧，適合進階階段學習。
 tags: 凝膠雕花,3D,立體,進階
 difficulty: 進階
-updated: 2026-10-10
+updated: 2026-10-11
 related: foil-nail, mirror-nails, starry-nail, dotting, line-art
 ---
 # 凝膠雕花

@@ -7,7 +7,7 @@ slug: service-flow
 summary: 服務流程是美甲裡「標準化」的一種做法，靠「先溝通」一眼認得出；它是通用流派的常見技巧，適合中階階段學習。
 tags: 服務流程,標準化,體驗,沙龍
 difficulty: 中階
-updated: 2026-10-10
+updated: 2026-10-11
 related: pricing-model, cost-control, service-menu, complaints, retention
 ---
 # 服務流程

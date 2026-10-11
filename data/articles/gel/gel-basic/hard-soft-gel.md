@@ -7,7 +7,7 @@ slug: hard-soft-gel
 summary: 硬膠耐撞但只能磨卸，軟膠好卸但較軟；做延甲要先想好你要『撐力』還是『好卸』。
 tags: 硬膠,軟膠,可撓膠,延甲
 difficulty: 中階
-updated: 2026-10-10
+updated: 2026-10-11
 related: gel-what, gel-lamp, gel-polish, base-coat, top-coat
 ---
 # 硬膠與軟膠

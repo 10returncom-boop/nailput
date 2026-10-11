@@ -7,7 +7,7 @@ slug: gradient
 summary: 漸層是用海綿或刷子把兩種顏色疊出『由深到淺』的自然過渡，粉嫩又耐看，日系最愛。
 tags: 漸層,Gradient,海綿,日系
 difficulty: 中階
-updated: 2026-10-10
+updated: 2026-10-11
 related: line-art, flower-nailart, freehand, ombre, watercolor
 ---
 # 漸層

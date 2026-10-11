@@ -7,7 +7,7 @@ slug: learn-path
 summary: 學習路徑是美甲裡「想轉行的人」的一種做法，靠「先會衛生」一眼認得出；它是通用流派的常見技巧，適合入門階段學習。
 tags: 學習,美甲師,入門,進修
 difficulty: 入門
-updated: 2026-10-10
+updated: 2026-10-11
 related: workstation, cross-contamination, starter-kit, nail-types, nail-anatomy
 ---
 # 學習路徑

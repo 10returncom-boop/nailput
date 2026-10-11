@@ -7,7 +7,7 @@ slug: certification
 summary: 美甲證照是美甲裡「專業門檻」的一種做法，靠「證照是加分」一眼認得出；它是通用流派的常見技巧，適合中階階段學習。
 tags: 證照,執業,專業,進修
 difficulty: 中階
-updated: 2026-10-10
+updated: 2026-10-11
 related: instagram-mkt, local-mkt, referral, hygiene-law, insurance
 ---
 # 美甲證照

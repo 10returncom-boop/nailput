@@ -7,7 +7,7 @@ slug: animal-print
 summary: 動物紋是美甲裡「野性款」的一種做法，靠「斑點不規則」一眼認得出；它是歐美流派的常見技巧，適合入門階段學習。
 tags: 豹紋,動物紋,斑馬,個性
 difficulty: 入門
-updated: 2026-10-10
+updated: 2026-10-11
 related: watercolor, marble, crackle, french-tips, reverse-french
 ---
 # 動物紋

@@ -7,7 +7,7 @@ slug: jelly-color
 summary: 果凍色膠是美甲裡「透感愛好者」的一種做法，靠「透光可堆疊」一眼認得出；它是韓系流派的常見技巧，適合中階階段學習。
 tags: 果凍色膠,透感,堆疊,韓系
 difficulty: 中階
-updated: 2026-10-10
+updated: 2026-10-11
 related: color-gel-pick, serum-gel, brushes, files, dust-collector
 ---
 # 果凍色膠

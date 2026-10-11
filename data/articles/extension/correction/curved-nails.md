@@ -7,7 +7,7 @@ slug: curved-nails
 summary: 捲甲與扇形甲是美甲裡「特殊甲況」的一種做法，靠「先固定甲床」一眼認得出；它是日系流派的常見技巧，適合進階階段學習。
 tags: 捲甲,扇形甲,矯正,特殊甲
 difficulty: 進階
-updated: 2026-10-10
+updated: 2026-10-11
 related: stress-area, nail-correction, bitten-nails, press-on, full-cover-tip
 ---
 # 捲甲與扇形甲

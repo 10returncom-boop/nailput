@@ -7,7 +7,7 @@ slug: starry-nail
 summary: 星空美甲是美甲裡「夢幻款」的一種做法，靠「深底打光」一眼認得出；它是日系流派的常見技巧，適合中階階段學習。
 tags: 星空,夢幻,亮片,日系
 difficulty: 中階
-updated: 2026-10-10
+updated: 2026-10-11
 related: magnetic-gel, foil-nail, mirror-nails, 3d-gel, dotting
 ---
 # 星空美甲

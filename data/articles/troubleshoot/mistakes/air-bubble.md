@@ -7,7 +7,7 @@ slug: air-bubble
 summary: 氣泡是美甲裡「表面氣泡」的一種做法，靠「攪拌別太用力」一眼認得出；它是通用流派的常見技巧，適合中階階段學習。
 tags: 氣泡,凝膠,上色,失誤
 difficulty: 中階
-updated: 2026-10-10
+updated: 2026-10-11
 related: skin-irritation, lamp-burn, overflow, shrinkage, lifting-cause
 ---
 # 氣泡

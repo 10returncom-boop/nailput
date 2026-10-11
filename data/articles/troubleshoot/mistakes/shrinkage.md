@@ -7,7 +7,7 @@ slug: shrinkage
 summary: 縮膠是美甲裡「邊緣內縮」的一種做法，靠「膠太厚易縮」一眼認得出；它是通用流派的常見技巧，適合進階階段學習。
 tags: 縮膠,收縮,邊緣,厚薄
 difficulty: 進階
-updated: 2026-10-10
+updated: 2026-10-11
 related: lamp-burn, overflow, air-bubble, lifting-cause, pop-off
 ---
 # 縮膠

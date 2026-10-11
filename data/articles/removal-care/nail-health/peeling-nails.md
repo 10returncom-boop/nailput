@@ -7,7 +7,7 @@ slug: peeling-nails
 summary: 指甲分層是美甲裡「分層煩惱」的一種做法，靠「多是乾燥或磨傷」一眼認得出；它是通用流派的常見技巧，適合中階階段學習。
 tags: 分層,脫屑,保養,強化
 difficulty: 中階
-updated: 2026-10-10
+updated: 2026-10-11
 related: removal-freq, brittle-nails, yellow-nails, nail-strengthen, cuticle-care
 ---
 # 指甲分層

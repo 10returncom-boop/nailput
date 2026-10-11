@@ -7,7 +7,7 @@ slug: stress-area
 summary: 壓力點是美甲裡「防斷裂」的一種做法，靠「壓力點在微笑線」一眼認得出；它是通用流派的常見技巧，適合進階階段學習。
 tags: 壓力點,斷裂,延甲,應力
 difficulty: 進階
-updated: 2026-10-10
+updated: 2026-10-11
 related: form-extension, overlay, nail-correction, bitten-nails, curved-nails
 ---
 # 壓力點

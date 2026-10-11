@@ -7,7 +7,7 @@ slug: wedding-nails
 summary: 婚禮美甲的重點不是花俏，是『襯禮服＋夠持久＋不會出錯』，法式、裸色加珍珠最穩。
 tags: 婚禮,新娘,法式,珍珠
 difficulty: 中階
-updated: 2026-10-10
+updated: 2026-10-11
 related: minimalist, office-nails, white-nails, party-nails, festival-nails
 ---
 # 婚禮美甲

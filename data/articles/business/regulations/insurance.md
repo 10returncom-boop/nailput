@@ -7,7 +7,7 @@ slug: insurance
 summary: 執業保險是美甲裡「風險防護」的一種做法，靠「客人受傷有保障」一眼認得出；它是通用流派的常見技巧，適合進階階段學習。
 tags: 保險,責任險,風險,執業
 difficulty: 進階
-updated: 2026-10-10
+updated: 2026-10-11
 related: referral, certification, hygiene-law, pricing-model, cost-control
 ---
 # 執業保險

@@ -7,7 +7,7 @@ slug: nail-strengthen
 summary: 養甲強化是美甲裡「養甲控」的一種做法，靠「定期修剪」一眼認得出；它是日系流派的常見技巧，適合入門階段學習。
 tags: 養甲,強化,硬甲油,健康
 difficulty: 入門
-updated: 2026-10-10
+updated: 2026-10-11
 related: brittle-nails, yellow-nails, peeling-nails, cuticle-care, hand-moisture
 ---
 # 養甲強化

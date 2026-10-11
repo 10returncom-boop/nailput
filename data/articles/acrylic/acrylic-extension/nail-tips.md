@@ -7,7 +7,7 @@ slug: nail-tips
 summary: 甲片是美甲裡「快速延長」的一種做法，靠「膠黏或水晶接」一眼認得出；它是通用流派的常見技巧，適合入門階段學習。
 tags: 甲片,Nail Tips,延長,新手
 difficulty: 入門
-updated: 2026-10-10
+updated: 2026-10-11
 related: monomer, acrylic-bead, acrylic-ext, acrylic-french, sculpting
 ---
 # 甲片

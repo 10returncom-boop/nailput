@@ -7,7 +7,7 @@ slug: acrylic-what
 summary: 水晶指甲是『水晶粉＋液體』混成一顆小圓珠，趁半乾塑形，幾秒就自硬成堅硬的假甲。
 tags: 水晶,水晶粉,液體,原理
 difficulty: 中階
-updated: 2026-10-10
+updated: 2026-10-11
 related: monomer, acrylic-bead, acrylic-ext, nail-tips, acrylic-french
 ---
 # 水晶粉與液體

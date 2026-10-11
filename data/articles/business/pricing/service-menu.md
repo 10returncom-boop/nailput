@@ -7,7 +7,7 @@ slug: service-menu
 summary: 菜單設計是美甲裡「列價目表」的一種做法，靠「分類清楚」一眼認得出；它是通用流派的常見技巧，適合中階階段學習。
 tags: 菜單,價目表,服務,經營
 difficulty: 中階
-updated: 2026-10-10
+updated: 2026-10-11
 related: pricing-model, cost-control, service-flow, complaints, retention
 ---
 # 菜單設計

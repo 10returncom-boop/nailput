@@ -7,7 +7,7 @@ slug: workspace
 summary: 工作環境是美甲裡「開店硬體」的一種做法，靠「通風防味」一眼認得出；它是通用流派的常見技巧，適合中階階段學習。
 tags: 工作環境,通風,燈光,開店
 difficulty: 中階
-updated: 2026-10-10
+updated: 2026-10-11
 related: dust-collector, e-file, lamp-select, sanitizer, color-gel-pick
 ---
 # 工作環境

@@ -7,7 +7,7 @@ slug: curing-time
 summary: 固化時間是美甲裡「常照不乾的人」的一種做法，靠「照太久會燙」一眼認得出；它是通用流派的常見技巧，適合中階階段學習。
 tags: 固化,時間,照燈,凝膠
 difficulty: 中階
-updated: 2026-10-10
+updated: 2026-10-11
 related: rubber-base, peel-off-base, uv-led-lamp, undercure-overcure, peel-gel
 ---
 # 固化時間

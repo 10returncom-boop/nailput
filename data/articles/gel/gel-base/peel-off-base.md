@@ -7,7 +7,7 @@ slug: peel-off-base
 summary: 可剝底膠是美甲裡「想常常換色」的一種做法，靠「撕開就卸」一眼認得出；它是韓系流派的常見技巧，適合入門階段學習。
 tags: 可剝底膠,換色,快速,韓系
 difficulty: 入門
-updated: 2026-10-10
+updated: 2026-10-11
 related: base-coat, top-coat, rubber-base, uv-led-lamp, curing-time
 ---
 # 可剝底膠

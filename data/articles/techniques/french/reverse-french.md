@@ -7,7 +7,7 @@ slug: reverse-french
 summary: 反向法式是美甲裡「新鮮感」的一種做法，靠「色在指根」一眼認得出；它是日系流派的常見技巧，適合中階階段學習。
 tags: 反向法式,指根,日系,新鮮
 difficulty: 中階
-updated: 2026-10-10
+updated: 2026-10-11
 related: crackle, animal-print, french-tips, micro-french, cat-eye
 ---
 # 反向法式

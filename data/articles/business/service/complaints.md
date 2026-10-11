@@ -7,7 +7,7 @@ slug: complaints
 summary: 客訴處理是美甲裡「客訴危機」的一種做法，靠「先聽完」一眼認得出；它是通用流派的常見技巧，適合中階階段學習。
 tags: 客訴,處理,補救,服務
 difficulty: 中階
-updated: 2026-10-10
+updated: 2026-10-11
 related: cost-control, service-menu, service-flow, retention, instagram-mkt
 ---
 # 客訴處理

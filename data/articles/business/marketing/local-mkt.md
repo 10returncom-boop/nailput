@@ -7,7 +7,7 @@ slug: local-mkt
 summary: 在地行銷是美甲裡「在地客」的一種做法，靠「地圖資訊要全」一眼認得出；它是通用流派的常見技巧，適合中階階段學習。
 tags: 在地行銷,Google,口碑,客源
 difficulty: 中階
-updated: 2026-10-10
+updated: 2026-10-11
 related: complaints, retention, instagram-mkt, referral, certification
 ---
 # 在地行銷

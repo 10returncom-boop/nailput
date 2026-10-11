@@ -7,7 +7,7 @@ slug: skin-irritation
 summary: 接觸性皮膚炎是美甲裡「紅腫癢」的一種做法，靠「清潔劑或膠」一眼認得出；它是通用流派的常見技巧，適合中階階段學習。
 tags: 皮膚炎,刺激,過敏,健康
 difficulty: 中階
-updated: 2026-10-10
+updated: 2026-10-11
 related: staining, cloudy, gel-allergy, lamp-burn, overflow
 ---
 # 接觸性皮膚炎

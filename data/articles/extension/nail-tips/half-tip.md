@@ -7,7 +7,7 @@ slug: half-tip
 summary: 半甲片是美甲裡「進階延長」的一種做法，靠「只蓋前端」一眼認得出；它是歐美流派的常見技巧，適合中階階段學習。
 tags: 半甲片,延長,銜接,歐美
 difficulty: 中階
-updated: 2026-10-10
+updated: 2026-10-11
 related: curved-nails, press-on, full-cover-tip, form-extension, overlay
 ---
 # 半甲片

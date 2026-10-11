@@ -7,7 +7,7 @@ slug: soak-off-gel
 summary: 可卸凝膠是美甲裡「泡卸型凝膠」的一種做法，靠「用卸甲水泡」一眼認得出；它是日系流派的常見技巧，適合中階階段學習。
 tags: 可卸凝膠,卸甲,泡卸,凝膠
 difficulty: 中階
-updated: 2026-10-10
+updated: 2026-10-11
 related: curing-time, undercure-overcure, peel-gel, gel-what, gel-lamp
 ---
 # 可卸凝膠

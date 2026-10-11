@@ -7,7 +7,7 @@ slug: cloudy
 summary: 霧面變濁是美甲裡「封層霧掉」的一種做法，靠「封層不均」一眼認得出；它是通用流派的常見技巧，適合入門階段學習。
 tags: 霧面,封層,變濁,亮面
 difficulty: 入門
-updated: 2026-10-10
+updated: 2026-10-11
 related: edge-lifting, yellowing, staining, gel-allergy, skin-irritation
 ---
 # 霧面變濁

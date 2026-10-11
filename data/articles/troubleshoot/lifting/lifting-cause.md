@@ -7,7 +7,7 @@ slug: lifting-cause
 summary: 起翹九成是『前置沒做足、厚度不均、包邊漏掉』，補好這三點，持久度立刻翻倍。
 tags: 起翹,持久,前置,包邊
 difficulty: 中階
-updated: 2026-10-10
+updated: 2026-10-11
 related: pop-off, edge-lifting, yellowing, staining, cloudy
 ---
 # 起翹原因

@@ -7,7 +7,7 @@ slug: gel-lamp
 summary: 光療燈原理是美甲裡「搞懂原理」的一種做法，靠「光能量啟動聚合」一眼認得出；它是通用流派的常見技巧，適合入門階段學習。
 tags: 光療燈,UV,LED,固化
 difficulty: 入門
-updated: 2026-10-10
+updated: 2026-10-11
 related: gel-what, gel-polish, hard-soft-gel, base-coat, top-coat
 ---
 # 光療燈原理

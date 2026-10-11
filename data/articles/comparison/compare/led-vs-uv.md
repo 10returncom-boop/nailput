@@ -7,7 +7,7 @@ slug: led-vs-uv
 summary: LED 燈 vs UV 燈是美甲裡「買燈比較」的一種做法，靠「LED快但挑膠」一眼認得出；它是通用流派的常見技巧，適合中階階段學習。
 tags: LED,UV,光療燈,比較
 difficulty: 中階
-updated: 2026-10-10
+updated: 2026-10-11
 related: gel-vs-acrylic, hard-vs-soft, extension-vs-tip, choose-by-lifestyle, choose-by-nailtype
 ---
 # LED 燈 vs UV 燈

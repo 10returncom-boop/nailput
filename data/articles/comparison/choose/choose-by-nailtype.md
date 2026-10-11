@@ -7,7 +7,7 @@ slug: choose-by-nailtype
 summary: 依甲況選做法是美甲裡「特殊甲況」的一種做法，靠「薄甲用軟膠」一眼認得出；它是通用流派的常見技巧，適合中階階段學習。
 tags: 甲況,薄甲,易斷,矯正
 difficulty: 中階
-updated: 2026-10-10
+updated: 2026-10-11
 related: hard-vs-soft, extension-vs-tip, choose-by-lifestyle, choose-by-style, gel-vs-acrylic
 ---
 # 依甲況選做法

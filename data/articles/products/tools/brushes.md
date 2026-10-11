@@ -7,7 +7,7 @@ slug: brushes
 summary: 彩繪筆是美甲裡「精緻彩繪」的一種做法，靠「筆毛要好」一眼認得出；它是日系流派的常見技巧，適合中階階段學習。
 tags: 彩繪筆,畫筆,手繪,日系
 difficulty: 中階
-updated: 2026-10-10
+updated: 2026-10-11
 related: color-gel-pick, jelly-color, serum-gel, files, dust-collector
 ---
 # 彩繪筆

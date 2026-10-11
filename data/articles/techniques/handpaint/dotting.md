@@ -7,7 +7,7 @@ slug: dotting
 summary: 點點彩繪是美甲裡「新手第一款」的一種做法，靠「圓點是基本功」一眼認得出；它是日系流派的常見技巧，適合入門階段學習。
 tags: 點點,點珠筆,手繪,新手
 difficulty: 入門
-updated: 2026-10-10
+updated: 2026-10-11
 related: line-art, flower-nailart, freehand, gradient, ombre
 ---
 # 點點彩繪

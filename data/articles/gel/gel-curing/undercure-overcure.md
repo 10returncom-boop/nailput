@@ -7,7 +7,7 @@ slug: undercure-overcure
 summary: 固化不足與過度是美甲裡「專業師必修」的一種做法，靠「不足=不牢」一眼認得出；它是通用流派的常見技巧，適合進階階段學習。
 tags: 固化不足,過度固化,燙傷,專業
 difficulty: 進階
-updated: 2026-10-10
+updated: 2026-10-11
 related: peel-off-base, uv-led-lamp, curing-time, peel-gel, soak-off-gel
 ---
 # 固化不足與過度

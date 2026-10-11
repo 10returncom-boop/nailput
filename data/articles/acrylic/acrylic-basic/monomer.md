@@ -7,7 +7,7 @@ slug: monomer
 summary: 單體與聚合是美甲裡「搞懂化學」的一種做法，靠「單體是溶劑」一眼認得出；它是歐美流派的常見技巧，適合進階階段學習。
 tags: 單體,聚合,水晶,化學
 difficulty: 進階
-updated: 2026-10-10
+updated: 2026-10-11
 related: acrylic-what, acrylic-bead, acrylic-ext, nail-tips, acrylic-french
 ---
 # 單體與聚合

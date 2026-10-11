@@ -7,7 +7,7 @@ slug: peel-gel
 summary: 假性凝膠是美甲裡「快速卸甲」的一種做法，靠「剝開即卸」一眼認得出；它是韓系流派的常見技巧，適合入門階段學習。
 tags: 假性凝膠,可剝,快速,換款
 difficulty: 入門
-updated: 2026-10-10
+updated: 2026-10-11
 related: uv-led-lamp, curing-time, undercure-overcure, soak-off-gel, gel-what
 ---
 # 假性凝膠

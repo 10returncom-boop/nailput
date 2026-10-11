@@ -7,7 +7,7 @@ slug: edge-lifting
 summary: 前端起翹是美甲裡「前端翹起」的一種做法，靠「游離緣要薄」一眼認得出；它是通用流派的常見技巧，適合中階階段學習。
 tags: 前端,起翹,游離緣,延甲
 difficulty: 中階
-updated: 2026-10-10
+updated: 2026-10-11
 related: lifting-cause, pop-off, yellowing, staining, cloudy
 ---
 # 前端起翹

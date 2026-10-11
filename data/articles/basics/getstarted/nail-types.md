@@ -7,7 +7,7 @@ slug: nail-types
 summary: 三大流派認識是美甲裡「選方向用」的一種做法，靠「凝膠主流」一眼認得出；它是通用流派的常見技巧，適合入門階段學習。
 tags: 凝膠,水晶,彩繪,流派
 difficulty: 入門
-updated: 2026-10-10
+updated: 2026-10-11
 related: cross-contamination, starter-kit, learn-path, nail-anatomy, nail-plate
 ---
 # 三大流派認識

@@ -7,7 +7,7 @@ slug: choose-by-lifestyle
 summary: 依生活選做法是美甲裡「挑對款式」的一種做法，靠「常做事要耐磨」一眼認得出；它是通用流派的常見技巧，適合入門階段學習。
 tags: 生活方式,選款,持久,穿戴
 difficulty: 入門
-updated: 2026-10-10
+updated: 2026-10-11
 related: led-vs-uv, hard-vs-soft, extension-vs-tip, choose-by-nailtype, choose-by-style
 ---
 # 依生活選做法

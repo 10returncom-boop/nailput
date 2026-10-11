@@ -7,7 +7,7 @@ slug: cross-contamination
 summary: 交叉感染防護是美甲裡「顧客安全」的一種做法，靠「一人一套工具」一眼認得出；它是通用流派的常見技巧，適合中階階段學習。
 tags: 交叉感染,消毒,衛生,防護
 difficulty: 中階
-updated: 2026-10-10
+updated: 2026-10-11
 related: sterilization, filing-tools, workstation, starter-kit, learn-path
 ---
 # 交叉感染防護

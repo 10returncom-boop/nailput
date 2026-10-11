@@ -7,7 +7,7 @@ slug: pop-off
 summary: 整片掉落是美甲裡「整片翻車」的一種做法，靠「油脂沒去淨」一眼認得出；它是通用流派的常見技巧，適合中階階段學習。
 tags: 掉落,脫落,黏合,卸甲
 difficulty: 中階
-updated: 2026-10-10
+updated: 2026-10-11
 related: lifting-cause, edge-lifting, yellowing, staining, cloudy
 ---
 # 整片掉落

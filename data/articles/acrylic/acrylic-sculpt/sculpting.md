@@ -7,7 +7,7 @@ slug: sculpting
 summary: 水晶雕塑是美甲裡「立體造型」的一種做法，靠「雕完才固化」一眼認得出；它是歐美流派的常見技巧，適合進階階段學習。
 tags: 水晶雕塑,3D,雕花,進階
 difficulty: 進階
-updated: 2026-10-10
+updated: 2026-10-11
 related: acrylic-ext, nail-tips, acrylic-french, 3d-acrylic, acrylic-what
 ---
 # 水晶雕塑

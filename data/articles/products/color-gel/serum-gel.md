@@ -7,7 +7,7 @@ slug: serum-gel
 summary: 色膠濃稠度是美甲裡「手感差異」的一種做法，靠「濃的遮蓋好」一眼認得出；它是通用流派的常見技巧，適合中階階段學習。
 tags: 濃稠度,色膠,手感,暈染
 difficulty: 中階
-updated: 2026-10-10
+updated: 2026-10-11
 related: color-gel-pick, jelly-color, brushes, files, dust-collector
 ---
 # 色膠濃稠度

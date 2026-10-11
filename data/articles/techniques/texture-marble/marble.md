@@ -7,7 +7,7 @@ slug: marble
 summary: 大理石紋是把深淺灰白互相暈疊、再用細線拉出裂紋，做出像真大理石的高級感。
 tags: 大理石,紋理,韓系,高級
 difficulty: 中階
-updated: 2026-10-10
+updated: 2026-10-11
 related: gradient, ombre, watercolor, crackle, animal-print
 ---
 # 大理石紋

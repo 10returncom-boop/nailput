@@ -7,7 +7,7 @@ slug: hand-spa
 summary: 手部SPA是美甲裡「舒壓服務」的一種做法，靠「先去角質」一眼認得出；它是歐美流派的常見技巧，適合中階階段學習。
 tags: SPA,去角質,敷膜,沙龍
 difficulty: 中階
-updated: 2026-10-10
+updated: 2026-10-11
 related: nail-strengthen, cuticle-care, hand-moisture, soak-off-removal, drill-removal
 ---
 # 手部SPA

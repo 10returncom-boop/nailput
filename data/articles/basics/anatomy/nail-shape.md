@@ -7,7 +7,7 @@ slug: nail-shape
 summary: 五種基本甲型是美甲裡「美甲師必修」的一種做法，靠「方型帥氣」一眼認得出；它是通用流派的常見技巧，適合入門階段學習。
 tags: 甲型,修甲,方型,圓型,方圓
 difficulty: 入門
-updated: 2026-10-10
+updated: 2026-10-11
 related: nail-anatomy, nail-plate, cuticle, sterilization, filing-tools
 ---
 # 五種基本甲型

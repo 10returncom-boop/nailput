@@ -7,7 +7,7 @@ slug: watercolor
 summary: 水彩暈染是美甲裡「清透感」的一種做法，靠「顏色要稀」一眼認得出；它是日系流派的常見技巧，適合中階階段學習。
 tags: 水彩,暈染,清透,日系
 difficulty: 中階
-updated: 2026-10-10
+updated: 2026-10-11
 related: freehand, gradient, ombre, marble, crackle
 ---
 # 水彩暈染

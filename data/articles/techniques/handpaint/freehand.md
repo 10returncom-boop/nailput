@@ -7,7 +7,7 @@ slug: freehand
 summary: 自由手繪是美甲裡「練就對了」的一種做法，靠「比例先打底」一眼認得出；它是通用流派的常見技巧，適合進階階段學習。
 tags: 自由手繪,客製,彩繪,進階
 difficulty: 進階
-updated: 2026-10-10
+updated: 2026-10-11
 related: dotting, line-art, flower-nailart, gradient, ombre
 ---
 # 自由手繪

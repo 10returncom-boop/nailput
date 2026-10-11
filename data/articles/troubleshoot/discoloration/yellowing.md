@@ -7,7 +7,7 @@ slug: yellowing
 summary: 凝膠變黃是美甲裡「顏色發黃」的一種做法，靠「深色太久」一眼認得出；它是通用流派的常見技巧，適合入門階段學習。
 tags: 變黃,氧化,色膠,卸甲
 difficulty: 入門
-updated: 2026-10-10
+updated: 2026-10-11
 related: lifting-cause, pop-off, edge-lifting, staining, cloudy
 ---
 # 凝膠變黃

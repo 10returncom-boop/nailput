@@ -7,7 +7,7 @@ slug: gel-what
 summary: 凝膠是塗上去、照燈就變硬的凝膠狀樹脂，比指甲油持久、比水晶好上手，是現在美甲的主流。
 tags: 凝膠,光療,原理,新手
 difficulty: 入門
-updated: 2026-10-10
+updated: 2026-10-11
 related: gel-lamp, gel-polish, hard-soft-gel, base-coat, top-coat
 ---
 # 凝膠是什麼

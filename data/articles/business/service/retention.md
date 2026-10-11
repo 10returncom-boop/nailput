@@ -7,7 +7,7 @@ slug: retention
 summary: 回客經營是美甲裡「穩定客源」的一種做法，靠「提醒回補」一眼認得出；它是通用流派的常見技巧，適合中階階段學習。
 tags: 回客,回補,常客,經營
 difficulty: 中階
-updated: 2026-10-10
+updated: 2026-10-11
 related: service-menu, service-flow, complaints, instagram-mkt, local-mkt
 ---
 # 回客經營

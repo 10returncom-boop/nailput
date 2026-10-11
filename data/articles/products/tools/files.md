@@ -7,7 +7,7 @@ slug: files
 summary: 銼刀挑選是美甲裡「工具必備」的一種做法，靠「目數看用途」一眼認得出；它是通用流派的常見技巧，適合入門階段學習。
 tags: 銼刀,目數,修型,工具
 difficulty: 入門
-updated: 2026-10-10
+updated: 2026-10-11
 related: jelly-color, serum-gel, brushes, dust-collector, e-file
 ---
 # 銼刀挑選

@@ -7,7 +7,7 @@ slug: overflow
 summary: 溢膠是美甲裡「新手常犯」的一種做法，靠「一次一薄層」一眼認得出；它是通用流派的常見技巧，適合中階階段學習。
 tags: 溢膠,上色,新手,失誤
 difficulty: 中階
-updated: 2026-10-10
+updated: 2026-10-11
 related: gel-allergy, skin-irritation, lamp-burn, air-bubble, shrinkage
 ---
 # 溢膠

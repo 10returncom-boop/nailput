@@ -7,7 +7,7 @@ slug: jelly-nails
 summary: 果凍感美甲是美甲裡「春夏款」的一種做法，靠「半透明」一眼認得出；它是韓系流派的常見技巧，適合入門階段學習。
 tags: 果凍,透感,韓系,春夏
 difficulty: 入門
-updated: 2026-10-10
+updated: 2026-10-11
 related: glass-nails, pearl-nails, glitter-nails, nude-nails, minimalist
 ---
 # 果凍感美甲

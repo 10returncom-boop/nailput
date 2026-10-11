@@ -7,7 +7,7 @@ slug: overlay
 summary: 補甲與覆蓋是美甲裡「修補斷甲」的一種做法，靠「覆蓋本甲」一眼認得出；它是通用流派的常見技巧，適合入門階段學習。
 tags: 補甲,覆蓋,Overlay,修復
 difficulty: 入門
-updated: 2026-10-10
+updated: 2026-10-11
 related: form-extension, stress-area, nail-correction, bitten-nails, curved-nails
 ---
 # 補甲與覆蓋

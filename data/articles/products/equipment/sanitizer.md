@@ -7,7 +7,7 @@ slug: sanitizer
 summary: 消毒用品是美甲裡「衛生基礎」的一種做法，靠「酒精消毒檯面」一眼認得出；它是通用流派的常見技巧，適合入門階段學習。
 tags: 消毒,酒精,UV箱,衛生
 difficulty: 入門
-updated: 2026-10-10
+updated: 2026-10-11
 related: e-file, lamp-select, workspace, color-gel-pick, jelly-color
 ---
 # 消毒用品

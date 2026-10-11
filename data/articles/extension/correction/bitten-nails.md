@@ -7,7 +7,7 @@ slug: bitten-nails
 summary: 咬甲矯正是『先延甲保護＋戒掉咬的習慣＋定期回補』，三個一起做才斷得掉。
 tags: 咬甲,矯正,延甲,習慣
 difficulty: 中階
-updated: 2026-10-10
+updated: 2026-10-11
 related: overlay, stress-area, nail-correction, curved-nails, press-on
 ---
 # 咬甲矯正

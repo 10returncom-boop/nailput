@@ -7,7 +7,7 @@ slug: 3d-acrylic
 summary: 3D水晶雕花是美甲裡「雕花專修」的一種做法，靠「由外而內」一眼認得出；它是歐美流派的常見技巧，適合進階階段學習。
 tags: 3D,雕花,水晶,立體
 difficulty: 進階
-updated: 2026-10-10
+updated: 2026-10-11
 related: nail-tips, acrylic-french, sculpting, acrylic-what, monomer
 ---
 # 3D水晶雕花

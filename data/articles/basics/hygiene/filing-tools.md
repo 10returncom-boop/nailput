@@ -7,7 +7,7 @@ slug: filing-tools
 summary: 銼刀與打磨是美甲裡「新手第一步」的一種做法，靠「粗銼定形」一眼認得出；它是通用流派的常見技巧，適合入門階段學習。
 tags: 銼刀,打磨,拋光,修型
 difficulty: 入門
-updated: 2026-10-10
+updated: 2026-10-11
 related: nail-shape, cuticle, sterilization, workstation, cross-contamination
 ---
 # 銼刀與打磨

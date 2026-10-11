@@ -7,7 +7,7 @@ slug: glass-nails
 summary: 玻璃紙美甲是美甲裡「閃亮款」的一種做法，靠「透亮反光」一眼認得出；它是日系流派的常見技巧，適合入門階段學習。
 tags: 玻璃紙,閃亮,日系,透亮
 difficulty: 入門
-updated: 2026-10-10
+updated: 2026-10-11
 related: jelly-nails, pearl-nails, glitter-nails, nude-nails, minimalist
 ---
 # 玻璃紙美甲

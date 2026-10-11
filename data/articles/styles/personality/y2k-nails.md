@@ -7,7 +7,7 @@ slug: y2k-nails
 summary: Y2K 美甲是美甲裡「千禧風」的一種做法，靠「螢光亮色」一眼認得出；它是韓系流派的常見技巧，適合中階階段學習。
 tags: Y2K,千禧,螢光,韓系
 difficulty: 中階
-updated: 2026-10-10
+updated: 2026-10-11
 related: party-nails, festival-nails, bridal-french, dark-gothic, retro-nails
 ---
 # Y2K 美甲

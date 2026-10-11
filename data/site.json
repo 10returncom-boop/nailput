@@ -1,11 +1,11 @@
 {
  "site": {
-  "name": "美甲圖庫知識網",
-  "name_en": "Nail Art Encyclopedia",
+  "name": "NailPut 美甲知識與選購指南",
+  "name_en": "NailPut",
   "desc": "最齊全的大白話美甲知識庫：從凝膠、水晶到彩繪與款式，認識原理、做法步驟、優缺點與新手雷區，一站搞懂美甲。",
-  "rootUrl": "https://nailart.example.com/",
+  "rootUrl": "https://nailput.com/",
   "version": "v1.0.0",
-  "updated": "2026-10-10"
+  "updated": "2026-10-11"
  },
  "chapters": [
   {

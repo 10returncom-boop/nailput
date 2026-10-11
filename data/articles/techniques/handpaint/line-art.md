@@ -7,7 +7,7 @@ slug: line-art
 summary: 線條彩繪是美甲裡「細膩款必學」的一種做法，靠「筆要細」一眼認得出；它是日系流派的常見技巧，適合中階階段學習。
 tags: 線條,拉線,手繪,細膩
 difficulty: 中階
-updated: 2026-10-10
+updated: 2026-10-11
 related: dotting, flower-nailart, freehand, gradient, ombre
 ---
 # 線條彩繪

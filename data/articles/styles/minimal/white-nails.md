@@ -7,7 +7,7 @@ slug: white-nails
 summary: 純白美甲是美甲裡「乾淨款」的一種做法，靠「白得乾淨」一眼認得出；它是日系流派的常見技巧，適合入門階段學習。
 tags: 純白,乾淨,日系,純色
 difficulty: 入門
-updated: 2026-10-10
+updated: 2026-10-11
 related: nude-nails, minimalist, office-nails, wedding-nails, party-nails
 ---
 # 純白美甲

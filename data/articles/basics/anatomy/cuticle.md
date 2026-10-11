@@ -7,7 +7,7 @@ slug: cuticle
 summary: 指緣與甘皮是美甲裡「保養必知」的一種做法，靠「甘皮不是要剪光」一眼認得出；它是台式流派的常見技巧，適合中階階段學習。
 tags: 指緣,甘皮,保養,死皮
 difficulty: 中階
-updated: 2026-10-10
+updated: 2026-10-11
 related: nail-anatomy, nail-plate, nail-shape, sterilization, filing-tools
 ---
 # 指緣與甘皮

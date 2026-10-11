@@ -7,7 +7,7 @@ slug: lamp-select
 summary: 光療燈選擇是美甲裡「買燈前必看」的一種做法，靠「瓦數足夠」一眼認得出；它是通用流派的常見技巧，適合中階階段學習。
 tags: 光療燈,瓦數,選擇,設備
 difficulty: 中階
-updated: 2026-10-10
+updated: 2026-10-11
 related: files, dust-collector, e-file, workspace, sanitizer
 ---
 # 光療燈選擇

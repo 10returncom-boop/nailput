@@ -7,7 +7,7 @@ slug: bridal-french
 summary: 新娘法式是美甲裡「婚禮經典」的一種做法，靠「法式基底」一眼認得出；它是日系流派的常見技巧，適合中階階段學習。
 tags: 新娘法式,婚禮,典雅,日系
 difficulty: 中階
-updated: 2026-10-10
+updated: 2026-10-11
 related: wedding-nails, party-nails, festival-nails, y2k-nails, dark-gothic
 ---
 # 新娘法式

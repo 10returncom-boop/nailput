@@ -7,7 +7,7 @@ slug: top-coat
 summary: 封層的選擇是美甲裡「亮面霧面選對」的一種做法，靠「封層保護色膠」一眼認得出；它是通用流派的常見技巧，適合入門階段學習。
 tags: 封層,Top Coat,亮面,霧面
 difficulty: 入門
-updated: 2026-10-10
+updated: 2026-10-11
 related: gel-polish, hard-soft-gel, base-coat, rubber-base, peel-off-base
 ---
 # 封層的選擇

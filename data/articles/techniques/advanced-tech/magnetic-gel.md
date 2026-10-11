@@ -7,7 +7,7 @@ slug: magnetic-gel
 summary: 磁鐵凝膠是美甲裡「貓眼前置」的一種做法，靠「磁棒貼近」一眼認得出；它是韓系流派的常見技巧，適合中階階段學習。
 tags: 磁鐵凝膠,磁棒,光帶,韓系
 difficulty: 中階
-updated: 2026-10-10
+updated: 2026-10-11
 related: reverse-french, micro-french, cat-eye, foil-nail, mirror-nails
 ---
 # 磁鐵凝膠

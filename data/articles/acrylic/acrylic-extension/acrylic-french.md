@@ -7,7 +7,7 @@ slug: acrylic-french
 summary: 法式水晶是美甲裡「經典工法」的一種做法，靠「粉直接塑出白邊」一眼認得出；它是歐美流派的常見技巧，適合進階階段學習。
 tags: 法式,水晶,微笑線,進階
 difficulty: 進階
-updated: 2026-10-10
+updated: 2026-10-11
 related: acrylic-bead, acrylic-ext, nail-tips, sculpting, 3d-acrylic
 ---
 # 法式水晶

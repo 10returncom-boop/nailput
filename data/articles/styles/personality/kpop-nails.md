@@ -7,7 +7,7 @@ slug: kpop-nails
 summary: 韓系美甲是『透亮淺色＋小圖案＋乾淨耐看』，像女團的打歌服，清新又有存在感。
 tags: 韓系,小清新,透感,K-pop
 difficulty: 入門
-updated: 2026-10-10
+updated: 2026-10-11
 related: y2k-nails, dark-gothic, retro-nails, japanese-nail, jelly-nails
 ---
 # 韓系美甲

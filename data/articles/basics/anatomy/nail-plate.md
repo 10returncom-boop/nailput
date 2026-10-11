@@ -7,7 +7,7 @@ slug: nail-plate
 summary: 甲板與甲床是美甲裡「觀察指甲健康」的一種做法，靠「甲板是露出的硬層」一眼認得出；它是通用流派的常見技巧，適合入門階段學習。
 tags: 甲板,甲床,游離緣,指甲健康
 difficulty: 入門
-updated: 2026-10-10
+updated: 2026-10-11
 related: nail-anatomy, nail-shape, cuticle, sterilization, filing-tools
 ---
 # 甲板與甲床

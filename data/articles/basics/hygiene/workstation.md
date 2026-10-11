@@ -7,7 +7,7 @@ slug: workstation
 summary: 工作台與環境是美甲裡「開店準備」的一種做法，靠「檯面即擦即清」一眼認得出；它是通用流派的常見技巧，適合中階階段學習。
 tags: 工作台,環境,粉塵,開店
 difficulty: 中階
-updated: 2026-10-10
+updated: 2026-10-11
 related: cuticle, sterilization, filing-tools, cross-contamination, starter-kit
 ---
 # 工作台與環境

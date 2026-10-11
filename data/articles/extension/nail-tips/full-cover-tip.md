@@ -7,7 +7,7 @@ slug: full-cover-tip
 summary: 全覆蓋甲片是美甲裡「快速延長」的一種做法，靠「覆蓋整個甲」一眼認得出；它是通用流派的常見技巧，適合入門階段學習。
 tags: 全覆蓋,甲片,快速,新手
 difficulty: 入門
-updated: 2026-10-10
+updated: 2026-10-11
 related: bitten-nails, curved-nails, press-on, half-tip, form-extension
 ---
 # 全覆蓋甲片

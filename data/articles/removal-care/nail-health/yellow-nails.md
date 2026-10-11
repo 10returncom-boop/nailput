@@ -7,7 +7,7 @@ slug: yellow-nails
 summary: 指甲變黃多半是『深色染色』或『煙漬』，打底膠、深色別留太久、卸甲要乾淨，就能慢慢白回來。
 tags: 變黃,染色,美白,保養
 difficulty: 入門
-updated: 2026-10-10
+updated: 2026-10-11
 related: drill-removal, removal-freq, brittle-nails, peeling-nails, nail-strengthen
 ---
 # 指甲變黃

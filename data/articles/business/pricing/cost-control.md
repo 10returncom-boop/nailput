@@ -7,7 +7,7 @@ slug: cost-control
 summary: 成本控制是美甲裡「節流」的一種做法，靠「耗材算入」一眼認得出；它是通用流派的常見技巧，適合中階階段學習。
 tags: 成本,耗材,庫存,經營
 difficulty: 中階
-updated: 2026-10-10
+updated: 2026-10-11
 related: pricing-model, service-menu, service-flow, complaints, retention
 ---
 # 成本控制

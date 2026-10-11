@@ -7,7 +7,7 @@ slug: base-coat
 summary: 底膠是色膠和真甲之間的『接著劑』，上得對，整副凝膠才貼得住、不翹。
 tags: 底膠,持久,起翹,前置
 difficulty: 入門
-updated: 2026-10-10
+updated: 2026-10-11
 related: gel-lamp, gel-polish, hard-soft-gel, top-coat, rubber-base
 ---
 # 底膠的功用

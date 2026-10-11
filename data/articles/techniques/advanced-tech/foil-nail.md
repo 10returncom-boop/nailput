@@ -7,7 +7,7 @@ slug: foil-nail
 summary: 轉印箔是美甲裡「亮點款」的一種做法，靠「轉印膠當黏層」一眼認得出；它是日系流派的常見技巧，適合中階階段學習。
 tags: 金箔,轉印箔,亮點,日系
 difficulty: 中階
-updated: 2026-10-10
+updated: 2026-10-11
 related: micro-french, cat-eye, magnetic-gel, mirror-nails, starry-nail
 ---
 # 轉印箔
