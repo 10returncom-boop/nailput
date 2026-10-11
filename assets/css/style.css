@@ -575,7 +575,7 @@ table.tbl tbody tr:hover td{background:var(--bg-sub)}
   width:42px;height:42px;border-radius:12px;
   background:var(--bg-elev);border:1px solid var(--line-strong);
   color:var(--fg-dim);display:grid;place-items:center;text-decoration:none;
-  box-shadow:var(--shadow);transition:.22s;
+  box-shadow:none;transition:.22s;
 }
 .float-btn:hover{color:var(--accent);border-color:var(--accent);transform:translateY(-2px)}
 .float-btn.backtop{opacity:0;visibility:hidden;transform:translateY(8px)}
