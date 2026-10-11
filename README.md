@@ -1,29 +1,55 @@
-# 美甲圖庫知識網 — 建置規格書 README
+# NailPut 美甲知識與選購指南 — README
 
-> 一個大主題一個資料夾、一次點擊一頁專業分析；改資料不用動模板，N 頁一次到位。
+> 美甲知識庫：從凝膠、水晶到彩繪與款式，認識原理、做法步驟、優缺點與新手雷區，一站搞懂美甲。
+
+## 專案資訊
+
+- **網站名稱**：NailPut 美甲知識與選購指南
+- **網域**：https://nailput.com/
+- **託管**：GitHub Pages（https://github.com/10returncom-boop/nailput）
+- **本地路徑**：`D:\_WWW_325\_____nailput.com\美甲圖庫知識網\`
+- **文章數**：128 篇
+- **主題數**：10 大主題群
 
 ## 標準執行步驟
 
-1. **探查版型**：沿用 `+300種藝術風格` 驗證過的 `build.py + data/ + CONTENT-SPEC.md` 生成器架構。
-2. **建立資料層**：`data_master.py`（11 主題/31 子分類）＋ `styles_data.py`（100+ 篇美甲知識）。
+1. **探查版型**：沿用驗證過的 `build.py + data/ + CONTENT-SPEC.md` 生成器架構。
+2. **資料層**：`data_master.py`（10 主題/子分類）＋ `styles_data.py`（128 篇美甲知識）。
 3. **內容展開**：`seed.py` 產生 `data/site.json` 與全部 `.md`。
 4. **視覺素材**：`gen_images.py` 用 PIL 產生 WebP（章節＋每篇主視覺＋辨識卡）。
 5. **頁面生成**：`build.py` 產出全站 HTML。
-6. **文件交付**：`gen_excel.py` 產出兩份 Excel；本檔為規格書。
-7. **驗收**：`python build.py --check` 須通過全部篇數。
+6. **文件交付**：`gen_excel.py` 產出兩份 Excel。
+7. **部署**：`git add . && git commit -m "msg" && git push` → GitHub Pages 1~2 分鐘生效。
 
 ## 明確執行項目指令
 
 ```powershell
-cd D:\_WWW_325\美甲圖庫知識網
+cd D:\_WWW_325\_____nailput.com\美甲圖庫知識網
 python seed.py         # 展開內容
 python gen_images.py   # 產生 WebP
 python build.py        # 建置全站
 python gen_excel.py    # 產出 Excel
-python build.py --check
+git add . && git commit -m "更新說明" && git push
 ```
 
-## 網站功能清單（對照需求）
+## 10 大主題群
+
+| # | 主題 | 英文名 | 子分類 |
+|---|---|---|---|
+| 1 | 入門與基礎 | Basics | 認識指甲與甲床、衛生消毒與器材、美甲師入門 |
+| 2 | 凝膠美甲 | Gel Nails | 凝膠基礎、底膠與上層、光療燈與固化、可剝凝膠 |
+| 3 | 水晶指甲 | Acrylic Nails | 水晶原理、水晶延甲、水晶雕塑 |
+| 4 | 彩繪技法 | Nail Art Techniques | 手繪彩繪、漸層與暈染、大理石與紋理、法式美甲、進階技法 |
+| 5 | 款式風格 | Nail Styles | 流行款式、極簡與商務、場合款式、個性風格 |
+| 6 | 延甲與矯正 | Extension & Correction | 延甲技法、甲型矯正、甲片應用 |
+| 7 | 卸甲與保養 | Removal & Care | 正確卸甲、指甲健康、手部保養 |
+| 8 | 產品與工具 | Products & Tools | 色膠選擇、工具挑選、設備與環境 |
+| 9 | 沙龍經營 | Salon Business | 定價與成本、服務流程與客訴、行銷與社群、衛生法規與證照 |
+| 10 | NailPut專欄 | NailPut Column | 起翹與掉落、變黃與染色、過敏與刺激、新手失誤、技法對照、選用指南 |
+
+> 「選用比較」已併入 NailPut專欄（troubleshoot/compare + troubleshoot/choose）。
+
+## 網站功能清單
 
 | 需求 | 實作 |
 |---|---|
@@ -36,32 +62,26 @@ python build.py --check
 | 全站搜尋＋自動完成 | 頂欄即時建議（文章/主題/標籤） |
 | 多面向篩選 Faceted Search | search.html 左側主題/難度/關鍵字 |
 | 相關文章推薦 | 每篇末尾「相關文章」卡片 |
-| 知識圖譜／收藏清單 | 右側收藏抽屜＋相關標籤關聯 |
-| 右下站內導航／回上頁/首頁／分頁 | float-dock＋上一篇/下一篇 pager |
-| OG Favicon／OG=9 | 9 個 OG 標籤＋SVG favicon |
-| Webp 圖文並茂 | 每篇文章兩張以上 WebP（主視覺＋辨識卡） |
+| 最新文章卡片 | 首頁顯示 6 篇：長標題＋作者＋摘要 |
+| OG Favicon／OG | 完整 OG/Twitter Card/Canonical＋SVG favicon（粉底白字N） |
 | FAQPage JSON-LD 大白話 | 每篇 Q/A 自動結構化 |
 | 3 段結構化資料 | BreadcrumbList＋Article/CollectionPage＋FAQPage/WebSite |
 | sitemap/robots/404/manifest | 全數產出 |
-| build.py + data/ + CONTENT-SPEC | 生成器架構，改資料不動模板 |
-| Topic-Cluster 主題群聚 | 11 主題分 6 大群（新手入門/凝膠水晶/技法款式/延甲保養/經營疑難/比較選用） |
-| AEO/RAG 檢索佳 | 每頁 H1/H2、摘要、JSON-LD、純靜態語意清晰 |
+| SEO 長尾標題 | 比較/選用文章標題含關鍵字＋問句 |
+| Footer | © 2026 NailPut美甲知識與選購指南 · nailput.com · Line: 331.today |
 
 ## 交付檔案
 
-- `index.html` … 全站靜態頁（直接部署即可）
-- `網站地圖.xlsx`：全部頁面清單
-- `網站變數與網站導覽.xlsx`：全站變數＋導覽樹＋標籤索引
-- `CONTENT-SPEC.md`：內容撰寫規範
+- `index.html` … 全站首頁
 - `build.py / seed.py / gen_images.py / gen_excel.py`：可重跑的生成器
+- `data_master.py`：主題/SITE 設定
+- `styles_data.py`：128 篇文章資料
+- `content_overrides.py`：客製內文
+- `CONTENT-SPEC.md`：內容撰寫規範
+- `網站地圖.xlsx`：全部頁面清單
+- `網站數據與網站導覽.xlsx`：全站變數＋導覽樹＋標籤索引
 
-## 升級路徑（Astro / Next content collections）
+## DNS 設定（GoDaddy）
 
-目前為零依賴靜態站，可直接托管。未來要升級：把 `data/articles/**/*.md` 作為
-Astro content collections（`src/content/`），`site.json` 對應 `config.ts` collection
-schema，組件沿用本樣板（CSS/JS 已與框架無耦合）。
-
-## 404／連結健檢
-
-`python build.py --check` 驗證內容完整性；另可跑下列掃描腳本比對本機檔案，抓出
-HTML 內所有內外連結與圖片路徑的 404（見 `check_links.py`）。
+- A 紀錄 @ → 185.199.108.153 / 109.153 / 110.153 / 111.153（TTL 600 秒）
+- CNAME www → 10returncom-boop.github.io.
