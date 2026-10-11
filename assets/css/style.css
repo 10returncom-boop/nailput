@@ -387,6 +387,7 @@ table.tbl tbody tr:hover td{background:var(--bg-sub)}
   position:relative;overflow:hidden;border-radius:var(--radius);
   background:linear-gradient(135deg,var(--bg-elev),var(--gold-soft));
   border:1px solid var(--line);padding:34px 34px 30px;margin-bottom:26px;
+  box-shadow:none;
 }
 .hero::after{
   content:"";position:absolute;right:-60px;top:-60px;width:260px;height:260px;border-radius:50%;
@@ -553,8 +554,9 @@ table.tbl tbody tr:hover td{background:var(--bg-sub)}
   .layout,.layout.with-toc{grid-template-columns:1fr;gap:20px}
   .sidebar{display:none}
   .searchbox{width:auto;flex:1;order:3}
-  .brand-title{font-size:13.5px}
-  .theme-seg{order:1}
+  .brand{flex:1;min-width:0;overflow:hidden}
+  .brand-title{font-size:13.5px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+  .theme-seg{order:4}
   #favOpen{order:2}
   .page-title{font-size:26px}
   .article{padding:20px 18px}
@@ -566,7 +568,7 @@ table.tbl tbody tr:hover td{background:var(--bg-sub)}
   .mega-panel{min-width:0;width:calc(100vw - 20px);max-width:none;left:8px;border-radius:0;border-left:0;border-right:0}
 }
 @media (max-width:520px){
-  .theme-seg button{width:28px;height:24px}
+  .theme-seg{display:none}
   .brand-sub{display:none}
   .topbar-inner{padding:8px 12px;gap:8px}
   .crumb-inner{padding:7px 12px}
