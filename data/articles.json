@@ -1868,7 +1868,7 @@
    "slug": "lifting-cause",
    "title": "起翹原因",
    "url": "troubleshoot/lifting/lifting-cause.html",
-   "cat": "疑難排解 › 起翹與掉落",
+   "cat": "NailPut專欄 › 起翹與掉落",
    "tags": [
     "起翹",
     "持久",
@@ -1885,7 +1885,7 @@
    "slug": "pop-off",
    "title": "整片掉落",
    "url": "troubleshoot/lifting/pop-off.html",
-   "cat": "疑難排解 › 起翹與掉落",
+   "cat": "NailPut專欄 › 起翹與掉落",
    "tags": [
     "掉落",
     "脫落",
@@ -1902,7 +1902,7 @@
    "slug": "edge-lifting",
    "title": "前端起翹",
    "url": "troubleshoot/lifting/edge-lifting.html",
-   "cat": "疑難排解 › 起翹與掉落",
+   "cat": "NailPut專欄 › 起翹與掉落",
    "tags": [
     "前端",
     "起翹",
@@ -1919,7 +1919,7 @@
    "slug": "yellowing",
    "title": "凝膠變黃",
    "url": "troubleshoot/discoloration/yellowing.html",
-   "cat": "疑難排解 › 變黃與染色",
+   "cat": "NailPut專欄 › 變黃與染色",
    "tags": [
     "變黃",
     "氧化",
@@ -1936,7 +1936,7 @@
    "slug": "staining",
    "title": "染色",
    "url": "troubleshoot/discoloration/staining.html",
-   "cat": "疑難排解 › 變黃與染色",
+   "cat": "NailPut專欄 › 變黃與染色",
    "tags": [
     "染色",
     "滲色",
@@ -1953,7 +1953,7 @@
    "slug": "cloudy",
    "title": "霧面變濁",
    "url": "troubleshoot/discoloration/cloudy.html",
-   "cat": "疑難排解 › 變黃與染色",
+   "cat": "NailPut專欄 › 變黃與染色",
    "tags": [
     "霧面",
     "封層",
@@ -1970,7 +1970,7 @@
    "slug": "gel-allergy",
    "title": "凝膠過敏",
    "url": "troubleshoot/reactions/gel-allergy.html",
-   "cat": "疑難排解 › 過敏與刺激",
+   "cat": "NailPut專欄 › 過敏與刺激",
    "tags": [
     "過敏",
     "凝膠",
@@ -1987,7 +1987,7 @@
    "slug": "skin-irritation",
    "title": "接觸性皮膚炎",
    "url": "troubleshoot/reactions/skin-irritation.html",
-   "cat": "疑難排解 › 過敏與刺激",
+   "cat": "NailPut專欄 › 過敏與刺激",
    "tags": [
     "皮膚炎",
     "刺激",
@@ -2004,7 +2004,7 @@
    "slug": "lamp-burn",
    "title": "燈燙傷",
    "url": "troubleshoot/reactions/lamp-burn.html",
-   "cat": "疑難排解 › 過敏與刺激",
+   "cat": "NailPut專欄 › 過敏與刺激",
    "tags": [
     "燙傷",
     "光療燈",
@@ -2021,7 +2021,7 @@
    "slug": "overflow",
    "title": "溢膠",
    "url": "troubleshoot/mistakes/overflow.html",
-   "cat": "疑難排解 › 新手失誤",
+   "cat": "NailPut專欄 › 新手失誤",
    "tags": [
     "溢膠",
     "上色",
@@ -2038,7 +2038,7 @@
    "slug": "air-bubble",
    "title": "氣泡",
    "url": "troubleshoot/mistakes/air-bubble.html",
-   "cat": "疑難排解 › 新手失誤",
+   "cat": "NailPut專欄 › 新手失誤",
    "tags": [
     "氣泡",
     "凝膠",
@@ -2055,7 +2055,7 @@
    "slug": "shrinkage",
    "title": "縮膠",
    "url": "troubleshoot/mistakes/shrinkage.html",
-   "cat": "疑難排解 › 新手失誤",
+   "cat": "NailPut專欄 › 新手失誤",
    "tags": [
     "縮膠",
     "收縮",
