@@ -1866,7 +1866,7 @@
   },
   {
    "slug": "lifting-cause",
-   "title": "起翹原因",
+   "title": "凝膠起翹原因大公開：前置不足還是包邊漏了？",
    "url": "troubleshoot/lifting/lifting-cause.html",
    "cat": "NailPut專欄 › 起翹與掉落",
    "tags": [
@@ -1883,7 +1883,7 @@
   },
   {
    "slug": "pop-off",
-   "title": "整片掉落",
+   "title": "美甲整片掉落怎麼辦？凝膠脫落原因與預防",
    "url": "troubleshoot/lifting/pop-off.html",
    "cat": "NailPut專欄 › 起翹與掉落",
    "tags": [
@@ -1894,13 +1894,13 @@
    ],
    "difficulty": "中階",
    "updated": "2026-10-11",
-   "summary": "整片掉落是美甲裡「整片翻車」的一種做法，靠「油脂沒去淨」一眼認得出；它是通用流派的常見技巧，適合中階階段學習。",
+   "summary": "美甲整片掉落怎麼辦？凝膠脫落原因與預防是美甲裡「整片翻車」的一種做法，靠「油脂沒去淨」一眼認得出；它是通用流派的常見技巧，適合中階階段學習。",
    "chapter": "troubleshoot",
    "sub": "lifting"
   },
   {
    "slug": "edge-lifting",
-   "title": "前端起翹",
+   "title": "指甲前端起翹原因：游離緣保養與預防方法",
    "url": "troubleshoot/lifting/edge-lifting.html",
    "cat": "NailPut專欄 › 起翹與掉落",
    "tags": [
@@ -1911,13 +1911,13 @@
    ],
    "difficulty": "中階",
    "updated": "2026-10-11",
-   "summary": "前端起翹是美甲裡「前端翹起」的一種做法，靠「游離緣要薄」一眼認得出；它是通用流派的常見技巧，適合中階階段學習。",
+   "summary": "指甲前端起翹原因：游離緣保養與預防方法是美甲裡「前端翹起」的一種做法，靠「游離緣要薄」一眼認得出；它是通用流派的常見技巧，適合中階階段學習。",
    "chapter": "troubleshoot",
    "sub": "lifting"
   },
   {
    "slug": "yellowing",
-   "title": "凝膠變黃",
+   "title": "凝膠指甲變黃原因：深色染甲與氧化預防",
    "url": "troubleshoot/discoloration/yellowing.html",
    "cat": "NailPut專欄 › 變黃與染色",
    "tags": [
@@ -1928,13 +1928,13 @@
    ],
    "difficulty": "入門",
    "updated": "2026-10-11",
-   "summary": "凝膠變黃是美甲裡「顏色發黃」的一種做法，靠「深色太久」一眼認得出；它是通用流派的常見技巧，適合入門階段學習。",
+   "summary": "凝膠指甲變黃原因：深色染甲與氧化預防是美甲裡「顏色發黃」的一種做法，靠「深色太久」一眼認得出；它是通用流派的常見技巧，適合入門階段學習。",
    "chapter": "troubleshoot",
    "sub": "discoloration"
   },
   {
    "slug": "staining",
-   "title": "染色",
+   "title": "指甲被染色怎麼辦？深色凝膠滲色預防與改善",
    "url": "troubleshoot/discoloration/staining.html",
    "cat": "NailPut專欄 › 變黃與染色",
    "tags": [
@@ -1945,13 +1945,13 @@
    ],
    "difficulty": "入門",
    "updated": "2026-10-11",
-   "summary": "染色是美甲裡「指甲染上色」的一種做法，靠「底膠隔離」一眼認得出；它是通用流派的常見技巧，適合入門階段學習。",
+   "summary": "指甲被染色怎麼辦？深色凝膠滲色預防與改善是美甲裡「指甲染上色」的一種做法，靠「底膠隔離」一眼認得出；它是通用流派的常見技巧，適合入門階段學習。",
    "chapter": "troubleshoot",
    "sub": "discoloration"
   },
   {
    "slug": "cloudy",
-   "title": "霧面變濁",
+   "title": "封層霧面變濁原因：凝膠起霧怎麼救？",
    "url": "troubleshoot/discoloration/cloudy.html",
    "cat": "NailPut專欄 › 變黃與染色",
    "tags": [
@@ -1962,13 +1962,13 @@
    ],
    "difficulty": "入門",
    "updated": "2026-10-11",
-   "summary": "霧面變濁是美甲裡「封層霧掉」的一種做法，靠「封層不均」一眼認得出；它是通用流派的常見技巧，適合入門階段學習。",
+   "summary": "封層霧面變濁原因：凝膠起霧怎麼救？是美甲裡「封層霧掉」的一種做法，靠「封層不均」一眼認得出；它是通用流派的常見技巧，適合入門階段學習。",
    "chapter": "troubleshoot",
    "sub": "discoloration"
   },
   {
    "slug": "gel-allergy",
-   "title": "凝膠過敏",
+   "title": "凝膠美甲過敏症狀：接觸性皮膚炎預防與處理",
    "url": "troubleshoot/reactions/gel-allergy.html",
    "cat": "NailPut專欄 › 過敏與刺激",
    "tags": [
@@ -1985,7 +1985,7 @@
   },
   {
    "slug": "skin-irritation",
-   "title": "接觸性皮膚炎",
+   "title": "做美甲皮膚紅腫癢？接觸性皮膚炎預防指南",
    "url": "troubleshoot/reactions/skin-irritation.html",
    "cat": "NailPut專欄 › 過敏與刺激",
    "tags": [
@@ -1996,13 +1996,13 @@
    ],
    "difficulty": "中階",
    "updated": "2026-10-11",
-   "summary": "接觸性皮膚炎是美甲裡「紅腫癢」的一種做法，靠「清潔劑或膠」一眼認得出；它是通用流派的常見技巧，適合中階階段學習。",
+   "summary": "做美甲皮膚紅腫癢？接觸性皮膚炎預防指南是美甲裡「紅腫癢」的一種做法，靠「清潔劑或膠」一眼認得出；它是通用流派的常見技巧，適合中階階段學習。",
    "chapter": "troubleshoot",
    "sub": "reactions"
   },
   {
    "slug": "lamp-burn",
-   "title": "燈燙傷",
+   "title": "光療燙傷怎麼辦？照燈手指發熱原因與預防",
    "url": "troubleshoot/reactions/lamp-burn.html",
    "cat": "NailPut專欄 › 過敏與刺激",
    "tags": [
@@ -2013,13 +2013,13 @@
    ],
    "difficulty": "中階",
    "updated": "2026-10-11",
-   "summary": "燈燙傷是美甲裡「照燈發熱」的一種做法，靠「燈太強或太久」一眼認得出；它是通用流派的常見技巧，適合中階階段學習。",
+   "summary": "光療燙傷怎麼辦？照燈手指發熱原因與預防是美甲裡「照燈發熱」的一種做法，靠「燈太強或太久」一眼認得出；它是通用流派的常見技巧，適合中階階段學習。",
    "chapter": "troubleshoot",
    "sub": "reactions"
   },
   {
    "slug": "overflow",
-   "title": "溢膠",
+   "title": "新手美甲溢膠补救：上色出界的預防與清理",
    "url": "troubleshoot/mistakes/overflow.html",
    "cat": "NailPut專欄 › 新手失誤",
    "tags": [
@@ -2030,13 +2030,13 @@
    ],
    "difficulty": "中階",
    "updated": "2026-10-11",
-   "summary": "溢膠是美甲裡「新手常犯」的一種做法，靠「一次一薄層」一眼認得出；它是通用流派的常見技巧，適合中階階段學習。",
+   "summary": "新手美甲溢膠补救：上色出界的預防與清理是美甲裡「新手常犯」的一種做法，靠「一次一薄層」一眼認得出；它是通用流派的常見技巧，適合中階階段學習。",
    "chapter": "troubleshoot",
    "sub": "mistakes"
   },
   {
    "slug": "air-bubble",
-   "title": "氣泡",
+   "title": "凝膠氣泡原因：美甲表面凹凸的預防與修補",
    "url": "troubleshoot/mistakes/air-bubble.html",
    "cat": "NailPut專欄 › 新手失誤",
    "tags": [
@@ -2047,13 +2047,13 @@
    ],
    "difficulty": "中階",
    "updated": "2026-10-11",
-   "summary": "氣泡是美甲裡「表面氣泡」的一種做法，靠「攪拌別太用力」一眼認得出；它是通用流派的常見技巧，適合中階階段學習。",
+   "summary": "凝膠氣泡原因：美甲表面凹凸的預防與修補是美甲裡「表面氣泡」的一種做法，靠「攪拌別太用力」一眼認得出；它是通用流派的常見技巧，適合中階階段學習。",
    "chapter": "troubleshoot",
    "sub": "mistakes"
   },
   {
    "slug": "shrinkage",
-   "title": "縮膠",
+   "title": "凝膠縮膠原因：邊緣內縮的預防與改善方法",
    "url": "troubleshoot/mistakes/shrinkage.html",
    "cat": "NailPut專欄 › 新手失誤",
    "tags": [
@@ -2064,7 +2064,7 @@
    ],
    "difficulty": "進階",
    "updated": "2026-10-11",
-   "summary": "縮膠是美甲裡「邊緣內縮」的一種做法，靠「膠太厚易縮」一眼認得出；它是通用流派的常見技巧，適合進階階段學習。",
+   "summary": "凝膠縮膠原因：邊緣內縮的預防與改善方法是美甲裡「邊緣內縮」的一種做法，靠「膠太厚易縮」一眼認得出；它是通用流派的常見技巧，適合進階階段學習。",
    "chapter": "troubleshoot",
    "sub": "mistakes"
   },
