@@ -8,7 +8,7 @@ summary: 氣泡是美甲裡「表面氣泡」的一種做法，靠「攪拌別�
 tags: 氣泡,凝膠,上色,失誤
 difficulty: 中階
 updated: 2026-10-11
-related: skin-irritation, lamp-burn, overflow, shrinkage, lifting-cause
+related: skin-irritation, lamp-burn, overflow, shrinkage, gel-vs-acrylic
 ---
 # 氣泡
 

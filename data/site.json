@@ -276,7 +276,7 @@
    "id": "troubleshoot",
    "zh": "NailPut專欄",
    "en": "NailPut Column",
-   "desc": "起翹、變黃、過敏……問題對症下藥。",
+   "desc": "問題對症下藥、技法比較與選用指南，一站搞懂。",
    "subs": [
     {
      "id": "lifting",
@@ -301,20 +301,12 @@
      "zh": "新手失誤",
      "en": "Common Mistakes",
      "desc": "溢膠、氣泡與縮膠。"
-    }
-   ]
-  },
-  {
-   "id": "comparison",
-   "zh": "選用比較",
-   "en": "Compare & Choose",
-   "desc": "凝膠 vs 水晶、延甲 vs 甲片，一次比清。",
-   "subs": [
+    },
     {
      "id": "compare",
      "zh": "技法對照",
      "en": "Comparison",
-     "desc": "常被搞混的技法一次比清。"
+     "desc": "凝膠 vs 水晶、LED vs UV，常被搞混的技法一次比清。"
     },
     {
      "id": "choose",
@@ -933,37 +925,37 @@
   },
   {
    "slug": "gel-vs-acrylic",
-   "chapter": "comparison",
+   "chapter": "troubleshoot",
    "sub": "compare"
   },
   {
    "slug": "led-vs-uv",
-   "chapter": "comparison",
+   "chapter": "troubleshoot",
    "sub": "compare"
   },
   {
    "slug": "hard-vs-soft",
-   "chapter": "comparison",
+   "chapter": "troubleshoot",
    "sub": "compare"
   },
   {
    "slug": "extension-vs-tip",
-   "chapter": "comparison",
+   "chapter": "troubleshoot",
    "sub": "compare"
   },
   {
    "slug": "choose-by-lifestyle",
-   "chapter": "comparison",
+   "chapter": "troubleshoot",
    "sub": "choose"
   },
   {
    "slug": "choose-by-nailtype",
-   "chapter": "comparison",
+   "chapter": "troubleshoot",
    "sub": "choose"
   },
   {
    "slug": "choose-by-style",
-   "chapter": "comparison",
+   "chapter": "troubleshoot",
    "sub": "choose"
   }
  ]

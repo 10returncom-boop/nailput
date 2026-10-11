@@ -8,7 +8,7 @@ summary: 縮膠是美甲裡「邊緣內縮」的一種做法，靠「膠太厚�
 tags: 縮膠,收縮,邊緣,厚薄
 difficulty: 進階
 updated: 2026-10-11
-related: lamp-burn, overflow, air-bubble, lifting-cause, pop-off
+related: lamp-burn, overflow, air-bubble, gel-vs-acrylic, led-vs-uv
 ---
 # 縮膠
 

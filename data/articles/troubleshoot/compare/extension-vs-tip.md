@@ -1,7 +1,7 @@
 ---
 title: 延甲 vs 甲片
 en: Extension vs Tips
-chapter: comparison
+chapter: troubleshoot
 sub: compare
 slug: extension-vs-tip
 summary: 延甲 vs 甲片是美甲裡「延長方式」的一種做法，靠「延甲一體」一眼認得出；它是通用流派的常見技巧，適合入門階段學習。

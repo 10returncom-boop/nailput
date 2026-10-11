@@ -2071,8 +2071,8 @@
   {
    "slug": "gel-vs-acrylic",
    "title": "凝膠 vs 水晶",
-   "url": "comparison/compare/gel-vs-acrylic.html",
-   "cat": "選用比較 › 技法對照",
+   "url": "troubleshoot/compare/gel-vs-acrylic.html",
+   "cat": "NailPut專欄 › 技法對照",
    "tags": [
     "凝膠",
     "水晶",
@@ -2082,14 +2082,14 @@
    "difficulty": "中階",
    "updated": "2026-10-11",
    "summary": "凝膠照燈好上手、香氣低，水晶靠粉液自乾、更硬挺；新手先學凝膠，要耐操長甲再練水晶。",
-   "chapter": "comparison",
+   "chapter": "troubleshoot",
    "sub": "compare"
   },
   {
    "slug": "led-vs-uv",
    "title": "LED 燈 vs UV 燈",
-   "url": "comparison/compare/led-vs-uv.html",
-   "cat": "選用比較 › 技法對照",
+   "url": "troubleshoot/compare/led-vs-uv.html",
+   "cat": "NailPut專欄 › 技法對照",
    "tags": [
     "LED",
     "UV",
@@ -2099,14 +2099,14 @@
    "difficulty": "中階",
    "updated": "2026-10-11",
    "summary": "LED 燈 vs UV 燈是美甲裡「買燈比較」的一種做法，靠「LED快但挑膠」一眼認得出；它是通用流派的常見技巧，適合中階階段學習。",
-   "chapter": "comparison",
+   "chapter": "troubleshoot",
    "sub": "compare"
   },
   {
    "slug": "hard-vs-soft",
    "title": "硬膠 vs 軟膠",
-   "url": "comparison/compare/hard-vs-soft.html",
-   "cat": "選用比較 › 技法對照",
+   "url": "troubleshoot/compare/hard-vs-soft.html",
+   "cat": "NailPut專欄 › 技法對照",
    "tags": [
     "硬膠",
     "軟膠",
@@ -2116,14 +2116,14 @@
    "difficulty": "中階",
    "updated": "2026-10-11",
    "summary": "硬膠 vs 軟膠是美甲裡「延甲比較」的一種做法，靠「硬膠撐力強」一眼認得出；它是通用流派的常見技巧，適合中階階段學習。",
-   "chapter": "comparison",
+   "chapter": "troubleshoot",
    "sub": "compare"
   },
   {
    "slug": "extension-vs-tip",
    "title": "延甲 vs 甲片",
-   "url": "comparison/compare/extension-vs-tip.html",
-   "cat": "選用比較 › 技法對照",
+   "url": "troubleshoot/compare/extension-vs-tip.html",
+   "cat": "NailPut專欄 › 技法對照",
    "tags": [
     "延甲",
     "甲片",
@@ -2133,14 +2133,14 @@
    "difficulty": "入門",
    "updated": "2026-10-11",
    "summary": "延甲 vs 甲片是美甲裡「延長方式」的一種做法，靠「延甲一體」一眼認得出；它是通用流派的常見技巧，適合入門階段學習。",
-   "chapter": "comparison",
+   "chapter": "troubleshoot",
    "sub": "compare"
   },
   {
    "slug": "choose-by-lifestyle",
    "title": "依生活選做法",
-   "url": "comparison/choose/choose-by-lifestyle.html",
-   "cat": "選用比較 › 選用指南",
+   "url": "troubleshoot/choose/choose-by-lifestyle.html",
+   "cat": "NailPut專欄 › 選用指南",
    "tags": [
     "生活方式",
     "選款",
@@ -2150,14 +2150,14 @@
    "difficulty": "入門",
    "updated": "2026-10-11",
    "summary": "依生活選做法是美甲裡「挑對款式」的一種做法，靠「常做事要耐磨」一眼認得出；它是通用流派的常見技巧，適合入門階段學習。",
-   "chapter": "comparison",
+   "chapter": "troubleshoot",
    "sub": "choose"
   },
   {
    "slug": "choose-by-nailtype",
    "title": "依甲況選做法",
-   "url": "comparison/choose/choose-by-nailtype.html",
-   "cat": "選用比較 › 選用指南",
+   "url": "troubleshoot/choose/choose-by-nailtype.html",
+   "cat": "NailPut專欄 › 選用指南",
    "tags": [
     "甲況",
     "薄甲",
@@ -2167,14 +2167,14 @@
    "difficulty": "中階",
    "updated": "2026-10-11",
    "summary": "依甲況選做法是美甲裡「特殊甲況」的一種做法，靠「薄甲用軟膠」一眼認得出；它是通用流派的常見技巧，適合中階階段學習。",
-   "chapter": "comparison",
+   "chapter": "troubleshoot",
    "sub": "choose"
   },
   {
    "slug": "choose-by-style",
    "title": "依風格選款式",
-   "url": "comparison/choose/choose-by-style.html",
-   "cat": "選用比較 › 選用指南",
+   "url": "troubleshoot/choose/choose-by-style.html",
+   "cat": "NailPut專欄 › 選用指南",
    "tags": [
     "風格",
     "日系",
@@ -2184,7 +2184,7 @@
    "difficulty": "入門",
    "updated": "2026-10-11",
    "summary": "依風格選款式是美甲裡「選款式」的一種做法，靠「要精緻選日系」一眼認得出；它是通用流派的常見技巧，適合入門階段學習。",
-   "chapter": "comparison",
+   "chapter": "troubleshoot",
    "sub": "choose"
   }
  ]

@@ -1,14 +1,14 @@
 ---
 title: 凝膠 vs 水晶
 en: Gel vs Acrylic
-chapter: comparison
+chapter: troubleshoot
 sub: compare
 slug: gel-vs-acrylic
 summary: 凝膠照燈好上手、香氣低，水晶靠粉液自乾、更硬挺；新手先學凝膠，要耐操長甲再練水晶。
 tags: 凝膠,水晶,比較,系統
 difficulty: 中階
 updated: 2026-10-11
-related: led-vs-uv, hard-vs-soft, extension-vs-tip, choose-by-lifestyle, choose-by-nailtype
+related: overflow, air-bubble, shrinkage, led-vs-uv, hard-vs-soft
 ---
 # 凝膠 vs 水晶
 
