@@ -1,22 +1,22 @@
 ---
-title: LED 燈 vs UV 燈
+title: LED燈vsUV燈比較：美甲光療燈怎麼選
 en: LED vs UV Lamp
 chapter: troubleshoot
 sub: compare
 slug: led-vs-uv
-summary: LED 燈 vs UV 燈是美甲裡「買燈比較」的一種做法，靠「LED快但挑膠」一眼認得出；它是通用流派的常見技巧，適合中階階段學習。
+summary: LED燈vsUV燈比較：美甲光療燈怎麼選是美甲裡「買燈比較」的一種做法，靠「LED快但挑膠」一眼認得出；它是通用流派的常見技巧，適合中階階段學習。
 tags: LED,UV,光療燈,比較
 difficulty: 中階
 updated: 2026-10-11
 related: air-bubble, shrinkage, gel-vs-acrylic, hard-vs-soft, extension-vs-tip
 ---
-# LED 燈 vs UV 燈
+# LED燈vsUV燈比較：美甲光療燈怎麼選
 
-## LED 燈 vs UV 燈：LED快但挑膠
-這篇做的是「LED 燈 vs UV 燈」的對照表：LED快／UV廣。核心差異一句話——LED快但挑膠。看完你就能在挑款式時立刻分得出該用哪一套。
+## LED燈vsUV燈比較：美甲光療燈怎麼選：LED快但挑膠
+這篇做的是「LED燈vsUV燈比較：美甲光療燈怎麼選」的對照表：LED快／UV廣。核心差異一句話——LED快但挑膠。看完你就能在挑款式時立刻分得出該用哪一套。
 
-## LED 燈 vs UV 燈詳細對照表
-| 比較面向 | LED 燈 vs UV 燈 |
+## LED燈vsUV燈比較：美甲光療燈怎麼選詳細對照表
+| 比較面向 | LED燈vsUV燈比較：美甲光療燈怎麼選 |
 | --- | --- |
 | LED快但挑膠 | LED快但挑膠 |
 | UV通用 | UV通用 |
@@ -26,16 +26,16 @@ related: air-bubble, shrinkage, gel-vs-acrylic, hard-vs-soft, extension-vs-tip
 - **代表成品**：選對燈
 - **一句話分**：LED快但挑膠
 
-## 為什麼LED 燈 vs UV 燈常被搞混？
+## 為什麼LED燈vsUV燈比較：美甲光療燈怎麼選常被搞混？
 因為它們都屬於美甲的「買燈比較」，做出來的成品乍看很像，甚至同一位美甲師會同時用。真正的分水嶺不是『看起來像不像』，而是『用在哪種場合』。把這一層想通，以後看款式就不會卡住。
 
-## LED 燈 vs UV 燈記憶口訣
+## LED燈vsUV燈比較：美甲光療燈怎麼選記憶口訣
 LED快但挑膠。下次在款式圖上看到「LED快但挑膠」，先問自己：它比較偏哪一邊？三秒就能下判斷。
 
-## LED 燈 vs UV 燈到底該選哪個？
+## LED燈vsUV燈比較：美甲光療燈怎麼選到底該選哪個？
 LED快／UV廣。要做「買燈比較」的場合，優先考慮這一套的持久度與好卸程度；另一套則在需要更多變化或硬度時補位。記住：一個需求只認一個主做法，其餘都是配角。
 
-## LED 燈 vs UV 燈常見問題
+## LED燈vsUV燈比較：美甲光療燈怎麼選常見問題
 Q：為什麼要把這兩個放一起比？
 A：因為它們常被搞混——同屬買燈比較、成品相近，連工具都可能共用。把差異攤開，比單獨背兩個定義更快記住。
 
