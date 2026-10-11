@@ -566,6 +566,8 @@ table.tbl tbody tr:hover td{background:var(--bg-sub)}
   .footer-inner{grid-template-columns:1fr;gap:18px}
   .pager{flex-direction:column}
   .pager a,.pager .p-void{max-width:100%}
+  .grid{grid-template-columns:1fr}
+  .latest-grid{grid-template-columns:1fr}
   .mega-panel{min-width:0;width:calc(100vw - 20px);max-width:none;left:8px;border-radius:0;border-left:0;border-right:0}
 }
 @media (max-width:520px){
@@ -575,7 +577,6 @@ table.tbl tbody tr:hover td{background:var(--bg-sub)}
   .crumb-inner{padding:7px 12px}
   .wrap,.layout{padding-left:14px;padding-right:14px}
   .hero{padding:24px 20px}
-  .grid{grid-template-columns:1fr}
 }
 
 /* 回到頂端 */
