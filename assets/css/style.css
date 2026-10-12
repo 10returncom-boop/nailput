@@ -21,7 +21,7 @@
   --sans:"Noto Sans TC",system-ui,-apple-system,"PingFang TC","Microsoft JhengHei",sans-serif;
   --mono:ui-monospace,"Cascadia Mono",Consolas,monospace;
 }
-[data-theme="dark"]{
+[data-theme="dark-disabled"]{
   --bg:#101116; --bg-elev:#191b21; --bg-sub:#20232b; --bg-ink:#262a34;
   --fg:#e7e4dc; --fg-dim:#a7a399; --fg-mute:#6f6c63;
   --line:#2b2f3a; --line-strong:#3a4050;
