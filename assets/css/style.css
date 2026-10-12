@@ -655,10 +655,10 @@ table.tbl tbody tr:hover td{background:var(--bg-sub)}
 .acc-head .chev{display:none}
 .acc-body{max-height:none;overflow:visible;padding:0 16px 16px}
 .acc-card .cc-desc{font-size:13px;color:var(--fg-dim);line-height:1.7;padding:2px 0 12px}
-.cc-group-pill{display:inline-block;font-size:11px;font-weight:700;color:var(--accent);background:var(--accent-soft);padding:3px 10px;border-radius:20px;margin-bottom:10px}
+.cc-group-pill{display:inline-block;font-size:12px;font-weight:600;color:var(--accent);margin-bottom:8px}
 .acc-card .cc-desc{font-size:13px;color:var(--fg-dim);line-height:1.7;padding:2px 0 12px}
 .cc-tags{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:12px}
-.cc-tag{font-size:11.5px;color:var(--fg-dim);background:var(--bg-sub);border:1px solid var(--line);padding:3px 10px;border-radius:16px}
+.cc-tag{font-size:12px;color:var(--fg-dim)}
 .acc-link{display:inline-block;font-size:12.5px;color:var(--accent);text-decoration:none;font-weight:600}
 .acc-link:hover{text-decoration:underline}
 
