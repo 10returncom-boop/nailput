@@ -377,7 +377,7 @@ table.tbl tbody tr:hover td{background:var(--bg-sub)}
   box-shadow:none;
 }
 .hero-bg{
-  border-radius:0;border:0;margin:-20px -20px 26px;
+  border-radius:0;border:0;margin:-70px -20px 26px;
   background-size:cover;background-position:center;
   min-height:420px;display:flex;align-items:flex-end;
   padding:60px 40px 40px;
@@ -591,7 +591,7 @@ table.tbl tbody tr:hover td{background:var(--bg-sub)}
   .topbar-inner{padding:8px 12px;gap:8px}
   .crumb-inner{padding:7px 12px}
   .wrap,.layout{padding-left:14px;padding-right:14px}
-  .hero-bg{margin:-20px -14px 20px;min-height:320px;padding:40px 20px 24px}
+  .hero-bg{margin:-70px -14px 20px;min-height:320px;padding:40px 20px 24px}
   .hero-bg h1{font-size:24px !important}
   .hero{padding:24px 20px}
 }
