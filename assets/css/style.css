@@ -33,7 +33,9 @@
   --shadow:0 1px 2px rgba(0,0,0,.4),0 10px 28px rgba(0,0,0,.5);
 }
 
-*{box-sizing:border-box;margin:0;padding:0}
+*{box-sizing:border-box;margin:0;padding:0;-webkit-user-select:none;-moz-user-select:none;user-select:none}
+img{-webkit-user-drag:none;user-drag:none;pointer-events:none}
+input,textarea{-webkit-user-select:text;-moz-user-select:text;user-select:text}
 html{scroll-behavior:smooth}
 html,body{height:100%}
 body{
