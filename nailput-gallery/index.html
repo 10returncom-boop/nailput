@@ -135,22 +135,27 @@
   .grp-row{display:flex;flex-wrap:wrap;gap:6px}
 
   /* 分頁 */
-  .pagination{display:flex;align-items:center;justify-content:center;gap:6px;margin-top:26px;flex-wrap:wrap}
+  .pagination{display:flex;align-items:center;justify-content:center;gap:4px;margin-top:26px;flex-wrap:wrap}
   .page-btn{border:1px solid var(--line);background:var(--surface);color:var(--ink);min-width:38px;height:38px;border-radius:10px;font-size:14px;cursor:pointer;font-family:inherit;transition:all .15s ease}
   .page-btn:hover{border-color:var(--accent);color:var(--accent)}
   .page-btn.active{background:var(--accent);border-color:var(--accent);color:#fff;font-weight:700}
   .page-btn:disabled{opacity:.4;cursor:not-allowed}
 
   /* 浮動導航（左下角） */
-  .float-nav{position:fixed;left:16px;bottom:16px;display:flex;flex-direction:column;gap:8px;z-index:45}
-  .float-btn{height:44px;min-width:44px;padding:0 14px;border-radius:999px;border:none;background:var(--accent);color:#fff;cursor:pointer;display:flex;align-items:center;justify-content:center;gap:6px;box-shadow:0 6px 16px rgba(150,110,95,.3);font-family:inherit;font-size:14px;font-weight:700;text-decoration:none}
+  .float-nav{position:fixed;right:16px;bottom:16px;display:flex;flex-direction:column;gap:6px;z-index:45}
+  .float-btn{height:32px;min-width:32px;padding:0 8px;border-radius:999px;border:none;background:var(--accent);color:#fff;cursor:pointer;display:flex;align-items:center;justify-content:center;gap:4px;box-shadow:0 4px 10px rgba(150,110,95,.25);font-family:inherit;font-size:10px;font-weight:700;text-decoration:none}
   .float-btn:hover{background:#a25c67}
-  .float-btn svg{width:17px;height:17px}
-  .float-btn.line{background:#06C755}
+  .float-btn svg{width:13px;height:13px}
+.float-btn.home{background:transparent;box-shadow:none;padding:0 4px;color:var(--accent)}
+  .float-btn.home:hover{background:transparent;color:#a25c67}
+    .float-btn.line{background:#06C755;padding:0 6px}
   .float-btn.line:hover{background:#05ad4a}
 
   footer{margin-top:44px;text-align:center;font-size:13px;color:var(--muted)}
   footer .dot{margin:0 6px;color:var(--accent)}
+  /* 全站保護：防選取、防拖拽存圖、防右鍵 */
+  body{user-select:none;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none}
+  img, svg{-webkit-user-drag:none;user-select:none}
 
 </style>
 </head>
@@ -190,7 +195,7 @@
 
   <header class="hero">
     <div class="eyebrow">Nail Art Gallery</div>
-    <h1>NailPut 美甲圖庫 · 300 款最流行最酷風格</h1>
+    <h1>NailPut 美甲圖庫<br>300 款最流行最酷風格</h1>
     <p class="sub">收錄 300 款美甲設計，涵蓋 23 種款式 × 20 種色系。點擊圖片放大、可加入收藏清單，支援色系／款式篩選與快速搜尋。</p>
   </header>
 
@@ -2040,8 +2045,6 @@
 </div>
 
 <div class="float-nav">
-  <a class="float-btn" href="#top" aria-label="回首頁"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M3 10.5 12 3l9 7.5M5 9.5V21h5v-6h4v6h5V9.5"/></svg>Home</a>
-  <button class="float-btn" id="backPrev" aria-label="回上頁" onclick="history.back()">‹ Back</button>
   <a class="float-btn line" href="https://line.me/ti/p/g-FTLSqJAR" target="_blank" rel="noopener" aria-label="Line 社群"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 2C6.6 2 2.5 5.6 2.5 10c0 2.5 1.3 4.7 3.4 6.2L5 20.2l3.9-2.1c1 .3 2 .4 3.1.4 5.4 0 9.5-3.6 9.5-8S17.4 2 12 2Z"/></svg>Line</a>
 </div>
 
@@ -2221,5 +2224,14 @@
   apply();
 })();
 </script>
+<script>
+/* 全站保護：防右鍵、防拖拽、防複製、防另存快捷鍵 */
+document.addEventListener('contextmenu',function(e){e.preventDefault();return false;});
+document.addEventListener('dragstart',function(e){e.preventDefault();return false;});
+document.addEventListener('selectstart',function(e){e.preventDefault();});
+document.addEventListener('copy',function(e){e.preventDefault();});
+document.addEventListener('keydown',function(e){if(e.key==='F12'||e.ctrlKey&&(e.key==='s'||e.key==='S'||e.key==='u'||e.key==='U')){e.preventDefault();return false;}});
+</script>
 </body>
+
 </html>
