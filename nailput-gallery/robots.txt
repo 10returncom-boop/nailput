@@ -2,7 +2,7 @@ User-agent: *
 Allow: /
 
 # 宣告總 sitemap 索引（只放 sitemap-index，勿列子 sitemap）
-Sitemap: https://nailput.com/美甲圖庫/sitemap-index.xml
+Sitemap: https://nailput.com/nailput-gallery/sitemap-index.xml
 
 # 禁止抓取（按需調整）
 Disallow: /admin/
