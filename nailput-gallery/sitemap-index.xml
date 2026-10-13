@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- 主站文字內容 sitemap（首頁、分類、FAQ、文章） -->
+  <sitemap>
+    <loc>https://nailput.com/main-sitemap.xml</loc>
+    <lastmod>2026-10-13</lastmod>
+  </sitemap>
+  <!-- 美甲圖庫專用 sitemap（單款作品頁 + image:image 標籤） -->
+  <sitemap>
+    <loc>https://nailput.com/美甲圖庫/gallery-sitemap.xml</loc>
+    <lastmod>2026-10-13</lastmod>
+  </sitemap>
+</sitemapindex>

@@ -62,6 +62,8 @@
     var seenGroups = {};
     var chapterPanels = [];   // 非分組章節的面板
     var groupPanels = [];     // 分組面板
+    /* 置頂：美甲圖庫（固定導覽入口） */
+    topHtml += '<div class="nav-item"><a class="nav-link" href="' + penUrl('nailput-gallery/index.html') + '">美甲圖庫</a></div>';
     (window.PEN.chapters || []).forEach(function (ch) {
       var g = GROUP_MAP[ch.id];
       if (g) {
@@ -188,7 +190,8 @@
         '<span>' + ch.zh + '</span>' + CHEV + '</a>' +
         '<div class="toc-sub">' + items + '</div></div>';
     }).join('');
-    sb.innerHTML = '<h3>目錄 TOC</h3>' + groups +
+    sb.innerHTML = '<div class="side-gallery"><a href="' + penUrl('nailput-gallery/index.html') + '">美甲圖庫 · 300 款 ›</a></div>' +
+      '<h3>目錄 TOC</h3>' + groups +
       '<div class="side-note">此區為同章節樹狀導覽，點擊任一文章標題即可跳轉；上層分類以側欄首層展開。</div>';
     // 點擊 L1 展開/收合（非導航）
     var l1s = sb.querySelectorAll('.toc-l1');
@@ -220,6 +223,8 @@
     }
     /* 依原始章節順序展開分組 */
     var html = '', seenG = {};
+    /* 置頂：美甲圖庫（固定導覽入口） */
+    html += '<div class="mob-ch"><a class="mob-art" href="' + penUrl('nailput-gallery/index.html') + '" style="font-weight:700;color:#c2547d">美甲圖庫 · 300 款</a></div>';
     (window.PEN.chapters || []).forEach(function (ch) {
       var g = GROUP_MAP[ch.id];
       if (g) {
