@@ -1,0 +1,16 @@
+{
+  "name": "NailPut 美甲知識與選購指南",
+  "short_name": "NailPut",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#f7f5f0",
+  "theme_color": "#c2547d",
+  "lang": "zh-Hant",
+  "icons": [
+    {
+      "src": "assets/images/home-hero.webp",
+      "sizes": "1280x720",
+      "type": "image/webp"
+    }
+  ]
+}

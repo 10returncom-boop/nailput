@@ -1,0 +1,2191 @@
+{
+ "site": {
+  "name": "NailPut 美甲知識與選購指南",
+  "name_en": "NailPut",
+  "desc": "最齊全的大白話美甲知識庫：從凝膠、水晶到彩繪與款式，認識原理、做法步驟、優缺點與新手雷區，一站搞懂美甲。",
+  "rootUrl": "https://nailput.com/",
+  "version": "v1.0.0",
+  "updated": "2026-10-11"
+ },
+ "updated": "2026-10-11",
+ "articles": [
+  {
+   "slug": "nail-anatomy",
+   "title": "指甲結構",
+   "url": "basics/anatomy/nail-anatomy.html",
+   "cat": "入門與基礎 › 認識指甲與甲床",
+   "tags": [
+    "指甲結構",
+    "甲板",
+    "甲床",
+    "甲母質",
+    "健康甲"
+   ],
+   "difficulty": "入門",
+   "updated": "2026-10-11",
+   "summary": "指甲由『甲板＋甲床＋甲母質』組成，甲母質是生長引擎，甲床決定你看得到的粉紅色長短。",
+   "chapter": "basics",
+   "sub": "anatomy"
+  },
+  {
+   "slug": "nail-plate",
+   "title": "甲板與甲床",
+   "url": "basics/anatomy/nail-plate.html",
+   "cat": "入門與基礎 › 認識指甲與甲床",
+   "tags": [
+    "甲板",
+    "甲床",
+    "游離緣",
+    "指甲健康"
+   ],
+   "difficulty": "入門",
+   "updated": "2026-10-11",
+   "summary": "你以為指甲是一片？其實是「甲板＋甲床＋游離緣」三層，搞懂它才知道怎麼養。",
+   "chapter": "basics",
+   "sub": "anatomy"
+  },
+  {
+   "slug": "nail-shape",
+   "title": "五種基本甲型",
+   "url": "basics/anatomy/nail-shape.html",
+   "cat": "入門與基礎 › 認識指甲與甲床",
+   "tags": [
+    "甲型",
+    "修甲",
+    "方型",
+    "圓型",
+    "方圓"
+   ],
+   "difficulty": "入門",
+   "updated": "2026-10-11",
+   "summary": "甲型選對，手指自動瘦一圈；選錯，做完再貴也怪怪的。",
+   "chapter": "basics",
+   "sub": "anatomy"
+  },
+  {
+   "slug": "cuticle",
+   "title": "指緣與甘皮",
+   "url": "basics/anatomy/cuticle.html",
+   "cat": "入門與基礎 › 認識指甲與甲床",
+   "tags": [
+    "指緣",
+    "甘皮",
+    "保養",
+    "死皮"
+   ],
+   "difficulty": "中階",
+   "updated": "2026-10-11",
+   "summary": "指緣乾巴巴、倒刺一堆，再貴的美甲也救不了；甘皮推得動、剪不得。",
+   "chapter": "basics",
+   "sub": "anatomy"
+  },
+  {
+   "slug": "sterilization",
+   "title": "消毒滅菌流程",
+   "url": "basics/hygiene/sterilization.html",
+   "cat": "入門與基礎 › 衛生消毒與器材",
+   "tags": [
+    "消毒",
+    "滅菌",
+    "衛生",
+    "工具",
+    "UV消毒箱"
+   ],
+   "difficulty": "入門",
+   "updated": "2026-10-11",
+   "summary": "消毒滅菌的鐵律是『能拋棄就拋棄、不能拋棄就高溫滅菌、表面再酒精擦拭』，這是沙龍的良心。",
+   "chapter": "basics",
+   "sub": "hygiene"
+  },
+  {
+   "slug": "filing-tools",
+   "title": "銼刀與打磨",
+   "url": "basics/hygiene/filing-tools.html",
+   "cat": "入門與基礎 › 衛生消毒與器材",
+   "tags": [
+    "銼刀",
+    "打磨",
+    "拋光",
+    "修型"
+   ],
+   "difficulty": "入門",
+   "updated": "2026-10-11",
+   "summary": "銼刀一把十幾塊，但用錯了，整副指甲分層報廢。",
+   "chapter": "basics",
+   "sub": "hygiene"
+  },
+  {
+   "slug": "workstation",
+   "title": "工作台與環境",
+   "url": "basics/hygiene/workstation.html",
+   "cat": "入門與基礎 › 衛生消毒與器材",
+   "tags": [
+    "工作台",
+    "環境",
+    "粉塵",
+    "開店"
+   ],
+   "difficulty": "中階",
+   "updated": "2026-10-11",
+   "summary": "客人坐下來的第一眼，看的不是你的技術，是你的桌子。",
+   "chapter": "basics",
+   "sub": "hygiene"
+  },
+  {
+   "slug": "cross-contamination",
+   "title": "交叉感染防護",
+   "url": "basics/hygiene/cross-contamination.html",
+   "cat": "入門與基礎 › 衛生消毒與器材",
+   "tags": [
+    "交叉感染",
+    "消毒",
+    "衛生",
+    "防護"
+   ],
+   "difficulty": "中階",
+   "updated": "2026-10-11",
+   "summary": "上一位客人有灰指甲，下一位沒消毒就修甲——這是沙龍最可怕的夢魘。",
+   "chapter": "basics",
+   "sub": "hygiene"
+  },
+  {
+   "slug": "starter-kit",
+   "title": "新手工具清單",
+   "url": "basics/getstarted/starter-kit.html",
+   "cat": "入門與基礎 › 美甲師入門",
+   "tags": [
+    "新手",
+    "工具",
+    "清單",
+    "入門"
+   ],
+   "difficulty": "入門",
+   "updated": "2026-10-11",
+   "summary": "新手別急著買整櫃，先湊齊『基礎五件』——凝膠、底膠、封層、燈、磨板，就夠你開始練。",
+   "chapter": "basics",
+   "sub": "getstarted"
+  },
+  {
+   "slug": "learn-path",
+   "title": "學習路徑",
+   "url": "basics/getstarted/learn-path.html",
+   "cat": "入門與基礎 › 美甲師入門",
+   "tags": [
+    "學習",
+    "美甲師",
+    "入門",
+    "進修"
+   ],
+   "difficulty": "入門",
+   "updated": "2026-10-11",
+   "summary": "想當美甲師，最容易走歪的不是技術，是「順序」。",
+   "chapter": "basics",
+   "sub": "getstarted"
+  },
+  {
+   "slug": "nail-types",
+   "title": "三大流派認識",
+   "url": "basics/getstarted/nail-types.html",
+   "cat": "入門與基礎 › 美甲師入門",
+   "tags": [
+    "凝膠",
+    "水晶",
+    "彩繪",
+    "流派"
+   ],
+   "difficulty": "入門",
+   "updated": "2026-10-11",
+   "summary": "打開美甲雜誌名詞一堆，其實就三大類：凝膠、水晶、彩繪。",
+   "chapter": "basics",
+   "sub": "getstarted"
+  },
+  {
+   "slug": "gel-what",
+   "title": "凝膠是什麼",
+   "url": "gel/gel-basic/gel-what.html",
+   "cat": "凝膠美甲 › 凝膠基礎",
+   "tags": [
+    "凝膠",
+    "光療",
+    "原理",
+    "新手"
+   ],
+   "difficulty": "入門",
+   "updated": "2026-10-11",
+   "summary": "凝膠是塗上去、照燈就變硬的凝膠狀樹脂，比指甲油持久、比水晶好上手，是現在美甲的主流。",
+   "chapter": "gel",
+   "sub": "gel-basic"
+  },
+  {
+   "slug": "gel-lamp",
+   "title": "光療燈原理",
+   "url": "gel/gel-basic/gel-lamp.html",
+   "cat": "凝膠美甲 › 凝膠基礎",
+   "tags": [
+    "光療燈",
+    "UV",
+    "LED",
+    "固化"
+   ],
+   "difficulty": "入門",
+   "updated": "2026-10-11",
+   "summary": "光療燈不是拿來『照亮』的，是用特定波長的光，把凝膠罐裡睡著的分子叫醒、叫它們手拉手變硬。",
+   "chapter": "gel",
+   "sub": "gel-basic"
+  },
+  {
+   "slug": "gel-polish",
+   "title": "凝膠指甲油",
+   "url": "gel/gel-basic/gel-polish.html",
+   "cat": "凝膠美甲 › 凝膠基礎",
+   "tags": [
+    "凝膠指甲油",
+    "Gel Polish",
+    "DIY",
+    "單色"
+   ],
+   "difficulty": "入門",
+   "updated": "2026-10-11",
+   "summary": "長得像指甲油、乾法像光療，是 Gel Polish 的精髓——好刷、持久、但一定要照燈。",
+   "chapter": "gel",
+   "sub": "gel-basic"
+  },
+  {
+   "slug": "hard-soft-gel",
+   "title": "硬膠與軟膠",
+   "url": "gel/gel-basic/hard-soft-gel.html",
+   "cat": "凝膠美甲 › 凝膠基礎",
+   "tags": [
+    "硬膠",
+    "軟膠",
+    "可撓膠",
+    "延甲"
+   ],
+   "difficulty": "中階",
+   "updated": "2026-10-11",
+   "summary": "硬膠耐撞但只能磨卸，軟膠好卸但較軟；做延甲要先想好你要『撐力』還是『好卸』。",
+   "chapter": "gel",
+   "sub": "gel-basic"
+  },
+  {
+   "slug": "base-coat",
+   "title": "底膠的功用",
+   "url": "gel/gel-base/base-coat.html",
+   "cat": "凝膠美甲 › 底膠與上層",
+   "tags": [
+    "底膠",
+    "持久",
+    "起翹",
+    "前置"
+   ],
+   "difficulty": "入門",
+   "updated": "2026-10-11",
+   "summary": "底膠是色膠和真甲之間的『接著劑』，上得對，整副凝膠才貼得住、不翹。",
+   "chapter": "gel",
+   "sub": "gel-base"
+  },
+  {
+   "slug": "top-coat",
+   "title": "封層的選擇",
+   "url": "gel/gel-base/top-coat.html",
+   "cat": "凝膠美甲 › 底膠與上層",
+   "tags": [
+    "封層",
+    "Top Coat",
+    "亮面",
+    "霧面"
+   ],
+   "difficulty": "入門",
+   "updated": "2026-10-11",
+   "summary": "封層是最後那道『保護貼兼亮光漆』——選對亮面或霧面，整副指甲的質感立刻分出高下。",
+   "chapter": "gel",
+   "sub": "gel-base"
+  },
+  {
+   "slug": "rubber-base",
+   "title": "可撓性底膠",
+   "url": "gel/gel-base/rubber-base.html",
+   "cat": "凝膠美甲 › 底膠與上層",
+   "tags": [
+    "可撓底膠",
+    "薄甲",
+    "加固",
+    "日系"
+   ],
+   "difficulty": "中階",
+   "updated": "2026-10-11",
+   "summary": "可撓底膠就是給薄甲、脆甲穿的『隱形護具』——軟中有韌，撞了不容易整片斷。",
+   "chapter": "gel",
+   "sub": "gel-base"
+  },
+  {
+   "slug": "peel-off-base",
+   "title": "可剝底膠",
+   "url": "gel/gel-base/peel-off-base.html",
+   "cat": "凝膠美甲 › 底膠與上層",
+   "tags": [
+    "可剝底膠",
+    "換色",
+    "快速",
+    "韓系"
+   ],
+   "difficulty": "入門",
+   "updated": "2026-10-11",
+   "summary": "可剝底膠是給想常換色的人一個温柔的卸甲方式——整片撕下來，不傷真甲。",
+   "chapter": "gel",
+   "sub": "gel-base"
+  },
+  {
+   "slug": "uv-led-lamp",
+   "title": "LED燈與UV燈",
+   "url": "gel/gel-curing/uv-led-lamp.html",
+   "cat": "凝膠美甲 › 光療燈與固化",
+   "tags": [
+    "光療燈",
+    "LED",
+    "UV",
+    "買燈"
+   ],
+   "difficulty": "中階",
+   "updated": "2026-10-11",
+   "summary": "LED 燈照得快但挑膠，UV 燈通用但較慢；買燈第一看功率和波長，其次看預算。",
+   "chapter": "gel",
+   "sub": "gel-curing"
+  },
+  {
+   "slug": "curing-time",
+   "title": "固化時間",
+   "url": "gel/gel-curing/curing-time.html",
+   "cat": "凝膠美甲 › 光療燈與固化",
+   "tags": [
+    "固化",
+    "時間",
+    "照燈",
+    "凝膠"
+   ],
+   "difficulty": "中階",
+   "updated": "2026-10-11",
+   "summary": "30 秒、60 秒這些數字不是隨便寫的——每一層照多久，直接決定整副指甲牢不牢。",
+   "chapter": "gel",
+   "sub": "gel-curing"
+  },
+  {
+   "slug": "undercure-overcure",
+   "title": "固化不足與過度",
+   "url": "gel/gel-curing/undercure-overcure.html",
+   "cat": "凝膠美甲 › 光療燈與固化",
+   "tags": [
+    "固化不足",
+    "過度固化",
+    "燙傷",
+    "專業"
+   ],
+   "difficulty": "進階",
+   "updated": "2026-10-11",
+   "summary": "照太少指甲軟、容易癢；照太多指尖發燙、甚至燙傷——固化是門平衡術。",
+   "chapter": "gel",
+   "sub": "gel-curing"
+  },
+  {
+   "slug": "peel-gel",
+   "title": "假性凝膠",
+   "url": "gel/soak-off/peel-gel.html",
+   "cat": "凝膠美甲 › 可剝凝膠",
+   "tags": [
+    "假性凝膠",
+    "可剝",
+    "快速",
+    "換款"
+   ],
+   "difficulty": "入門",
+   "updated": "2026-10-11",
+   "summary": "假性凝膠是『看起來像光療、撕起來像貼紙』的過渡款——美給你看，但只能短暫擁有。",
+   "chapter": "gel",
+   "sub": "soak-off"
+  },
+  {
+   "slug": "soak-off-gel",
+   "title": "可卸凝膠",
+   "url": "gel/soak-off/soak-off-gel.html",
+   "cat": "凝膠美甲 › 可剝凝膠",
+   "tags": [
+    "可卸凝膠",
+    "卸甲",
+    "泡卸",
+    "凝膠"
+   ],
+   "difficulty": "中階",
+   "updated": "2026-10-11",
+   "summary": "可卸凝膠就是『給卸甲留了後門』的凝膠——卸甲水泡十幾分鐘，自己就軟給你看。",
+   "chapter": "gel",
+   "sub": "soak-off"
+  },
+  {
+   "slug": "acrylic-what",
+   "title": "水晶粉與液體",
+   "url": "acrylic/acrylic-basic/acrylic-what.html",
+   "cat": "水晶指甲 › 水晶原理",
+   "tags": [
+    "水晶",
+    "水晶粉",
+    "液體",
+    "原理"
+   ],
+   "difficulty": "中階",
+   "updated": "2026-10-11",
+   "summary": "水晶指甲是『水晶粉＋液體』混成一顆小圓珠，趁半乾塑形，幾秒就自硬成堅硬的假甲。",
+   "chapter": "acrylic",
+   "sub": "acrylic-basic"
+  },
+  {
+   "slug": "monomer",
+   "title": "單體與聚合",
+   "url": "acrylic/acrylic-basic/monomer.html",
+   "cat": "水晶指甲 › 水晶原理",
+   "tags": [
+    "單體",
+    "聚合",
+    "水晶",
+    "化學"
+   ],
+   "difficulty": "進階",
+   "updated": "2026-10-11",
+   "summary": "水晶指甲的化學其實只有兩個主角——粉末是『小分子堆』，液體是把它們接起來的膠水。",
+   "chapter": "acrylic",
+   "sub": "acrylic-basic"
+  },
+  {
+   "slug": "acrylic-bead",
+   "title": "取粉成珠技巧",
+   "url": "acrylic/acrylic-basic/acrylic-bead.html",
+   "cat": "水晶指甲 › 水晶原理",
+   "tags": [
+    "取粉",
+    "成珠",
+    "水晶",
+    "技巧"
+   ],
+   "difficulty": "中階",
+   "updated": "2026-10-11",
+   "summary": "取粉成珠是水晶的基本功：筆沾液、點粉、讓它自己凝成一顆小圓珠，練熟了整隻手都會順。",
+   "chapter": "acrylic",
+   "sub": "acrylic-basic"
+  },
+  {
+   "slug": "acrylic-ext",
+   "title": "水晶延甲",
+   "url": "acrylic/acrylic-extension/acrylic-ext.html",
+   "cat": "水晶指甲 › 水晶延甲",
+   "tags": [
+    "水晶",
+    "延甲",
+    "紙模",
+    "延長"
+   ],
+   "difficulty": "中階",
+   "updated": "2026-10-11",
+   "summary": "水晶延甲就是從自己的甲床前面，用粉＋液臨時接出一段想要的長度——長短你說了算。",
+   "chapter": "acrylic",
+   "sub": "acrylic-extension"
+  },
+  {
+   "slug": "nail-tips",
+   "title": "甲片",
+   "url": "acrylic/acrylic-extension/nail-tips.html",
+   "cat": "水晶指甲 › 水晶延甲",
+   "tags": [
+    "甲片",
+    "Nail Tips",
+    "延長",
+    "新手"
+   ],
+   "difficulty": "入門",
+   "updated": "2026-10-11",
+   "summary": "甲片是『貼上就多一段指甲』的捷徑——想快速有長甲，比從零延甲快得多。",
+   "chapter": "acrylic",
+   "sub": "acrylic-extension"
+  },
+  {
+   "slug": "acrylic-french",
+   "title": "法式水晶",
+   "url": "acrylic/acrylic-extension/acrylic-french.html",
+   "cat": "水晶指甲 › 水晶延甲",
+   "tags": [
+    "法式",
+    "水晶",
+    "微笑線",
+    "進階"
+   ],
+   "difficulty": "進階",
+   "updated": "2026-10-11",
+   "summary": "法式水晶最考驗的不是『會不會做』，是那道白色微笑線——弧度、對稱、厚度，差一點就垮。",
+   "chapter": "acrylic",
+   "sub": "acrylic-extension"
+  },
+  {
+   "slug": "sculpting",
+   "title": "水晶雕塑",
+   "url": "acrylic/acrylic-sculpt/sculpting.html",
+   "cat": "水晶指甲 › 水晶雕塑",
+   "tags": [
+    "水晶雕塑",
+    "3D",
+    "雕花",
+    "進階"
+   ],
+   "difficulty": "進階",
+   "updated": "2026-10-11",
+   "summary": "水晶雕塑是『在指甲上捏黏土』——趁粉液珠還軟，把它堆成你要的任何形狀。",
+   "chapter": "acrylic",
+   "sub": "acrylic-sculpt"
+  },
+  {
+   "slug": "3d-acrylic",
+   "title": "3D水晶雕花",
+   "url": "acrylic/acrylic-sculpt/3d-acrylic.html",
+   "cat": "水晶指甲 › 水晶雕塑",
+   "tags": [
+    "3D",
+    "雕花",
+    "水晶",
+    "立體"
+   ],
+   "difficulty": "進階",
+   "updated": "2026-10-11",
+   "summary": "3D 雕花是把水晶粉液捏成一朵朵小花、蝴蝶，再黏到指甲上——美甲界的黏土手作。",
+   "chapter": "acrylic",
+   "sub": "acrylic-sculpt"
+  },
+  {
+   "slug": "dotting",
+   "title": "點點彩繪",
+   "url": "techniques/handpaint/dotting.html",
+   "cat": "彩繪技法 › 手繪彩繪",
+   "tags": [
+    "點點",
+    "點珠筆",
+    "手繪",
+    "新手"
+   ],
+   "difficulty": "入門",
+   "updated": "2026-10-11",
+   "summary": "點點彩繪就是用點珠筆在甲面印圓點，大小靠筆頭、美感靠間距，新手第一款最友善。",
+   "chapter": "techniques",
+   "sub": "handpaint"
+  },
+  {
+   "slug": "line-art",
+   "title": "線條彩繪",
+   "url": "techniques/handpaint/line-art.html",
+   "cat": "彩繪技法 › 手繪彩繪",
+   "tags": [
+    "線條",
+    "拉線",
+    "手繪",
+    "細膩"
+   ],
+   "difficulty": "中階",
+   "updated": "2026-10-11",
+   "summary": "線條彩繪靠一支拉線筆，把直線、斜線、波浪畫得又細又順，是精緻款的基本功。",
+   "chapter": "techniques",
+   "sub": "handpaint"
+  },
+  {
+   "slug": "flower-nailart",
+   "title": "小花彩繪",
+   "url": "techniques/handpaint/flower-nailart.html",
+   "cat": "彩繪技法 › 手繪彩繪",
+   "tags": [
+    "小花",
+    "花繪",
+    "手繪",
+    "日系"
+   ],
+   "difficulty": "中階",
+   "updated": "2026-10-11",
+   "summary": "小花彩繪是日系的看家本領：五瓣小圓點加上一點花心，一朵雛菊、櫻花就出來了。",
+   "chapter": "techniques",
+   "sub": "handpaint"
+  },
+  {
+   "slug": "freehand",
+   "title": "自由手繪",
+   "url": "techniques/handpaint/freehand.html",
+   "cat": "彩繪技法 › 手繪彩繪",
+   "tags": [
+    "自由手繪",
+    "客製",
+    "彩繪",
+    "進階"
+   ],
+   "difficulty": "進階",
+   "updated": "2026-10-11",
+   "summary": "自由手繪是把整副甲當一張小畫布，動物、人物、風景都能畫，最能展現美甲師個人風格。",
+   "chapter": "techniques",
+   "sub": "handpaint"
+  },
+  {
+   "slug": "gradient",
+   "title": "漸層",
+   "url": "techniques/gradient-blend/gradient.html",
+   "cat": "彩繪技法 › 漸層與暈染",
+   "tags": [
+    "漸層",
+    "Gradient",
+    "海綿",
+    "日系"
+   ],
+   "difficulty": "中階",
+   "updated": "2026-10-11",
+   "summary": "漸層是用海綿或刷子把兩種顏色疊出『由深到淺』的自然過渡，粉嫩又耐看，日系最愛。",
+   "chapter": "techniques",
+   "sub": "gradient-blend"
+  },
+  {
+   "slug": "ombre",
+   "title": "暈染",
+   "url": "techniques/gradient-blend/ombre.html",
+   "cat": "彩繪技法 › 漸層與暈染",
+   "tags": [
+    "暈染",
+    "Ombre",
+    "韓系",
+    "雲霧"
+   ],
+   "difficulty": "中階",
+   "updated": "2026-10-11",
+   "summary": "暈染是把顏色『揉』進另一色裡，邊界全模糊像雲霧，是韓系的招牌做法。",
+   "chapter": "techniques",
+   "sub": "gradient-blend"
+  },
+  {
+   "slug": "watercolor",
+   "title": "水彩暈染",
+   "url": "techniques/gradient-blend/watercolor.html",
+   "cat": "彩繪技法 › 漸層與暈染",
+   "tags": [
+    "水彩",
+    "暈染",
+    "清透",
+    "日系"
+   ],
+   "difficulty": "中階",
+   "updated": "2026-10-11",
+   "summary": "水彩暈染是把色膠用水或軟化劑稀釋，一層層疊出像水彩畫那種透透的、暈開的感覺。",
+   "chapter": "techniques",
+   "sub": "gradient-blend"
+  },
+  {
+   "slug": "marble",
+   "title": "大理石紋",
+   "url": "techniques/texture-marble/marble.html",
+   "cat": "彩繪技法 › 大理石與紋理",
+   "tags": [
+    "大理石",
+    "紋理",
+    "韓系",
+    "高級"
+   ],
+   "difficulty": "中階",
+   "updated": "2026-10-11",
+   "summary": "大理石紋是把深淺灰白互相暈疊、再用細線拉出裂紋，做出像真大理石的高級感。",
+   "chapter": "techniques",
+   "sub": "texture-marble"
+  },
+  {
+   "slug": "crackle",
+   "title": "爆裂紋",
+   "url": "techniques/texture-marble/crackle.html",
+   "cat": "彩繪技法 › 大理石與紋理",
+   "tags": [
+    "爆裂紋",
+    "裂紋",
+    "個性",
+    "快速"
+   ],
+   "difficulty": "入門",
+   "updated": "2026-10-11",
+   "summary": "爆裂紋是用專用的爆裂膠或貼膜，讓甲面自然裂開一塊一塊的龜裂紋，個性又快速。",
+   "chapter": "techniques",
+   "sub": "texture-marble"
+  },
+  {
+   "slug": "animal-print",
+   "title": "動物紋",
+   "url": "techniques/texture-marble/animal-print.html",
+   "cat": "彩繪技法 › 大理石與紋理",
+   "tags": [
+    "豹紋",
+    "動物紋",
+    "斑馬",
+    "個性"
+   ],
+   "difficulty": "入門",
+   "updated": "2026-10-11",
+   "summary": "動物紋就是豹紋、斑馬紋、蛇紋那種野性圖案，重點是『斑點不規則＋黑線勾邊』。",
+   "chapter": "techniques",
+   "sub": "texture-marble"
+  },
+  {
+   "slug": "french-tips",
+   "title": "法式美甲",
+   "url": "techniques/french/french-tips.html",
+   "cat": "彩繪技法 › 法式美甲",
+   "tags": [
+    "法式",
+    "French",
+    "白邊",
+    "經典"
+   ],
+   "difficulty": "入門",
+   "updated": "2026-10-11",
+   "summary": "法式美甲就是『透明底＋白色微笑線』，白邊對稱、線條順，是美甲最經典也最考驗基本功的一款。",
+   "chapter": "techniques",
+   "sub": "french"
+  },
+  {
+   "slug": "reverse-french",
+   "title": "反向法式",
+   "url": "techniques/french/reverse-french.html",
+   "cat": "彩繪技法 › 法式美甲",
+   "tags": [
+    "反向法式",
+    "指根",
+    "日系",
+    "新鮮"
+   ],
+   "difficulty": "中階",
+   "updated": "2026-10-11",
+   "summary": "反向法式是把法式白邊從『指尖』反過來畫在『指根』，像一彎月牙，日系新鮮款。",
+   "chapter": "techniques",
+   "sub": "french"
+  },
+  {
+   "slug": "micro-french",
+   "title": "微笑線法式",
+   "url": "techniques/french/micro-french.html",
+   "cat": "彩繪技法 › 法式美甲",
+   "tags": [
+    "微笑線",
+    "微法式",
+    "韓系",
+    "精緻"
+   ],
+   "difficulty": "中階",
+   "updated": "2026-10-11",
+   "summary": "微笑線法式是把法式白邊縮到最細，細細一條線掛在指尖，韓系精緻款的代表。",
+   "chapter": "techniques",
+   "sub": "french"
+  },
+  {
+   "slug": "cat-eye",
+   "title": "貓眼",
+   "url": "techniques/advanced-tech/cat-eye.html",
+   "cat": "彩繪技法 › 進階技法",
+   "tags": [
+    "貓眼",
+    "Cat Eye",
+    "磁鐵",
+    "韓系"
+   ],
+   "difficulty": "中階",
+   "updated": "2026-10-11",
+   "summary": "貓眼是用磁鐵把凝膠裡的磁粉吸出一道光帶，像貓眼石一樣會跟著光跑，是韓系最紅的爆款。",
+   "chapter": "techniques",
+   "sub": "advanced-tech"
+  },
+  {
+   "slug": "magnetic-gel",
+   "title": "磁鐵凝膠",
+   "url": "techniques/advanced-tech/magnetic-gel.html",
+   "cat": "彩繪技法 › 進階技法",
+   "tags": [
+    "磁鐵凝膠",
+    "磁棒",
+    "光帶",
+    "韓系"
+   ],
+   "difficulty": "中階",
+   "updated": "2026-10-11",
+   "summary": "磁鐵凝膠是貓眼前置的基本功：磁棒怎麼放，光帶就怎麼跑，玩熟了能做各種特效。",
+   "chapter": "techniques",
+   "sub": "advanced-tech"
+  },
+  {
+   "slug": "foil-nail",
+   "title": "轉印箔",
+   "url": "techniques/advanced-tech/foil-nail.html",
+   "cat": "彩繪技法 › 進階技法",
+   "tags": [
+    "金箔",
+    "轉印箔",
+    "亮點",
+    "日系"
+   ],
+   "difficulty": "中階",
+   "updated": "2026-10-11",
+   "summary": "轉印箔是用專用轉印膠把金箔、銀箔壓貼在甲面，一壓就上，做出金屬光澤的設計感。",
+   "chapter": "techniques",
+   "sub": "advanced-tech"
+  },
+  {
+   "slug": "mirror-nails",
+   "title": "鏡面美甲",
+   "url": "techniques/advanced-tech/mirror-nails.html",
+   "cat": "彩繪技法 › 進階技法",
+   "tags": [
+    "鏡面",
+    "Mirror",
+    "金屬",
+    "韓系"
+   ],
+   "difficulty": "中階",
+   "updated": "2026-10-11",
+   "summary": "鏡面美甲是把鏡面粉用手指壓進甲面，做出像鏡子一樣反光的金屬感，韓系未來款。",
+   "chapter": "techniques",
+   "sub": "advanced-tech"
+  },
+  {
+   "slug": "starry-nail",
+   "title": "星空美甲",
+   "url": "techniques/advanced-tech/starry-nail.html",
+   "cat": "彩繪技法 › 進階技法",
+   "tags": [
+    "星空",
+    "夢幻",
+    "亮片",
+    "日系"
+   ],
+   "difficulty": "中階",
+   "updated": "2026-10-11",
+   "summary": "星空美甲是深色底＋不同大小亮片＋一點點綴，把整片銀河縮在指甲上，日系夢幻代表。",
+   "chapter": "techniques",
+   "sub": "advanced-tech"
+  },
+  {
+   "slug": "3d-gel",
+   "title": "凝膠雕花",
+   "url": "techniques/advanced-tech/3d-gel.html",
+   "cat": "彩繪技法 › 進階技法",
+   "tags": [
+    "凝膠雕花",
+    "3D",
+    "立體",
+    "進階"
+   ],
+   "difficulty": "進階",
+   "updated": "2026-10-11",
+   "summary": "凝膠雕花是把半固化的膠捏成花瓣、蝴蝶、飾結，立體地堆在甲面上，日系最高工藝。",
+   "chapter": "techniques",
+   "sub": "advanced-tech"
+  },
+  {
+   "slug": "jelly-nails",
+   "title": "果凍感美甲",
+   "url": "styles/trends/jelly-nails.html",
+   "cat": "款式風格 › 流行款式",
+   "tags": [
+    "果凍",
+    "透感",
+    "韓系",
+    "春夏"
+   ],
+   "difficulty": "入門",
+   "updated": "2026-10-11",
+   "summary": "果凍感美甲是半透明、像糖果那樣透著指色的嫩色，春夏戴最對味。",
+   "chapter": "styles",
+   "sub": "trends"
+  },
+  {
+   "slug": "glass-nails",
+   "title": "玻璃紙美甲",
+   "url": "styles/trends/glass-nails.html",
+   "cat": "款式風格 › 流行款式",
+   "tags": [
+    "玻璃紙",
+    "閃亮",
+    "日系",
+    "透亮"
+   ],
+   "difficulty": "入門",
+   "updated": "2026-10-11",
+   "summary": "玻璃紙美甲是把彩色箔紙剪成不規則碎片貼在甲上，轉個手就有鑽石光。",
+   "chapter": "styles",
+   "sub": "trends"
+  },
+  {
+   "slug": "pearl-nails",
+   "title": "珍珠美甲",
+   "url": "styles/trends/pearl-nails.html",
+   "cat": "款式風格 › 流行款式",
+   "tags": [
+    "珍珠",
+    "氣質",
+    "韓系",
+    "光澤"
+   ],
+   "difficulty": "入門",
+   "updated": "2026-10-11",
+   "summary": "珍珠美甲是把指甲做出像珍珠母貝那種溫柔的光暈，氣質滿分。",
+   "chapter": "styles",
+   "sub": "trends"
+  },
+  {
+   "slug": "glitter-nails",
+   "title": "亮片美甲",
+   "url": "styles/trends/glitter-nails.html",
+   "cat": "款式風格 › 流行款式",
+   "tags": [
+    "亮片",
+    "派對",
+    "閃亮",
+    "入門"
+   ],
+   "difficulty": "入門",
+   "updated": "2026-10-11",
+   "summary": "亮片美甲是把亮粉或亮片鋪在甲上，燈光下整隻手都在跳舞。",
+   "chapter": "styles",
+   "sub": "trends"
+  },
+  {
+   "slug": "nude-nails",
+   "title": "裸色美甲",
+   "url": "styles/minimal/nude-nails.html",
+   "cat": "款式風格 › 極簡與商務",
+   "tags": [
+    "裸色",
+    "Nude",
+    "百搭",
+    "氣質"
+   ],
+   "difficulty": "入門",
+   "updated": "2026-10-11",
+   "summary": "裸色美甲貼近膚色、素雅耐看，最百搭也最修飾手型，是『不知道做什麼就做裸色』的安全牌。",
+   "chapter": "styles",
+   "sub": "minimal"
+  },
+  {
+   "slug": "minimalist",
+   "title": "極簡美甲",
+   "url": "styles/minimal/minimalist.html",
+   "cat": "款式風格 › 極簡與商務",
+   "tags": [
+    "極簡",
+    "留白",
+    "文青",
+    "日系"
+   ],
+   "difficulty": "入門",
+   "updated": "2026-10-11",
+   "summary": "極簡美甲就是『留白多、元素少』，像設計師的名片，低調但懂的人會多看一眼。",
+   "chapter": "styles",
+   "sub": "minimal"
+  },
+  {
+   "slug": "office-nails",
+   "title": "通勤美甲",
+   "url": "styles/minimal/office-nails.html",
+   "cat": "款式風格 › 極簡與商務",
+   "tags": [
+    "通勤",
+    "商務",
+    "上班",
+    "低調"
+   ],
+   "difficulty": "入門",
+   "updated": "2026-10-11",
+   "summary": "通勤美甲的第一要件是『打字不會敲到鍵盤、主管不會皺眉』，低調耐看最重要。",
+   "chapter": "styles",
+   "sub": "minimal"
+  },
+  {
+   "slug": "white-nails",
+   "title": "純白美甲",
+   "url": "styles/minimal/white-nails.html",
+   "cat": "款式風格 › 極簡與商務",
+   "tags": [
+    "純白",
+    "乾淨",
+    "日系",
+    "純色"
+   ],
+   "difficulty": "入門",
+   "updated": "2026-10-11",
+   "summary": "純白美甲是『美甲界的白 T 恤』，看起來簡單，但做對了顯白又上鏡。",
+   "chapter": "styles",
+   "sub": "minimal"
+  },
+  {
+   "slug": "wedding-nails",
+   "title": "婚禮美甲",
+   "url": "styles/occasions/wedding-nails.html",
+   "cat": "款式風格 › 場合款式",
+   "tags": [
+    "婚禮",
+    "新娘",
+    "法式",
+    "珍珠"
+   ],
+   "difficulty": "中階",
+   "updated": "2026-10-11",
+   "summary": "婚禮美甲的重點不是花俏，是『襯禮服＋夠持久＋不會出錯』，法式、裸色加珍珠最穩。",
+   "chapter": "styles",
+   "sub": "occasions"
+  },
+  {
+   "slug": "party-nails",
+   "title": "派對美甲",
+   "url": "styles/occasions/party-nails.html",
+   "cat": "款式風格 › 場合款式",
+   "tags": [
+    "派對",
+    "夜店",
+    "亮片",
+    "閃亮"
+   ],
+   "difficulty": "入門",
+   "updated": "2026-10-11",
+   "summary": "派對美甲就是『燈光下越閃越好』，鏡面、亮片、水鑽全部都可以拿出來。",
+   "chapter": "styles",
+   "sub": "occasions"
+  },
+  {
+   "slug": "festival-nails",
+   "title": "節慶美甲",
+   "url": "styles/occasions/festival-nails.html",
+   "cat": "款式風格 › 場合款式",
+   "tags": [
+    "節慶",
+    "應景",
+    "主題",
+    "配色"
+   ],
+   "difficulty": "入門",
+   "updated": "2026-10-11",
+   "summary": "節慶美甲就是『過節專屬款』，過年紅金、聖誕紅綠、萬聖黑橘，應景一下就好。",
+   "chapter": "styles",
+   "sub": "occasions"
+  },
+  {
+   "slug": "bridal-french",
+   "title": "新娘法式",
+   "url": "styles/occasions/bridal-french.html",
+   "cat": "款式風格 › 場合款式",
+   "tags": [
+    "新娘法式",
+    "婚禮",
+    "典雅",
+    "日系"
+   ],
+   "difficulty": "中階",
+   "updated": "2026-10-11",
+   "summary": "新娘法式是婚禮上最不會出錯的選擇：細白邊、裸粉底、加一兩顆小珍珠，典雅又上鏡。",
+   "chapter": "styles",
+   "sub": "occasions"
+  },
+  {
+   "slug": "y2k-nails",
+   "title": "Y2K 美甲",
+   "url": "styles/personality/y2k-nails.html",
+   "cat": "款式風格 › 個性風格",
+   "tags": [
+    "Y2K",
+    "千禧",
+    "螢光",
+    "韓系"
+   ],
+   "difficulty": "中階",
+   "updated": "2026-10-11",
+   "summary": "Y2K 美甲是千禧年回來的那種亂中有序：螢光、金屬、小貼紙、蝴蝶結，越可愛越囂張。",
+   "chapter": "styles",
+   "sub": "personality"
+  },
+  {
+   "slug": "dark-gothic",
+   "title": "暗黑哥德",
+   "url": "styles/personality/dark-gothic.html",
+   "cat": "款式風格 › 個性風格",
+   "tags": [
+    "哥德",
+    "暗黑",
+    "鉚釘",
+    "個性"
+   ],
+   "difficulty": "中階",
+   "updated": "2026-10-11",
+   "summary": "暗黑哥德美甲是黑、酒紅、深紫加上鉚釘和十字架，整隻手像搖滾演唱會的後台。",
+   "chapter": "styles",
+   "sub": "personality"
+  },
+  {
+   "slug": "retro-nails",
+   "title": "復古美甲",
+   "url": "styles/personality/retro-nails.html",
+   "cat": "款式風格 › 個性風格",
+   "tags": [
+    "復古",
+    "懷舊",
+    "幾何",
+    "歐美"
+   ],
+   "difficulty": "中階",
+   "updated": "2026-10-11",
+   "summary": "復古美甲是把 50–70 年代的配色和圖案搬回指甲：芥末黃、磚紅、泡泡眼線式的微笑線。",
+   "chapter": "styles",
+   "sub": "personality"
+  },
+  {
+   "slug": "kpop-nails",
+   "title": "韓系美甲",
+   "url": "styles/personality/kpop-nails.html",
+   "cat": "款式風格 › 個性風格",
+   "tags": [
+    "韓系",
+    "小清新",
+    "透感",
+    "K-pop"
+   ],
+   "difficulty": "入門",
+   "updated": "2026-10-11",
+   "summary": "韓系美甲是『透亮淺色＋小圖案＋乾淨耐看』，像女團的打歌服，清新又有存在感。",
+   "chapter": "styles",
+   "sub": "personality"
+  },
+  {
+   "slug": "japanese-nail",
+   "title": "日系沙龍美甲",
+   "url": "styles/personality/japanese-nail.html",
+   "cat": "款式風格 › 個性風格",
+   "tags": [
+    "日系",
+    "精緻",
+    "沙龍",
+    "細節"
+   ],
+   "difficulty": "中階",
+   "updated": "2026-10-11",
+   "summary": "日系沙龍美甲是『一層疊一層、細節滿出來』的奢華感，看一眼就知道有在認真做。",
+   "chapter": "styles",
+   "sub": "personality"
+  },
+  {
+   "slug": "form-extension",
+   "title": "紙模延長",
+   "url": "extension/extension-tech/form-extension.html",
+   "cat": "延甲與矯正 › 延甲技法",
+   "tags": [
+    "紙模",
+    "延甲",
+    "延長",
+    "日系"
+   ],
+   "difficulty": "中階",
+   "updated": "2026-10-11",
+   "summary": "紙模一貼，你的指甲可以「長出」任意長度——這是日系美甲最經典的工法。",
+   "chapter": "extension",
+   "sub": "extension-tech"
+  },
+  {
+   "slug": "overlay",
+   "title": "補甲與覆蓋",
+   "url": "extension/extension-tech/overlay.html",
+   "cat": "延甲與矯正 › 延甲技法",
+   "tags": [
+    "補甲",
+    "覆蓋",
+    "Overlay",
+    "修復"
+   ],
+   "difficulty": "入門",
+   "updated": "2026-10-11",
+   "summary": "指甲斷到歪七扭八？不用整片重做，覆蓋一層保護膜就救回來。",
+   "chapter": "extension",
+   "sub": "extension-tech"
+  },
+  {
+   "slug": "stress-area",
+   "title": "壓力點",
+   "url": "extension/extension-tech/stress-area.html",
+   "cat": "延甲與矯正 › 延甲技法",
+   "tags": [
+    "壓力點",
+    "斷裂",
+    "延甲",
+    "應力"
+   ],
+   "difficulty": "進階",
+   "updated": "2026-10-11",
+   "summary": "為什麼同樣做延甲，別人撐一個月、你三天就斷？答案在「壓力點」。",
+   "chapter": "extension",
+   "sub": "extension-tech"
+  },
+  {
+   "slug": "nail-correction",
+   "title": "甲型矯正",
+   "url": "extension/correction/nail-correction.html",
+   "cat": "延甲與矯正 › 甲型矯正",
+   "tags": [
+    "矯正",
+    "甲型",
+    "水晶",
+    "療程"
+   ],
+   "difficulty": "進階",
+   "updated": "2026-10-11",
+   "summary": "扇形甲、C 弧太深、甲床退縮——這些不是天生的，是可以矯正回來的。",
+   "chapter": "extension",
+   "sub": "correction"
+  },
+  {
+   "slug": "bitten-nails",
+   "title": "咬甲矯正",
+   "url": "extension/correction/bitten-nails.html",
+   "cat": "延甲與矯正 › 甲型矯正",
+   "tags": [
+    "咬甲",
+    "矯正",
+    "延甲",
+    "習慣"
+   ],
+   "difficulty": "中階",
+   "updated": "2026-10-11",
+   "summary": "咬甲矯正是『先延甲保護＋戒掉咬的習慣＋定期回補』，三個一起做才斷得掉。",
+   "chapter": "extension",
+   "sub": "correction"
+  },
+  {
+   "slug": "curved-nails",
+   "title": "捲甲與扇形甲",
+   "url": "extension/correction/curved-nails.html",
+   "cat": "延甲與矯正 › 甲型矯正",
+   "tags": [
+    "捲甲",
+    "扇形甲",
+    "矯正",
+    "特殊甲"
+   ],
+   "difficulty": "進階",
+   "updated": "2026-10-11",
+   "summary": "指甲兩側往中間捲、或前端像扇子打開——這兩種甲，做法完全相反。",
+   "chapter": "extension",
+   "sub": "correction"
+  },
+  {
+   "slug": "press-on",
+   "title": "穿戴式甲片",
+   "url": "extension/nail-tips/press-on.html",
+   "cat": "延甲與矯正 › 甲片應用",
+   "tags": [
+    "穿戴甲",
+    "Press-on",
+    "甲片",
+    "快速"
+   ],
+   "difficulty": "入門",
+   "updated": "2026-10-11",
+   "summary": "穿戴式甲片是不傷甲的『即戴即卸』選項，適合想常換款式、又不想傷甲的人。",
+   "chapter": "extension",
+   "sub": "nail-tips"
+  },
+  {
+   "slug": "full-cover-tip",
+   "title": "全覆蓋甲片",
+   "url": "extension/nail-tips/full-cover-tip.html",
+   "cat": "延甲與矯正 › 甲片應用",
+   "tags": [
+    "全覆蓋",
+    "甲片",
+    "快速",
+    "新手"
+   ],
+   "difficulty": "入門",
+   "updated": "2026-10-11",
+   "summary": "10 分鐘完成一副完美長甲——這就是全覆蓋甲片的魅力。",
+   "chapter": "extension",
+   "sub": "nail-tips"
+  },
+  {
+   "slug": "half-tip",
+   "title": "半甲片",
+   "url": "extension/nail-tips/half-tip.html",
+   "cat": "延甲與矯正 › 甲片應用",
+   "tags": [
+    "半甲片",
+    "延長",
+    "銜接",
+    "歐美"
+   ],
+   "difficulty": "中階",
+   "updated": "2026-10-11",
+   "summary": "要自然又要快？半甲片是甲片＋紙模的混血兒，歐美沙龍最愛。",
+   "chapter": "extension",
+   "sub": "nail-tips"
+  },
+  {
+   "slug": "soak-off-removal",
+   "title": "卸凝膠",
+   "url": "removal-care/removal/soak-off-removal.html",
+   "cat": "卸甲與保養 › 正確卸甲",
+   "tags": [
+    "卸凝膠",
+    "卸甲水",
+    "鋁箔",
+    "不傷甲"
+   ],
+   "difficulty": "中階",
+   "updated": "2026-10-11",
+   "summary": "正確卸凝膠是『磨薄→泡卸甲水→輕刮』，慢慢來、別硬摳，甲床才不會受傷。",
+   "chapter": "removal-care",
+   "sub": "removal"
+  },
+  {
+   "slug": "drill-removal",
+   "title": "打磨卸甲",
+   "url": "removal-care/removal/drill-removal.html",
+   "cat": "卸甲與保養 › 正確卸甲",
+   "tags": [
+    "打磨卸甲",
+    "電動",
+    "卸甲",
+    "專業"
+   ],
+   "difficulty": "進階",
+   "updated": "2026-10-11",
+   "summary": "電磨機卸甲快 3 倍，但轉速、角度、停留時間沒抓好，一下就磨到真甲冒紅。",
+   "chapter": "removal-care",
+   "sub": "removal"
+  },
+  {
+   "slug": "removal-freq",
+   "title": "卸甲頻率",
+   "url": "removal-care/removal/removal-freq.html",
+   "cat": "卸甲與保養 › 正確卸甲",
+   "tags": [
+    "卸甲頻率",
+    "回補",
+    "指甲健康"
+   ],
+   "difficulty": "入門",
+   "updated": "2026-10-11",
+   "summary": "凝膠不是做越久越好，也不是想卸就卸，3–4 週回補一次，是對指甲最溫柔的節奏。",
+   "chapter": "removal-care",
+   "sub": "removal"
+  },
+  {
+   "slug": "brittle-nails",
+   "title": "脆甲",
+   "url": "removal-care/nail-health/brittle-nails.html",
+   "cat": "卸甲與保養 › 指甲健康",
+   "tags": [
+    "脆甲",
+    "易斷",
+    "強化",
+    "養甲"
+   ],
+   "difficulty": "入門",
+   "updated": "2026-10-11",
+   "summary": "脆甲就是「乾到會裂、折一下就斷」，不是你運氣差，是指甲一直在缺水缺油。",
+   "chapter": "removal-care",
+   "sub": "nail-health"
+  },
+  {
+   "slug": "yellow-nails",
+   "title": "指甲變黃",
+   "url": "removal-care/nail-health/yellow-nails.html",
+   "cat": "卸甲與保養 › 指甲健康",
+   "tags": [
+    "變黃",
+    "染色",
+    "美白",
+    "保養"
+   ],
+   "difficulty": "入門",
+   "updated": "2026-10-11",
+   "summary": "指甲變黃多半是『深色染色』或『煙漬』，打底膠、深色別留太久、卸甲要乾淨，就能慢慢白回來。",
+   "chapter": "removal-care",
+   "sub": "nail-health"
+  },
+  {
+   "slug": "peeling-nails",
+   "title": "指甲分層",
+   "url": "removal-care/nail-health/peeling-nails.html",
+   "cat": "卸甲與保養 › 指甲健康",
+   "tags": [
+    "分層",
+    "脫屑",
+    "保養",
+    "強化"
+   ],
+   "difficulty": "中階",
+   "updated": "2026-10-11",
+   "summary": "指甲分層是甲面「一片一片翹起來」，多半不是你身體有問題，是乾燥＋前置磨太兇。",
+   "chapter": "removal-care",
+   "sub": "nail-health"
+  },
+  {
+   "slug": "nail-strengthen",
+   "title": "養甲強化",
+   "url": "removal-care/nail-health/nail-strengthen.html",
+   "cat": "卸甲與保養 › 指甲健康",
+   "tags": [
+    "養甲",
+    "強化",
+    "硬甲油",
+    "健康"
+   ],
+   "difficulty": "入門",
+   "updated": "2026-10-11",
+   "summary": "養甲不是吃什麼神奇補品，是「剪短、少磨、天天擦油」這三件事重複做三個月。",
+   "chapter": "removal-care",
+   "sub": "nail-health"
+  },
+  {
+   "slug": "cuticle-care",
+   "title": "指緣保養",
+   "url": "removal-care/handcare/cuticle-care.html",
+   "cat": "卸甲與保養 › 手部保養",
+   "tags": [
+    "指緣",
+    "保養",
+    "指緣油",
+    "甘皮"
+   ],
+   "difficulty": "入門",
+   "updated": "2026-10-11",
+   "summary": "指緣油是美甲人的最強保養品，一天擦 3 次，一個月後指緣不乾、倒甲邊也不長。",
+   "chapter": "removal-care",
+   "sub": "handcare"
+  },
+  {
+   "slug": "hand-moisture",
+   "title": "護手",
+   "url": "removal-care/handcare/hand-moisture.html",
+   "cat": "卸甲與保養 › 手部保養",
+   "tags": [
+    "護手",
+    "保濕",
+    "防曬",
+    "保養"
+   ],
+   "difficulty": "入門",
+   "updated": "2026-10-11",
+   "summary": "手是女人的第二張臉，洗一次手就擦一次護手霜，防曬別只擦臉忘了手背。",
+   "chapter": "removal-care",
+   "sub": "handcare"
+  },
+  {
+   "slug": "hand-spa",
+   "title": "手部SPA",
+   "url": "removal-care/handcare/hand-spa.html",
+   "cat": "卸甲與保養 › 手部保養",
+   "tags": [
+    "SPA",
+    "去角質",
+    "敷膜",
+    "沙龍"
+   ],
+   "difficulty": "中階",
+   "updated": "2026-10-11",
+   "summary": "手部 SPA 是沙龍最賺錢的加分服務：去角質、敷膜、按摩一套做完，手立刻年輕好幾歲。",
+   "chapter": "removal-care",
+   "sub": "handcare"
+  },
+  {
+   "slug": "color-gel-pick",
+   "title": "色膠挑選",
+   "url": "products/color-gel/color-gel-pick.html",
+   "cat": "產品與工具 › 色膠選擇",
+   "tags": [
+    "色膠",
+    "選色",
+    "濃稠度",
+    "新手"
+   ],
+   "difficulty": "入門",
+   "updated": "2026-10-11",
+   "summary": "色膠別看顏色就衝動下單，先看濃稠度、遮蓋力、能不能一層就出色。",
+   "chapter": "products",
+   "sub": "color-gel"
+  },
+  {
+   "slug": "jelly-color",
+   "title": "果凍色膠",
+   "url": "products/color-gel/jelly-color.html",
+   "cat": "產品與工具 › 色膠選擇",
+   "tags": [
+    "果凍色膠",
+    "透感",
+    "堆疊",
+    "韓系"
+   ],
+   "difficulty": "中階",
+   "updated": "2026-10-11",
+   "summary": "果凍色是半透明的透膚感，薄薄一層就有水光，韓系最愛疊兩三層漸深。",
+   "chapter": "products",
+   "sub": "color-gel"
+  },
+  {
+   "slug": "serum-gel",
+   "title": "色膠濃稠度",
+   "url": "products/color-gel/serum-gel.html",
+   "cat": "產品與工具 › 色膠選擇",
+   "tags": [
+    "濃稠度",
+    "色膠",
+    "手感",
+    "暈染"
+   ],
+   "difficulty": "中階",
+   "updated": "2026-10-11",
+   "summary": "色膠有分稠的跟稀的，稠的遮蓋好、稀的好暈染，依用途選，不是越貴越好。",
+   "chapter": "products",
+   "sub": "color-gel"
+  },
+  {
+   "slug": "brushes",
+   "title": "彩繪筆",
+   "url": "products/tools/brushes.html",
+   "cat": "產品與工具 › 工具挑選",
+   "tags": [
+    "彩繪筆",
+    "畫筆",
+    "手繪",
+    "日系"
+   ],
+   "difficulty": "中階",
+   "updated": "2026-10-11",
+   "summary": "彩繪筆一隻一個用途，圓筆畫花、平筆畫塊、拉線筆畫細線，別一支筆走天下。",
+   "chapter": "products",
+   "sub": "tools"
+  },
+  {
+   "slug": "files",
+   "title": "銼刀挑選",
+   "url": "products/tools/files.html",
+   "cat": "產品與工具 › 工具挑選",
+   "tags": [
+    "銼刀",
+    "目數",
+    "修型",
+    "工具"
+   ],
+   "difficulty": "入門",
+   "updated": "2026-10-11",
+   "summary": "銼刀看「目數」：100 目磨厚甲片、180 目修型、240 目磨真甲，別亂用。",
+   "chapter": "products",
+   "sub": "tools"
+  },
+  {
+   "slug": "dust-collector",
+   "title": "粉塵機",
+   "url": "products/tools/dust-collector.html",
+   "cat": "產品與工具 › 工具挑選",
+   "tags": [
+    "粉塵機",
+    "吸塵",
+    "呼吸道",
+    "健康"
+   ],
+   "difficulty": "中階",
+   "updated": "2026-10-11",
+   "summary": "粉塵機是吸打磨時的飛粉，保護自己呼吸道，開店一定要有，在家練也建議。",
+   "chapter": "products",
+   "sub": "tools"
+  },
+  {
+   "slug": "e-file",
+   "title": "電動打磨機",
+   "url": "products/tools/e-file.html",
+   "cat": "產品與工具 › 工具挑選",
+   "tags": [
+    "電動打磨",
+    "E-file",
+    "卸甲",
+    "專業"
+   ],
+   "difficulty": "進階",
+   "updated": "2026-10-11",
+   "summary": "電動打磨機是沙龍效率神器，卸甲、磨水晶只要 5 分鐘，但要練手感才不會磨到真甲。",
+   "chapter": "products",
+   "sub": "tools"
+  },
+  {
+   "slug": "lamp-select",
+   "title": "光療燈選擇",
+   "url": "products/equipment/lamp-select.html",
+   "cat": "產品與工具 › 設備與環境",
+   "tags": [
+    "光療燈",
+    "瓦數",
+    "選擇",
+    "設備"
+   ],
+   "difficulty": "中階",
+   "updated": "2026-10-11",
+   "summary": "光療燈別省錢，瓦數不夠照不乾，一整副指甲等於白做。",
+   "chapter": "products",
+   "sub": "equipment"
+  },
+  {
+   "slug": "workspace",
+   "title": "工作環境",
+   "url": "products/equipment/workspace.html",
+   "cat": "產品與工具 › 設備與環境",
+   "tags": [
+    "工作環境",
+    "通風",
+    "燈光",
+    "開店"
+   ],
+   "difficulty": "中階",
+   "updated": "2026-10-11",
+   "summary": "美甲工作區三大重點：通風、燈光、收納，少一樣都做不久。",
+   "chapter": "products",
+   "sub": "equipment"
+  },
+  {
+   "slug": "sanitizer",
+   "title": "消毒用品",
+   "url": "products/equipment/sanitizer.html",
+   "cat": "產品與工具 › 設備與環境",
+   "tags": [
+    "消毒",
+    "酒精",
+    "UV箱",
+    "衛生"
+   ],
+   "difficulty": "入門",
+   "updated": "2026-10-11",
+   "summary": "消毒分三級：拋棄式、金屬工具高溫滅菌、檯面酒精擦，少一關就別接客。",
+   "chapter": "products",
+   "sub": "equipment"
+  },
+  {
+   "slug": "pricing-model",
+   "title": "美甲定價",
+   "url": "business/pricing/pricing-model.html",
+   "cat": "沙龍經營 › 定價與成本",
+   "tags": [
+    "定價",
+    "成本",
+    "開店",
+    "經營"
+   ],
+   "difficulty": "中階",
+   "updated": "2026-10-11",
+   "summary": "美甲定價先算『成本＋時間＋技術』，再對照地區行情，別只靠感覺喊價。",
+   "chapter": "business",
+   "sub": "pricing"
+  },
+  {
+   "slug": "cost-control",
+   "title": "成本控制",
+   "url": "business/pricing/cost-control.html",
+   "cat": "沙龍經營 › 定價與成本",
+   "tags": [
+    "成本",
+    "耗材",
+    "庫存",
+    "經營"
+   ],
+   "difficulty": "中階",
+   "updated": "2026-10-11",
+   "summary": "開店最容易虧在『耗材偷跑』和『工時沒算錢』，每個月把帳翻一次才賺得到。",
+   "chapter": "business",
+   "sub": "pricing"
+  },
+  {
+   "slug": "service-menu",
+   "title": "菜單設計",
+   "url": "business/pricing/service-menu.html",
+   "cat": "沙龍經營 › 定價與成本",
+   "tags": [
+    "菜單",
+    "價目表",
+    "服務",
+    "經營"
+   ],
+   "difficulty": "中階",
+   "updated": "2026-10-11",
+   "summary": "菜單不是把服務寫一寫就好，它要讓客人『3 秒看懂、5 分鐘決定、不會加價加到翻臉』。",
+   "chapter": "business",
+   "sub": "pricing"
+  },
+  {
+   "slug": "service-flow",
+   "title": "服務流程",
+   "url": "business/service/service-flow.html",
+   "cat": "沙龍經營 › 服務流程與客訴",
+   "tags": [
+    "服務流程",
+    "標準化",
+    "體驗",
+    "沙龍"
+   ],
+   "difficulty": "中階",
+   "updated": "2026-10-11",
+   "summary": "好流程是『客人坐下前就想好、做完後還想再來』，從諮詢到送客每一步都有節奏。",
+   "chapter": "business",
+   "sub": "service"
+  },
+  {
+   "slug": "complaints",
+   "title": "客訴處理",
+   "url": "business/service/complaints.html",
+   "cat": "沙龍經營 › 服務流程與客訴",
+   "tags": [
+    "客訴",
+    "處理",
+    "補救",
+    "服務"
+   ],
+   "difficulty": "中階",
+   "updated": "2026-10-11",
+   "summary": "客訴不是壞事——處理得好，生氣的客人會變成鐵粉；處理不好，她會在 IG 把你罵爆。",
+   "chapter": "business",
+   "sub": "service"
+  },
+  {
+   "slug": "retention",
+   "title": "回客經營",
+   "url": "business/service/retention.html",
+   "cat": "沙龍經營 › 服務流程與客訴",
+   "tags": [
+    "回客",
+    "回補",
+    "常客",
+    "經營"
+   ],
+   "difficulty": "中階",
+   "updated": "2026-10-11",
+   "summary": "抓一個新客的力氣，夠留十個老客——回補時間、記得喜好、偶爾小驚喜，比什麼行銷都有效。",
+   "chapter": "business",
+   "sub": "service"
+  },
+  {
+   "slug": "instagram-mkt",
+   "title": "IG 行銷",
+   "url": "business/marketing/instagram-mkt.html",
+   "cat": "沙龍經營 › 行銷與社群",
+   "tags": [
+    "IG",
+    "行銷",
+    "社群",
+    "Reels"
+   ],
+   "difficulty": "中階",
+   "updated": "2026-10-11",
+   "summary": "IG 不是把作品照隨便po上去就有人預約，光線、排版、Reels、標籤對了，流量才進得來。",
+   "chapter": "business",
+   "sub": "marketing"
+  },
+  {
+   "slug": "local-mkt",
+   "title": "在地行銷",
+   "url": "business/marketing/local-mkt.html",
+   "cat": "沙龍經營 › 行銷與社群",
+   "tags": [
+    "在地行銷",
+    "Google",
+    "口碑",
+    "客源"
+   ],
+   "difficulty": "中階",
+   "updated": "2026-10-11",
+   "summary": "美甲是『半徑 3 公里的生意』，把 Google 地圖和鄰里口碑顧好，客人自然走進來。",
+   "chapter": "business",
+   "sub": "marketing"
+  },
+  {
+   "slug": "referral",
+   "title": "轉介紹",
+   "url": "business/marketing/referral.html",
+   "cat": "沙龍經營 › 行銷與社群",
+   "tags": [
+    "轉介紹",
+    "口碑",
+    "會員",
+    "行銷"
+   ],
+   "difficulty": "中階",
+   "updated": "2026-10-11",
+   "summary": "老客帶新客是最便宜的行銷——但你要給她『帶人的理由』和『被感謝的感覺』。",
+   "chapter": "business",
+   "sub": "marketing"
+  },
+  {
+   "slug": "certification",
+   "title": "美甲證照",
+   "url": "business/regulations/certification.html",
+   "cat": "沙龍經營 › 衛生法規與證照",
+   "tags": [
+    "證照",
+    "執業",
+    "專業",
+    "進修"
+   ],
+   "difficulty": "中階",
+   "updated": "2026-10-11",
+   "summary": "證照是『讓客人放心入門』的加分品，但技術才是你能不能走長遠的本——別考了一堆證、作品照卻很弱。",
+   "chapter": "business",
+   "sub": "regulations"
+  },
+  {
+   "slug": "hygiene-law",
+   "title": "衛生法規",
+   "url": "business/regulations/hygiene-law.html",
+   "cat": "沙龍經營 › 衛生法規與證照",
+   "tags": [
+    "法規",
+    "衛生",
+    "合規",
+    "開店"
+   ],
+   "difficulty": "中階",
+   "updated": "2026-10-11",
+   "summary": "美甲店最怕的不是沒生意，是『被稽查、被投訴、被罰錢』——消毒、化妝品、場所三塊要先搞懂。",
+   "chapter": "business",
+   "sub": "regulations"
+  },
+  {
+   "slug": "insurance",
+   "title": "執業保險",
+   "url": "business/regulations/insurance.html",
+   "cat": "沙龍經營 › 衛生法規與證照",
+   "tags": [
+    "保險",
+    "責任險",
+    "風險",
+    "執業"
+   ],
+   "difficulty": "進階",
+   "updated": "2026-10-11",
+   "summary": "做美甲難免會失手——一瓶卸甲水灑到客人衣服、甘皮剪流血，保險是你出事那晚睡得著的關鍵。",
+   "chapter": "business",
+   "sub": "regulations"
+  },
+  {
+   "slug": "lifting-cause",
+   "title": "凝膠起翹原因大公開：前置不足還是包邊漏了？",
+   "url": "troubleshoot/lifting/lifting-cause.html",
+   "cat": "NailPut專欄 › 起翹與掉落",
+   "tags": [
+    "起翹",
+    "持久",
+    "前置",
+    "包邊"
+   ],
+   "difficulty": "中階",
+   "updated": "2026-10-11",
+   "summary": "起翹九成是『前置沒做足、厚度不均、包邊漏掉』，補好這三點，持久度立刻翻倍。",
+   "chapter": "troubleshoot",
+   "sub": "lifting"
+  },
+  {
+   "slug": "pop-off",
+   "title": "美甲整片掉落怎麼辦？凝膠脫落原因與預防",
+   "url": "troubleshoot/lifting/pop-off.html",
+   "cat": "NailPut專欄 › 起翹與掉落",
+   "tags": [
+    "掉落",
+    "脫落",
+    "黏合",
+    "卸甲"
+   ],
+   "difficulty": "中階",
+   "updated": "2026-10-11",
+   "summary": "整片翻車九成不是膠不黏，是甲面油脂沒去淨、底膠沒吃進去。",
+   "chapter": "troubleshoot",
+   "sub": "lifting"
+  },
+  {
+   "slug": "edge-lifting",
+   "title": "指甲前端起翹原因：游離緣保養與預防方法",
+   "url": "troubleshoot/lifting/edge-lifting.html",
+   "cat": "NailPut專欄 › 起翹與掉落",
+   "tags": [
+    "前端",
+    "起翹",
+    "游離緣",
+    "延甲"
+   ],
+   "difficulty": "中階",
+   "updated": "2026-10-11",
+   "summary": "前端翹起，八成是游離緣沒磨到、包邊漏掉，或是常用指尖敲東西。",
+   "chapter": "troubleshoot",
+   "sub": "lifting"
+  },
+  {
+   "slug": "yellowing",
+   "title": "凝膠指甲變黃原因：深色染甲與氧化預防",
+   "url": "troubleshoot/discoloration/yellowing.html",
+   "cat": "NailPut專欄 › 變黃與染色",
+   "tags": [
+    "變黃",
+    "氧化",
+    "色膠",
+    "卸甲"
+   ],
+   "difficulty": "入門",
+   "updated": "2026-10-11",
+   "summary": "凝膠變黃多是底膠沒打、深色膠直接貼甲面，再加上日曬氧化。",
+   "chapter": "troubleshoot",
+   "sub": "discoloration"
+  },
+  {
+   "slug": "staining",
+   "title": "指甲被染色怎麼辦？深色凝膠滲色預防與改善",
+   "url": "troubleshoot/discoloration/staining.html",
+   "cat": "NailPut專欄 › 變黃與染色",
+   "tags": [
+    "染色",
+    "滲色",
+    "底膠",
+    "深色"
+   ],
+   "difficulty": "入門",
+   "updated": "2026-10-11",
+   "summary": "指甲被染色是深色膠的色素滲進真甲，卸甲後甲面一片粉橘或黃。",
+   "chapter": "troubleshoot",
+   "sub": "discoloration"
+  },
+  {
+   "slug": "cloudy",
+   "title": "封層霧面變濁原因：凝膠起霧怎麼救？",
+   "url": "troubleshoot/discoloration/cloudy.html",
+   "cat": "NailPut專欄 › 變黃與染色",
+   "tags": [
+    "霧面",
+    "封層",
+    "變濁",
+    "亮面"
+   ],
+   "difficulty": "入門",
+   "updated": "2026-10-11",
+   "summary": "封層霧霧多半是膠沒塗勻、環境潮濕水氣跑進去，或是燈照不夠。",
+   "chapter": "troubleshoot",
+   "sub": "discoloration"
+  },
+  {
+   "slug": "gel-allergy",
+   "title": "凝膠美甲過敏症狀：接觸性皮膚炎預防與處理",
+   "url": "troubleshoot/reactions/gel-allergy.html",
+   "cat": "NailPut專欄 › 過敏與刺激",
+   "tags": [
+    "過敏",
+    "凝膠",
+    "皮膚",
+    "固化"
+   ],
+   "difficulty": "中階",
+   "updated": "2026-10-11",
+   "summary": "凝膠過敏多因『沒完全固化』或『手指碰到未乾的膠』，先就醫確認，再改用低敏或做好隔離。",
+   "chapter": "troubleshoot",
+   "sub": "reactions"
+  },
+  {
+   "slug": "skin-irritation",
+   "title": "做美甲皮膚紅腫癢？接觸性皮膚炎預防指南",
+   "url": "troubleshoot/reactions/skin-irritation.html",
+   "cat": "NailPut專欄 › 過敏與刺激",
+   "tags": [
+    "皮膚炎",
+    "刺激",
+    "過敏",
+    "健康"
+   ],
+   "difficulty": "中階",
+   "updated": "2026-10-11",
+   "summary": "指緣紅腫癢，多半是清潔劑、卸甲水或未固化的膠刺激到皮膚。",
+   "chapter": "troubleshoot",
+   "sub": "reactions"
+  },
+  {
+   "slug": "lamp-burn",
+   "title": "光療燙傷怎麼辦？照燈手指發熱原因與預防",
+   "url": "troubleshoot/reactions/lamp-burn.html",
+   "cat": "NailPut專欄 › 過敏與刺激",
+   "tags": [
+    "燙傷",
+    "光療燈",
+    "發熱",
+    "固化"
+   ],
+   "difficulty": "中階",
+   "updated": "2026-10-11",
+   "summary": "照燈手指發熱是固化放熱，燈太強、膚色深或照太久都容易燙。",
+   "chapter": "troubleshoot",
+   "sub": "reactions"
+  },
+  {
+   "slug": "overflow",
+   "title": "新手美甲溢膠补救：上色出界的預防與清理",
+   "url": "troubleshoot/mistakes/overflow.html",
+   "cat": "NailPut專欄 › 新手失誤",
+   "tags": [
+    "溢膠",
+    "上色",
+    "新手",
+    "失誤"
+   ],
+   "difficulty": "中階",
+   "updated": "2026-10-11",
+   "summary": "溢膠是新手最常見的失誤，膠刷到指緣皮膚上，照燈後摳也摳不掉。",
+   "chapter": "troubleshoot",
+   "sub": "mistakes"
+  },
+  {
+   "slug": "air-bubble",
+   "title": "凝膠氣泡原因：美甲表面凹凸的預防與修補",
+   "url": "troubleshoot/mistakes/air-bubble.html",
+   "cat": "NailPut專欄 › 新手失誤",
+   "tags": [
+    "氣泡",
+    "凝膠",
+    "上色",
+    "失誤"
+   ],
+   "difficulty": "中階",
+   "updated": "2026-10-11",
+   "summary": "凝膠表面氣泡多半是攪拌太用力、上膠太快，把空氣裹進膠裡。",
+   "chapter": "troubleshoot",
+   "sub": "mistakes"
+  },
+  {
+   "slug": "shrinkage",
+   "title": "凝膠縮膠原因：邊緣內縮的預防與改善方法",
+   "url": "troubleshoot/mistakes/shrinkage.html",
+   "cat": "NailPut專欄 › 新手失誤",
+   "tags": [
+    "縮膠",
+    "收縮",
+    "邊緣",
+    "厚薄"
+   ],
+   "difficulty": "進階",
+   "updated": "2026-10-11",
+   "summary": "縮膠是膠照燈後往內退、邊緣露出真甲，多半是膠塗太厚或沒包邊。",
+   "chapter": "troubleshoot",
+   "sub": "mistakes"
+  },
+  {
+   "slug": "gel-vs-acrylic",
+   "title": "凝膠vs水晶比較：新手選哪種美甲系統",
+   "url": "troubleshoot/compare/gel-vs-acrylic.html",
+   "cat": "NailPut專欄 › 技法對照",
+   "tags": [
+    "凝膠",
+    "水晶",
+    "比較",
+    "系統"
+   ],
+   "difficulty": "中階",
+   "updated": "2026-10-11",
+   "summary": "凝膠照燈好上手、香氣低，水晶靠粉液自乾、更硬挺；新手先學凝膠，要耐操長甲再練水晶。",
+   "chapter": "troubleshoot",
+   "sub": "compare"
+  },
+  {
+   "slug": "led-vs-uv",
+   "title": "LED燈vsUV燈比較：美甲光療燈怎麼選",
+   "url": "troubleshoot/compare/led-vs-uv.html",
+   "cat": "NailPut專欄 › 技法對照",
+   "tags": [
+    "LED",
+    "UV",
+    "光療燈",
+    "比較"
+   ],
+   "difficulty": "中階",
+   "updated": "2026-10-11",
+   "summary": "LED燈vsUV燈比較：美甲光療燈怎麼選是美甲裡「買燈比較」的一種做法，靠「LED快但挑膠」一眼認得出；它是通用流派的常見技巧，適合中階階段學習。",
+   "chapter": "troubleshoot",
+   "sub": "compare"
+  },
+  {
+   "slug": "hard-vs-soft",
+   "title": "硬膠vs軟膠差別：延甲凝膠選購指南",
+   "url": "troubleshoot/compare/hard-vs-soft.html",
+   "cat": "NailPut專欄 › 技法對照",
+   "tags": [
+    "硬膠",
+    "軟膠",
+    "延甲",
+    "比較"
+   ],
+   "difficulty": "中階",
+   "updated": "2026-10-11",
+   "summary": "硬膠vs軟膠差別：延甲凝膠選購指南是美甲裡「延甲比較」的一種做法，靠「硬膠撐力強」一眼認得出；它是通用流派的常見技巧，適合中階階段學習。",
+   "chapter": "troubleshoot",
+   "sub": "compare"
+  },
+  {
+   "slug": "extension-vs-tip",
+   "title": "延甲vs甲片比較：指甲延長方式怎麼選",
+   "url": "troubleshoot/compare/extension-vs-tip.html",
+   "cat": "NailPut專欄 › 技法對照",
+   "tags": [
+    "延甲",
+    "甲片",
+    "延長",
+    "比較"
+   ],
+   "difficulty": "入門",
+   "updated": "2026-10-11",
+   "summary": "延甲vs甲片比較：指甲延長方式怎麼選是美甲裡「延長方式」的一種做法，靠「延甲一體」一眼認得出；它是通用流派的常見技巧，適合入門階段學習。",
+   "chapter": "troubleshoot",
+   "sub": "compare"
+  },
+  {
+   "slug": "choose-by-lifestyle",
+   "title": "美甲做法怎麼選？依生活型態挑款式",
+   "url": "troubleshoot/choose/choose-by-lifestyle.html",
+   "cat": "NailPut專欄 › 選用指南",
+   "tags": [
+    "生活方式",
+    "選款",
+    "持久",
+    "穿戴"
+   ],
+   "difficulty": "入門",
+   "updated": "2026-10-11",
+   "summary": "美甲做法怎麼選？依生活型態挑款式是美甲裡「挑對款式」的一種做法，靠「常做事要耐磨」一眼認得出；它是通用流派的常見技巧，適合入門階段學習。",
+   "chapter": "troubleshoot",
+   "sub": "choose"
+  },
+  {
+   "slug": "choose-by-nailtype",
+   "title": "薄甲易斷怎麼辦？依甲況選美甲做法",
+   "url": "troubleshoot/choose/choose-by-nailtype.html",
+   "cat": "NailPut專欄 › 選用指南",
+   "tags": [
+    "甲況",
+    "薄甲",
+    "易斷",
+    "矯正"
+   ],
+   "difficulty": "中階",
+   "updated": "2026-10-11",
+   "summary": "薄甲易斷怎麼辦？依甲況選美甲做法是美甲裡「特殊甲況」的一種做法，靠「薄甲用軟膠」一眼認得出；它是通用流派的常見技巧，適合中階階段學習。",
+   "chapter": "troubleshoot",
+   "sub": "choose"
+  },
+  {
+   "slug": "choose-by-style",
+   "title": "日系韓系歐美美甲差異：依風格選款式",
+   "url": "troubleshoot/choose/choose-by-style.html",
+   "cat": "NailPut專欄 › 選用指南",
+   "tags": [
+    "風格",
+    "日系",
+    "韓系",
+    "歐美"
+   ],
+   "difficulty": "入門",
+   "updated": "2026-10-11",
+   "summary": "日系韓系歐美美甲差異：依風格選款式是美甲裡「選款式」的一種做法，靠「要精緻選日系」一眼認得出；它是通用流派的常見技巧，適合入門階段學習。",
+   "chapter": "troubleshoot",
+   "sub": "choose"
+  }
+ ]
+}
